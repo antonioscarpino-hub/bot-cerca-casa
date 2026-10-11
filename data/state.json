@@ -2,7 +2,16 @@
  "chats": [
   "566349391"
  ],
- "filters": {},
+ "filters": {
+  "566349391": {
+   "comuni": [],
+   "features": [
+    "giardino"
+   ],
+   "max_price": 100000,
+   "min_mq": null
+  }
+ },
  "last_scrape": "2026-10-11T19:45:39+00:00",
  "listings": {
   "005d7a16686e6892": {
@@ -6044,5 +6053,5 @@
   "Valdarno Affari",
   "Valdarno Casa"
  ],
- "telegram_offset": 480803533
+ "telegram_offset": 480803535
 }
