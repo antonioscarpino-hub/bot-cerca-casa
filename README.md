@@ -18,7 +18,7 @@ Il bot tiene solo gli annunci dei comuni seguiti (elenco in `botcasa/config.py`)
 |---|---|
 | `/cerca cavriglia max 250000 mq 80` | cerca tra gli annunci salvati (comune, prezzo massimo e metri minimi sono tutti opzionali) |
 | `/ultimi` | mostra gli ultimi 10 annunci trovati |
-| `/filtro max 300000 mq 70` | manda gli avvisi solo per gli annunci che rispettano il filtro (`/filtro off` lo toglie) |
+| `/filtro max 300000 mq 70 giardino` | manda gli avvisi solo per gli annunci che rispettano il filtro (`/filtro off` lo toglie). Parole riconosciute: giardino, terrazza, balcone, garage, posto auto, piscina, cantina, ascensore, indipendente, villa, rustico, appartamento, vista |
 | `/comuni`, `/fonti`, `/aiuto` | informazioni sul bot |
 
 ## Come gira
