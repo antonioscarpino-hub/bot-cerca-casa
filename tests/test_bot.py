@@ -124,3 +124,21 @@ def test_robots_respected():
     web._robots_cache.clear()
     assert web.allowed_by_robots(Sess(), "https://agenzia.it/annunci/")
     assert not web.allowed_by_robots(Sess(), "https://agenzia.it/privato/x")
+
+
+def test_filter_with_features(tmp_path, monkeypatch):
+    monkeypatch.setattr(config, "TELEGRAM_ALLOWED_CHATS", [])
+    s = Store(str(tmp_path / "state.json"))
+    msg = lambda text: {"chat": {"id": 1}, "text": text}
+    handle(s, msg("/start"), 10)
+    out = handle(s, msg("/filtro max 100000 con giardino"), 10)
+    assert "fino a € 100.000" in out and "con giardino" in out
+    from botcasa.commands import matches_filter
+    flt = s.data["filters"]["1"]
+    assert matches_filter({"price": 95000, "title": "Terratetto con ampio resede", "text": ""}, flt)
+    assert not matches_filter({"price": 95000, "title": "Appartamento al secondo piano", "text": ""}, flt)
+    assert not matches_filter({"price": 150000, "title": "Casa con giardino", "text": ""}, flt)
+    s.add(Listing(url="https://x.it/1", source="X", title="Villetta con giardino", price=90000, comune="Bucine"))
+    s.add(Listing(url="https://x.it/2", source="X", title="Bilocale centro", price=80000, comune="Bucine"))
+    out = handle(s, msg("/cerca bucine giardino"), 10)
+    assert "Villetta" in out and "Bilocale" not in out
