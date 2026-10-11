@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-11T19:45:39+00:00",
+ "last_scrape": "2026-10-11T23:13:18+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -662,6 +662,18 @@
    "title": "Villetta a Schiera Figline e Incisa Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9778-villetta-a-schiera-figline-e-incisa-valdarno-palazzolo-185mq/"
   },
+  "1613dfd2e4cbf9b3": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-11T23:09:38+00:00",
+   "id": "1613dfd2e4cbf9b3",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Villette a schiera in vendita a Montevarchi",
+   "url": "https://www.colli-toscani.com/i-1780-vendita-villette-a-schiera-montevarchi-centro/"
+  },
   "166a1065e9a4e97d": {
    "also_on": [],
    "comune": "Gaiole in Chianti",
@@ -733,6 +745,18 @@
    "text": "VENDITA Terratetto Montevarchi (AR)",
    "title": "VENDITA Terratetto Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=895"
+  },
+  "19c90bc59c48a384": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "19c90bc59c48a384",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Cavriglia (AR)",
+   "title": "VENDITA Appartamento Cavriglia (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=886"
   },
   "19edb7e236bce8de": {
    "also_on": [],
@@ -950,6 +974,18 @@
    "title": "San Giovanni Valdarno (AR) zona Bani 4 vani Rif. 1629 € 160.000,00",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=6376"
   },
+  "23d3d9b425f6a45f": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "23d3d9b425f6a45f",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Cavriglia (AR)",
+   "title": "VENDITA Appartamento Cavriglia (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=802"
+  },
   "23dc02329ca8d631": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -1058,6 +1094,18 @@
    "title": "Vendita 260.000 € Villa Castelfranco Piandiscò - Vaggio 3 Camere 3 Bagni 150 mq",
    "url": "https://www.soges.it/prodotto/villa-in-vendita-a-castelfranco-piandisco-50665/"
   },
+  "27238ee3e1a69d6a": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "27238ee3e1a69d6a",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Casa indipendente Castelfranco di Sopra (AR)",
+   "title": "VENDITA Casa indipendente Castelfranco di Sopra (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=617"
+  },
   "27fd98347590da47": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -1093,6 +1141,18 @@
    "text": "V 2601 Vendita 12 Appartamento ristrutturato a Montevarchi In vendita a Montevarchi Zona Centro In vendita a Montevarchi, nel cuore del centro, proponiamo un appartamento di 75 mq situato al primo piano di un contesto civile. Questo immobile, recentemente ristrutturato, si presenta in ottime condizioni e offre un ambiente accogliente e luminoso. La disposizione interna comprende quattro vani 75 Mq…",
    "title": "Appartamento <span class=condizioni>ristrutturato</span> a Montevarchi",
    "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2560650&language=ita"
+  },
+  "2aa8796c4c19c411": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "2aa8796c4c19c411",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Casa indipendente Bucine (AR)",
+   "title": "VENDITA Casa indipendente Bucine (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=603"
   },
   "2b19284848470796": {
    "also_on": [],
@@ -1348,6 +1408,18 @@
    "title": "Appartamento Figline e Incisa Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9760-appartamento-figline-e-incisa-valdarno-stazione-figline-valdarno-110mq/"
   },
+  "342215296dfdca1e": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "342215296dfdca1e",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Terratetto Reggello (FI)",
+   "title": "VENDITA Terratetto Reggello (FI)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=650"
+  },
   "34c00fea283be46b": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -1420,6 +1492,18 @@
    "title": "dettaglio.php?id=342",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=342"
   },
+  "38197dca8ebaf8b1": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "38197dca8ebaf8b1",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Fienile Pian di Sco (AR)",
+   "title": "VENDITA Fienile Pian di Sco (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=425"
+  },
   "385d6aaa9c05eb5b": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -1491,6 +1575,18 @@
    "text": "Casa Colonica in posizione panoramica a Gaiole in Chianti nuda proprietà 900.000 €",
    "title": "Casa Colonica in posizione panoramica a Gaiole in Chianti nuda proprietà 900.000 €",
    "url": "https://www.chiantipropertygroup.com/immobili/casa-colonica-in-posizione-panoramica-a-gaiole-in-chianti/"
+  },
+  "39cd887bf2e5400e": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-11T23:09:33+00:00",
+   "id": "39cd887bf2e5400e",
+   "mq": 97,
+   "price": 215000,
+   "source": "Abita",
+   "text": "10 9762 Villetta a Schiera Reggello 100 m 2 con giardino privato e posto auto RIF. 9762 Reggello – In posizione tranquilla e immersa nel verde, proponiamo caratteristico terratetto di circa 97 mq, ricavato all’interno di un antico fienile in 4 locali 2 camere 1 bagno 100 m 2 1 € 215.000",
+   "title": "Villetta a Schiera Reggello",
+   "url": "https://www.abitaimmobiliare.com/immobili/9762-villetta-a-schiera-reggello-centro-100mq/"
   },
   "3a1adf77d32957e9": {
    "also_on": [],
@@ -1744,6 +1840,18 @@
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Monia Gosi 445.000 € Casa semindipendente in vendita a Loro Ci…",
    "url": "https://ideale.remax.it/vendita-casa-semindipendente/loro-ciuffenna/centro-31451018-275"
   },
+  "43252f0e43f6b2c8": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "43252f0e43f6b2c8",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Casa indipendente Cavriglia (AR)",
+   "title": "VENDITA Casa indipendente Cavriglia (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=593"
+  },
   "44b29f7e536b9162": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -1767,6 +1875,18 @@
    "text": "Virtual tour € 280.000 Quadrilocale in vendita San Giovanni Valdarno, Via Pier della Francesca - Oltrarno 4 locali 88 Mq 2 bagni",
    "title": "Virtual tour € 280.000 Quadrilocale in vendita San Giovanni Valdarno, Via Pier della Francesca - Oltrarno 4 locali 88 Mq…",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/san-giovanni-valdarno/appartamenti-in-vendita-61184679"
+  },
+  "46650cc8e71aae8e": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "46650cc8e71aae8e",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Casa indipendente San Giovanni Valdarno (AR)",
+   "title": "VENDITA Casa indipendente San Giovanni Valdarno (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=841"
   },
   "473d7ff2dc8c8825": {
    "also_on": [],
@@ -1815,6 +1935,18 @@
    "text": "VENDITA Appartamento Terranuova Bracciolini (AR)",
    "title": "VENDITA Appartamento Terranuova Bracciolini (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=657"
+  },
+  "48fb48e1fffbaf50": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "48fb48e1fffbaf50",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Fondo commerciale San Giovanni Valdarno (AR)",
+   "title": "VENDITA Fondo commerciale San Giovanni Valdarno (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=571"
   },
   "49095199abc7adb9": {
    "also_on": [],
@@ -1935,6 +2067,18 @@
    "text": "195.000 € Bifamiliare in vendita a San Giovanni Valdarno San Giovanni Valdarno, zona semi-centrale e vicina a tutti servizi, facente parte… Scopri di più",
    "title": "Bifamiliare in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2294/"
+  },
+  "4c609040a75bdc6c": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "4c609040a75bdc6c",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Ufficio Montevarchi (AR)",
+   "title": "VENDITA Ufficio Montevarchi (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=485"
   },
   "4ce18ec8723f9421": {
    "also_on": [],
@@ -2067,6 +2211,18 @@
    "text": "12 9820 Appartamento Loro Ciuffenna 65 m 2 ingresso indipendente RIF. 9820 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 POGGIO DI LORO – CASA CON INGRESSO INDIPENDENTE, TERRAZZA ABITABILE E CANTINA Nel 4 locali 2 camere 1 bagno 65 m 2 € 70.000 Novità",
    "title": "Appartamento Loro Ciuffenna",
    "url": "https://www.abitaimmobiliare.com/immobili/9820-appartamento-loro-ciuffenna-poggio-di-loro-65mq/"
+  },
+  "51fda69c838386b6": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-11T23:09:38+00:00",
+   "id": "51fda69c838386b6",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Casa colonica in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1831-vendita-casa-colonica-reggello-cancelli/"
   },
   "520e9cc629479ad4": {
    "also_on": [],
@@ -2259,6 +2415,18 @@
    "text": "VENDITA Appartamento Figline Valdarno (FI)",
    "title": "VENDITA Appartamento Figline Valdarno (FI)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=512"
+  },
+  "57aaced32a1926af": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "57aaced32a1926af",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Montevarchi (AR)",
+   "title": "VENDITA Appartamento Montevarchi (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=630"
   },
   "58107ef83ddb02f1": {
    "also_on": [],
@@ -2463,6 +2631,18 @@
    "text": "San Giovanni Valdarno (AR) Commerciale Rif. F80 Zona oltrarno, VENDESI bel fondo commerciale con una metratura di 80 mq adatto anche come ufficio o studio professionale, composto da due ambienti…….. 5 Aprile 2014 in Immobli commerciali .",
    "title": "San Giovanni Valdarno (AR) Commerciale Rif. F80",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=763"
+  },
+  "620262187305c8e0": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "620262187305c8e0",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Reggello (FI)",
+   "title": "VENDITA Appartamento Reggello (FI)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=612"
   },
   "623dc725b7ca3a7a": {
    "also_on": [],
@@ -2862,6 +3042,18 @@
    "title": "Virtual tour € 430.000 Casa indipendente in vendita Reggello, Via Ciro Menotti - Leccio 5 locali 145 Mq 2 bagni",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/reggello/rustici-cascine-case-in-vendita-60819625"
   },
+  "7009739239c7ebaa": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-11T23:13:14+00:00",
+   "id": "7009739239c7ebaa",
+   "mq": null,
+   "price": 260000,
+   "source": "Valdarno Affari",
+   "text": "260.000 € Attico in vendita a Figline e Incisa Valdarno Incisa Valdarno, situato nel centro del paese e facilmente raggiungibile dai servizi,… Scopri di più",
+   "title": "Attico in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2347/"
+  },
   "70c50215ead0eda4": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -2934,6 +3126,18 @@
    "title": "Rif 6118",
    "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2601609&language=ita"
   },
+  "726cc3abe301f10f": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "726cc3abe301f10f",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Porzione di colonica Pian di Sco (AR)",
+   "title": "VENDITA Porzione di colonica Pian di Sco (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=325"
+  },
   "733ab2e5dd63ce46": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -2945,6 +3149,18 @@
    "text": "€ 200.000 Appartamento in vendita a Figline e Incisa Valdarno - Stecco FIGLINENella prima periferia del paese, immerso nel verde ma vicino a tutti i servizi, proponiamo in vendita trilocale al piano terreno con ingresso indipendente... 60 mq 2 Camere 2 Bagni Cod. 16 Dettagli",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.cadesoimmobiliare.it/i-16-vendita-appartamento-figline-e-incisa-valdarno-stecco/"
+  },
+  "73a681e348ae1a56": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-11T23:09:38+00:00",
+   "id": "73a681e348ae1a56",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa singola in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1838-vendita-casa-singola-figline-e-incisa-valdarno-restone/"
   },
   "74485df4fccf008d": {
    "also_on": [],
@@ -3041,6 +3257,18 @@
    "text": "Vendita 190.000 € Appartamento Reggello - Ciliegi 2 Camere 1 Bagno 85 mq",
    "title": "Vendita 190.000 € Appartamento Reggello - Ciliegi 2 Camere 1 Bagno 85 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-50644/"
+  },
+  "7828cf929575e2cb": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "7828cf929575e2cb",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Villa Terranuova Bracciolini (AR)",
+   "title": "VENDITA Villa Terranuova Bracciolini (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=900"
   },
   "78871247bdebc9d6": {
    "also_on": [],
@@ -3281,6 +3509,18 @@
    "text": "VENDITA Appartamento Montevarchi (AR)",
    "title": "VENDITA Appartamento Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=897"
+  },
+  "86e88ee6eda1c478": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-11T23:09:33+00:00",
+   "id": "86e88ee6eda1c478",
+   "mq": null,
+   "price": 160000,
+   "source": "Abita",
+   "text": "6 9812 Appartamento Figline e Incisa Valdarno Complesso La Gaglianella 85 m 2 con ascensore LA GAGLIANELLA – ESCLUSIVA – Nel centro di Figline Valdarno, in una posizione strategica a pochi passi dalla stazione ferroviaria, dal centro commerciale e da 3 locali 2 camere 1 bagno 85 m 2 1 € 160.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9812-appartamento-figline-e-incisa-valdarno-coop-85mq/"
   },
   "8707753d75ed8033": {
    "also_on": [],
@@ -4062,6 +4302,18 @@
    "title": "Virtual tour € 699.000 Villa a schiera in vendita San Giovanni Valdarno, Via Borro al sole - Fornaci 5 locali 165 Mq 3 b…",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/san-giovanni-valdarno/ville-in-vendita-61160875"
   },
+  "a2f9d284f3f8b9b5": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "a2f9d284f3f8b9b5",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Cavriglia (AR)",
+   "title": "VENDITA Appartamento Cavriglia (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=672"
+  },
   "a303e9ff71298555": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -4277,6 +4529,18 @@
    "text": "Vendita 200.000 € Appartamento Reggello CASCIA : Vicinanze Reggello Appartamento in gradevole e recente contesto - P. 1Â° e 2Â° in ottime co... Vedi Dettagli",
    "title": "cerca Reggello APPARTAMENTO VENDITA",
    "url": "https://www.immobiliaresandonato.it/immobile-reggello-_vendita_appartamento_74262.html"
+  },
+  "af2b35dc54c9484e": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "af2b35dc54c9484e",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Cavriglia (AR)",
+   "title": "VENDITA Appartamento Cavriglia (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=306"
   },
   "af4e0deff2978d3d": {
    "also_on": [],
@@ -4494,6 +4758,18 @@
    "title": "Virtual tour € 149.000 Quadrilocale in vendita San Giovanni Valdarno, Via montecarlo 4 locali 70 Mq 1 bagno",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/san-giovanni-valdarno/appartamenti-in-vendita-61232748"
   },
+  "b729e718f182b527": {
+   "also_on": [],
+   "comune": "Gaiole in Chianti",
+   "first_seen": "2026-10-11T23:09:38+00:00",
+   "id": "b729e718f182b527",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Gaiole in Chianti",
+   "url": "https://www.colli-toscani.com/i-1764-vendita-casa-colonica-gaiole-in-chianti/"
+  },
   "b72d30928accc8bb": {
    "also_on": [],
    "comune": "Greve in Chianti",
@@ -4709,6 +4985,18 @@
    "text": "25 9786 Villetta a Schiera Laterina Pergine Valdarno NOSTRA ESCLUSIVA 100 m 2 con giardino privato e garage RIF. 9786 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 LATERINA Vendiamo in ESCLUSIVA un bellissimo appartamento in villetta a schiera, in 4 locali 2 camere 1 bagno 100 m 2 1 € 170.000 Novità",
    "title": "Villetta a Schiera Laterina Pergine Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9786-villetta-a-schiera-laterina-pergine-valdarno-laterina-100mq/"
+  },
+  "bcf524cb0706743e": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "bcf524cb0706743e",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Terratetto Loro Ciuffenna (AR)",
+   "title": "VENDITA Terratetto Loro Ciuffenna (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=455"
   },
   "bd3d5dba7d6facd1": {
    "also_on": [],
@@ -5286,6 +5574,18 @@
    "title": "Appartamento tipo 3 con Giardino e Piscina",
    "url": "https://tizianagentile.it/annunci/annuncio-test-8/"
   },
+  "d5e4e557ac4d47be": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "d5e4e557ac4d47be",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Terratetto Reggello (FI)",
+   "title": "VENDITA Terratetto Reggello (FI)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=821"
+  },
   "d812f2f6b82e7417": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -5682,6 +5982,18 @@
    "title": "cerca Bucine CASA SEMI INDIPENDENTE VENDITA",
    "url": "https://www.studiocasauno.com/immobile-bucine-_vendita_casa-semi-indipendente_2894320.html"
   },
+  "e8560aeb891f19dc": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-11T23:09:38+00:00",
+   "id": "e8560aeb891f19dc",
+   "mq": 100,
+   "price": 100000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 359 Commerciale Altro in vendita a Greve in Chianti Greve in Chianti Greve in Chianti Lucolena interessante fondo commerciale di recente costruzione , disposto in un unica stanza completo di bagno e antibagno per un totale di mq 100 ottimo come investimento per affitti da vedere 100 mq 1 Bagni € 100.000 Dettagli",
+   "title": "Commerciale Altro in vendita a Greve in Chianti",
+   "url": "https://www.colli-toscani.com/i-1442-vendita-commerciale-altro-greve-in-chianti/"
+  },
   "e9519a911ab54811": {
    "also_on": [],
    "comune": "Bucine",
@@ -5705,6 +6017,18 @@
    "text": "V 2224 Vendita 31 Rustico casale a Figline e Incisa Valdarno In vendita a Figline e Incisa Valdarno Zona Restone In vendita a Figline e Incisa Valdarno, nella suggestiva zona di Restone, proponiamo un prestigioso rustico casale di 250 mq al primo piano, immerso in un ampio terreno di 10.000 mq. Questa affascinante proprietÃ , caratterizzata da un'architettura tipica della tradizione toscana, offre…",
    "title": "Rustico casale <span class=condizioni></span> a Figline e Incisa Valdarno",
    "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2583655&language=ita"
+  },
+  "eae747340053955e": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "eae747340053955e",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Pian di Sco (AR)",
+   "title": "VENDITA Appartamento Pian di Sco (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=428"
   },
   "eb1045db9d2e718a": {
    "also_on": [],
@@ -5753,6 +6077,18 @@
    "text": "Vendita € 220.000 Figline e Incisa Valdarno 105 mq - 3 Camere - 2 Bagni Appartamento Rif. A5/2105 FIGLINE V. NO (San Biagio) Nostra esclusiva: vendesi appartamento 5 vani composto da ampio ingresso, soggiorno, tinello, cucinotto, 3 camere da letto e doppi servizi oltre 2 terrazze e garage. Piano terzo...",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.europa92immobiliare.it/i-36749477-vendita-appartamento-figline-e-incisa-valdarno/"
+  },
+  "ee226d0488fea4c1": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "ee226d0488fea4c1",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento San Giovanni Valdarno (AR)",
+   "title": "VENDITA Appartamento San Giovanni Valdarno (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=549"
   },
   "eebf154b9b882d5c": {
    "also_on": [],
@@ -5825,6 +6161,18 @@
    "text": "15 9819 Villetta a Schiera Figline e Incisa Valdarno 130 m 2 con giardino privato RIF.9819 Figline, Ponte agli stolli, a 5 km dalla stazione di Figline, in splendida posizione collinare, proponiamo in vendita terratetto con ingresso indipendente 6 locali 2 camere 3 bagni 130 m 2 1 € 170.000 Novità",
    "title": "Villetta a Schiera Figline e Incisa Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9819-villetta-a-schiera-figline-e-incisa-valdarno-ponte-agli-stolli-130mq/"
+  },
+  "f53b621571eb47e0": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "f53b621571eb47e0",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Montevarchi (AR)",
+   "title": "VENDITA Appartamento Montevarchi (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=892"
   },
   "f7bbe97756c2c604": {
    "also_on": [],
@@ -5945,6 +6293,18 @@
    "text": "Vendita 249.000 € Appartamento Rignano sull'Arno - Rosano 2 Camere 1 Bagno 95 mq",
    "title": "Vendita 249.000 € Appartamento Rignano sull'Arno - Rosano 2 Camere 1 Bagno 95 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-rignano-sull-arno-50637/"
+  },
+  "fc544a7da6e84150": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-11T23:12:30+00:00",
+   "id": "fc544a7da6e84150",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Loro Ciuffenna (AR)",
+   "title": "VENDITA Appartamento Loro Ciuffenna (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=556"
   },
   "fdc22ae00e876d15": {
    "also_on": [],
