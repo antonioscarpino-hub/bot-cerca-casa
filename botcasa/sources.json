@@ -1,1 +1,392 @@
-[]
+[
+ {
+  "name": "Abita",
+  "comune": "",
+  "list_urls": [
+   "https://www.abitaimmobiliare.com/annunci/vendita-case/",
+   "https://www.abitaimmobiliare.com/annunci/vendita-case/page/2/",
+   "https://www.abitaimmobiliare.com/annunci/vendita-case/page/3/"
+  ],
+  "detail_regex": "abitaimmobiliare\\.com/immobili/\\d+-[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": "Sito unico per le sedi di Montevarchi, San Giovanni, Figline, Terranuova e Cavriglia (Fasthome)"
+ },
+ {
+  "name": "Colli Toscani Immobiliare",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://www.colli-toscani.com/vendite/",
+   "https://www.colli-toscani.com/"
+  ],
+  "detail_regex": "colli-toscani\\.com/i-\\d+-vendita-[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": "Gestim"
+ },
+ {
+  "name": "Immobiliare Più",
+  "comune": "San Giovanni Valdarno",
+  "list_urls": [
+   "https://www.immobiliarepiu.it/web/immobili.asp?tipo_contratto=V&language=ita"
+  ],
+  "detail_regex": "/web/immobile_dettaglio\\.asp\\?cod_annuncio=\\d+",
+  "enabled": true,
+  "notes": "AgestaWeb: paginazione via JavaScript, si legge solo la prima pagina"
+ },
+ {
+  "name": "Studio Casa Uno",
+  "comune": "Montevarchi",
+  "list_urls": [
+   "https://www.studiocasauno.com/elenco_immobili_f.asp?idm=8690&idcau=1",
+   "https://www.studiocasauno.com/elenco_immobili_f.asp?start=11&idcau=1&inv="
+  ],
+  "detail_regex": "studiocasauno\\.com/immobile-[^\\\"'\\s]*?_vendita_[a-z-]+_\\d+\\.html$",
+  "enabled": true,
+  "notes": "Kiwi / 1clickimmobiliare"
+ },
+ {
+  "name": "Centro Immobiliare Valdarno",
+  "comune": "",
+  "list_urls": [
+   "https://centroimmobiliare.com/settore_immobili/vendita/",
+   "https://centroimmobiliare.com/"
+  ],
+  "detail_regex": "centroimmobiliare\\.com/immobili/[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": "Sito unico per Montevarchi, San Giovanni e Terranuova; elenco caricato in parte via JavaScript"
+ },
+ {
+  "name": "Tecnocasa Studio Valdarno",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://figlineeincisavaldarno1.tecnocasa.it/immobili-in-vendita"
+  ],
+  "detail_regex": "tecnocasa\\.it/[a-z0-9-]+/[a-z-]+-in-vendita-\\d+$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Tecnocasa Impresa Valdarno",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://figlineeincisavaldarno1.tecnocasaimpresa.it/immobili-in-vendita",
+   "https://figlineeincisavaldarno1.tecnocasaimpresa.it/immobili-in-vendita/pag-2"
+  ],
+  "detail_regex": "tecnocasaimpresa\\.it/[a-z0-9-]+/[a-z-]+-in-vendita-\\d+$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "RE/MAX Ideale 2",
+  "comune": "San Giovanni Valdarno",
+  "list_urls": [
+   "https://ideale.remax.it/vendita-case?agencyId=338bba68-03d8-479c-8a41-fc4a69e10948",
+   "https://ideale.remax.it/vendita-case?agencyId=338bba68-03d8-479c-8a41-fc4a69e10948&page=2"
+  ],
+  "detail_regex": "remax\\.it/vendita-[a-z-]+/[a-z0-9-]+/[a-z0-9-]+-\\d+-\\d+$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Bruschetini Immobiliare",
+  "comune": "Castelfranco Piandiscò",
+  "list_urls": [
+   "https://immobiliarebruschetini.it/appartamenti-vendita-immobiliare-castelfranco/"
+  ],
+  "detail_regex": "^$",
+  "enabled": false,
+  "notes": "Disattivata: robots.txt chiede di non leggere il sito"
+ },
+ {
+  "name": "Immobiliare Chianti (A. Lapucci)",
+  "comune": "Radda in Chianti",
+  "list_urls": [
+   "https://immobiliarechianti.it/proposte-immobiliari/"
+  ],
+  "detail_regex": "^$",
+  "enabled": false,
+  "notes": "Disattivata: elenco caricato via JavaScript o non raggiungibile"
+ },
+ {
+  "name": "Case nel Chianti - Studio Millennium",
+  "comune": "Greve in Chianti",
+  "list_urls": [
+   "https://millenniumstudio.agenzie.casa.it/vendita/"
+  ],
+  "detail_regex": "^$",
+  "enabled": false,
+  "notes": "Disattivata: elenco caricato via JavaScript o non raggiungibile"
+ },
+ {
+  "name": "My Tuscany Home (Rossi Massimo)",
+  "comune": "Castelfranco Piandiscò",
+  "list_urls": [
+   "https://mytuscanyhome.it/immobili?id=2&view=agentproperties"
+  ],
+  "detail_regex": "^$",
+  "enabled": false,
+  "notes": "Disattivata: robots.txt chiede di non leggere il sito"
+ },
+ {
+  "name": "Prins Tuscan Properties",
+  "comune": "Bucine",
+  "list_urls": [
+   "https://prinstuscanproperties.com/"
+  ],
+  "detail_regex": "prinstuscanproperties\\.com/properties/[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Tecnocasa Studio San Giovanni Valdarno",
+  "comune": "San Giovanni Valdarno",
+  "list_urls": [
+   "https://sangiovannivaldarno1.tecnocasa.it/immobili-in-vendita",
+   "https://sangiovannivaldarno1.tecnocasa.it/immobili-in-vendita/pag-2"
+  ],
+  "detail_regex": "tecnocasa\\.it/[a-z0-9-]+/[a-z-]+-in-vendita-\\d+$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Real Estate di Tiziana Gentile",
+  "comune": "San Giovanni Valdarno",
+  "list_urls": [
+   "https://tizianagentile.it/immobili/"
+  ],
+  "detail_regex": "tizianagentile\\.it/annunci/[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Armando Becattini Immobiliare",
+  "comune": "San Giovanni Valdarno",
+  "list_urls": [
+   "https://www.armandobecattiniimmobiliare.it/?cat=4",
+   "https://www.armandobecattiniimmobiliare.it/?cat=5",
+   "https://www.armandobecattiniimmobiliare.it/?cat=6",
+   "https://www.armandobecattiniimmobiliare.it/?cat=7",
+   "https://www.armandobecattiniimmobiliare.it/?cat=8",
+   "https://www.armandobecattiniimmobiliare.it/?cat=9",
+   "https://www.armandobecattiniimmobiliare.it/?cat=10"
+  ],
+  "detail_regex": "armandobecattiniimmobiliare\\.it/\\?p=\\d+$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "BluStudio Immobiliare",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://www.blustudioimmobiliare.it/elenco_immobili_f.asp?ordinaper=D&mac1=1"
+  ],
+  "detail_regex": "blustudioimmobiliare\\.it/[A-Za-z0-9'-]+_\\d+\\.html$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "CA.DE.SO. Immobiliare",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://www.cadesoimmobiliare.it/immobili-in-vendita/"
+  ],
+  "detail_regex": "cadesoimmobiliare\\.it/i-\\d+-vendita-[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": "Non verificata dal censimento (sito non raggiungibile in prova)"
+ },
+ {
+  "name": "CambriGroup Servizi Immobiliari",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://www.cambrigroup.it/"
+  ],
+  "detail_regex": "cambrigroup\\.it/property/[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Immobiliare Case di Toscana (E. Martini)",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://www.caseditoscana.com/ita/tipologia/in-vendita/2"
+  ],
+  "detail_regex": "caseditoscana\\.com/ita/immobile/[0-9-]+/\\d+-[a-z0-9-]+\\.html$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Chianti Property Group",
+  "comune": "Gaiole in Chianti",
+  "list_urls": [
+   "https://www.chiantipropertygroup.com/immobili/"
+  ],
+  "detail_regex": "chiantipropertygroup\\.com/immobili/[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Easy House",
+  "comune": "Loro Ciuffenna",
+  "list_urls": [
+   "https://www.easyhouseimmobiliare.it/immobili.php?Lang=it"
+  ],
+  "detail_regex": "^$",
+  "enabled": false,
+  "notes": "Disattivata: elenco caricato via JavaScript o non raggiungibile"
+ },
+ {
+  "name": "Europa 92 Immobiliare Centro Casa",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://www.europa92immobiliare.it/vendita/"
+  ],
+  "detail_regex": "europa92immobiliare\\.it/i-\\d+-vendita-[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": "Non verificata dal censimento (sito non raggiungibile in prova)"
+ },
+ {
+  "name": "Immobiliare Firenze e Dintorni (Becattini)",
+  "comune": "Rignano sull'Arno",
+  "list_urls": [
+   "https://www.immobiliare-firenze.com/it/immobili.php"
+  ],
+  "detail_regex": "immobiliare-firenze\\.com/it/dettaglio\\.php\\?id=\\d+",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Studio Immobiliare Balsimelli",
+  "comune": "Terranuova Bracciolini",
+  "list_urls": [
+   "https://www.immobiliarebalsimelli.net/immobili/",
+   "https://www.immobiliarebalsimelli.net/immobili/?&start=12"
+  ],
+  "detail_regex": "immobiliarebalsimelli\\.net/immobili/[a-z0-9-]+-\\d+-\\d+$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Studio Immobiliare Becucci Bechelli",
+  "comune": "Greve in Chianti",
+  "list_urls": [
+   "https://www.immobiliarebecucci.it/elenco",
+   "https://www.immobiliarebecucci.it/elenco?Pagina=2"
+  ],
+  "detail_regex": "immobiliarebecucci\\.it/dettaglio/Vendita_[A-Za-z0-9_]+/\\d+$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Studio San Donato",
+  "comune": "Rignano sull'Arno",
+  "list_urls": [
+   "https://www.immobiliaresandonato.it/elenco_immobili_f.asp?idm=1634&idcau=1",
+   "https://www.immobiliaresandonato.it/elenco_immobili_f.asp?start=13&ordinaper=D&idcau=1&inv=#elenco_imm"
+  ],
+  "detail_regex": "immobiliaresandonato\\.it/immobile-[^\\\"'\\s]*?_vendita_[a-z-]+_\\d+\\.html$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Immobiliare Zaffira",
+  "comune": "San Giovanni Valdarno",
+  "list_urls": [
+   "https://www.immobiliarezaffira.com/sito/offerteImmobiliari.asp"
+  ],
+  "detail_regex": "immobiliarezaffira\\.com/sito/SchedaImmobile\\.asp\\?id=\\d+",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Next Immobiliare",
+  "comune": "Rignano sull'Arno",
+  "list_urls": [
+   "https://www.nextimmobiliare.it/0002/it/immobili.asp?tp=immobili-vendita"
+  ],
+  "detail_regex": "nextimmobiliare\\.it/0002/it/dettaglio\\.asp\\?idm=[0-9-]+",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Marinella Coppi Italian Real Estate",
+  "comune": "Greve in Chianti",
+  "list_urls": [
+   "https://www.real-estate-toscana.com/web/immobili.asp?tipo_contratto=V&language=ita"
+  ],
+  "detail_regex": "/web/immobile_dettaglio\\.asp\\?cod_annuncio=\\d+",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Soges",
+  "comune": "",
+  "list_urls": [
+   "https://www.soges.it/i-nostri-immobili/",
+   "https://www.soges.it/i-nostri-immobili/page/2/"
+  ],
+  "detail_regex": "soges\\.it/prodotto/[a-z0-9-]+-in-vendita-[a-z0-9-]+-\\d+/?$",
+  "enabled": true,
+  "notes": "Sito unico per tutte le sedi Soges"
+ },
+ {
+  "name": "Studio 21 Immobiliare",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://www.studio21immobiliare.it/immobili/vendita-case/",
+   "https://www.studio21immobiliare.it/immobili/vendita-case/page/2/"
+  ],
+  "detail_regex": "studio21immobiliare\\.it/immobile/\\d+-[a-z0-9-]+/?$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Studio Ciccarelli & Partner",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://www.studiociccarelli.com/web/immobili.asp?tipo_contratto=V&language=ita"
+  ],
+  "detail_regex": "/web/immobile_dettaglio\\.asp\\?cod_annuncio=\\d+",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Studio Immobiliare Anna Maria (Martucci)",
+  "comune": "San Giovanni Valdarno",
+  "list_urls": [
+   "https://www.tdsimmobiliare.it/web/immobili.asp?tipo_contratto=V&language=ita"
+  ],
+  "detail_regex": "/web/immobile_dettaglio\\.asp\\?cod_annuncio=\\d+",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Toskana.it by Studio Montagliari",
+  "comune": "Greve in Chianti",
+  "list_urls": [
+   "https://www.toskana.it/index.php?file=immobili"
+  ],
+  "detail_regex": "toskana\\.it/proprieta_in_toscana/\\d+/[a-z0-9-]+",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Valdarno Affari",
+  "comune": "San Giovanni Valdarno",
+  "list_urls": [
+   "https://www.valdarnoaffari.net/soluzioni-immobiliari-in-valdarno/",
+   "https://www.valdarnoaffari.net/soluzioni-immobiliari-in-valdarno/page/2/"
+  ],
+  "detail_regex": "valdarnoaffari\\.net/immobili/immobile-rif-\\d+/?$",
+  "enabled": true,
+  "notes": ""
+ },
+ {
+  "name": "Valdarno Casa",
+  "comune": "Figline e Incisa Valdarno",
+  "list_urls": [
+   "https://www.valdarnocasa.it/web/immobili.asp?tipo_contratto=V&language=ita"
+  ],
+  "detail_regex": "/web/immobile_dettaglio\\.asp\\?cod_annuncio=\\d+",
+  "enabled": true,
+  "notes": ""
+ }
+]

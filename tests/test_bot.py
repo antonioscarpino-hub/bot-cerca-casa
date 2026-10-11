@@ -108,3 +108,19 @@ def test_sources_json_is_valid():
     for src in load_sources():
         re.compile(src.detail_regex)
         assert src.list_urls and all(u.startswith("http") for u in src.list_urls)
+
+
+def test_robots_respected():
+    from botcasa.sources import web
+
+    class Resp:
+        status_code = 200
+        text = "User-agent: *\nDisallow: /privato/\n"
+
+    class Sess:
+        def get(self, url, timeout=None):
+            return Resp()
+
+    web._robots_cache.clear()
+    assert web.allowed_by_robots(Sess(), "https://agenzia.it/annunci/")
+    assert not web.allowed_by_robots(Sess(), "https://agenzia.it/privato/x")

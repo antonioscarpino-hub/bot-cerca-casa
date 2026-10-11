@@ -10,7 +10,8 @@ import re
 import time
 from dataclasses import dataclass, field
 from typing import Iterable, List
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
+from urllib.robotparser import RobotFileParser
 
 import requests
 from bs4 import BeautifulSoup
@@ -36,6 +37,9 @@ class WebSource:
     def fetch(self, session: requests.Session) -> List[Listing]:
         found = {}
         for url in self.list_urls:
+            if not allowed_by_robots(session, url):
+                log.info("%s: robots.txt chiede di non leggere %s, salto", self.name, url)
+                continue
             try:
                 resp = session.get(url, timeout=config.REQUEST_TIMEOUT, headers=self.extra_headers)
                 resp.raise_for_status()
@@ -46,6 +50,23 @@ class WebSource:
                 found.setdefault(listing.id, listing)
             time.sleep(1.5)  # gentile con i siti delle agenzie
         return list(found.values())
+
+
+_robots_cache = {}
+
+
+def allowed_by_robots(session: requests.Session, url: str) -> bool:
+    """Rispetta il robots.txt del sito. Se il file non è leggibile, si considera permesso."""
+    root = "{0.scheme}://{0.netloc}".format(urlparse(url))
+    if root not in _robots_cache:
+        rp = RobotFileParser()
+        try:
+            r = session.get(root + "/robots.txt", timeout=config.REQUEST_TIMEOUT)
+            rp.parse(r.text.splitlines() if r.status_code == 200 else [])
+        except requests.RequestException:
+            rp.parse([])
+        _robots_cache[root] = rp
+    return _robots_cache[root].can_fetch(config.USER_AGENT, url)
 
 
 def parse_list_page(html: str, base_url: str, source: WebSource) -> Iterable[Listing]:
