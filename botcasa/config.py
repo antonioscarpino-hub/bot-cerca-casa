@@ -39,6 +39,7 @@ REQUEST_TIMEOUT = 25
 def normalize(text: str) -> str:
     text = unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode()
     text = re.sub(r"[^a-z0-9'.]+", " ", text.lower())
+    text = re.sub(r"\.(?=\s|$)", " ", text)
     return re.sub(r"\s+", " ", text).strip()
 
 
