@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-11T23:13:18+00:00",
+ "last_scrape": "2026-10-12T02:34:02+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -697,6 +697,18 @@
    "text": "A1078 Vendita 21 Porzione di immoblle con ingresso indipendente In vendita a Montevarchi Zona Mercatale Valdarno nella tranquilla zona di Mercatale Valdarno, proponiamo una casa semi indipendente di 120 mq, disposta su due livelli. L'immobile, da ristrutturare, offre ampi spazi interni con possibilitÃ di realizzare piÃ¹ unitÃ abitative. Allo stato attuale troviamo, al piano terra vari locali tra c…",
    "title": "Porzione di immoblle con ingresso indipendente",
    "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2590488&language=ita"
+  },
+  "16ebd2a495aea444": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-12T02:33:15+00:00",
+   "id": "16ebd2a495aea444",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Pian di Sco (AR)",
+   "title": "VENDITA Appartamento Pian di Sco (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=426"
   },
   "16f6e089c9f962d3": {
    "also_on": [],
@@ -2308,6 +2320,18 @@
    "title": "TOSCANA | Chianti | Tenuta nel cuore del Chianti con casale, fienile e 14ha",
    "url": "https://www.real-estate-toscana.com/web/immobile_dettaglio.asp?cod_annuncio=2577246&language=ita"
   },
+  "546c9033b16b88eb": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-12T02:30:10+00:00",
+   "id": "546c9033b16b88eb",
+   "mq": 380,
+   "price": 350000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 20150 Villa in vendita a Montevarchi Montevarchi VILLA STORICA IN BELLISSIMA POSIZIONE PANORAMICA DISPOSTA SU DUE LIVELLI TRE LATI LIBERA CON CIRCA 10.360 TERRENO LIMITROFO ENTRATA INDIPENDENTE CON VIALETTO ALBERATO CON CANCELLO CARRABILE LA VILA SI PRESENTA CON LE SUE CARATTERISTICHE STORICHE IMMOBILE DI 12 STANZE SI COMPONE: PIANO TERRA SALA CON MOSAICO E STUDIO CHE AFFACCIA SU G…",
+   "title": "Villa in vendita a Montevarchi",
+   "url": "https://www.colli-toscani.com/i-584-vendita-villa-montevarchi/"
+  },
   "54d427c1e12f8a4c": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -2476,6 +2500,18 @@
    "title": "Castelfranco di Sopra (AR) centrale 4 vani Rif. 1609 € 129.000,00",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=5832"
   },
+  "595a06fa8e3b907a": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-12T02:30:10+00:00",
+   "id": "595a06fa8e3b907a",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Cascina/Casale/Masseria in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1844-vendita-cascinacasalemasseria-castelfranco-piandisco/"
+  },
   "59690dbc91e5efc9": {
    "also_on": [],
    "comune": "Greve in Chianti",
@@ -2583,6 +2619,18 @@
    "text": "19 Appartamento Figline e Incisa Valdarno IN EVIDENZA 115 mq ingresso indipendente NOSTRA ESCLUSIVA! – Incisa Valdarno, con ingresso indipendente appartamento di 115 mq circa su due livelli distribuito in 6 ampi vani con doppi servizi e terrazza. 115 mq 6 locali 2 camere 2925 € 170.000 Novità",
    "title": "Appartamento Figline e Incisa Valdarno",
    "url": "https://www.studio21immobiliare.it/immobile/2925-appartamento-figline-e-incisa-valdarno-centro-incisa-in-val-darno-115mq/"
+  },
+  "5dfc03740cbdfaaf": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-12T02:33:15+00:00",
+   "id": "5dfc03740cbdfaaf",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Figline Valdarno (FI)",
+   "title": "VENDITA Appartamento Figline Valdarno (FI)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=343"
   },
   "5f8c76eb0ea26b4f": {
    "also_on": [],
@@ -3006,6 +3054,18 @@
    "title": "Colonica in vendita a Cavriglia",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-714/"
   },
+  "6ec14f3f55eec70c": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-12T02:33:59+00:00",
+   "id": "6ec14f3f55eec70c",
+   "mq": null,
+   "price": 160000,
+   "source": "Valdarno Affari",
+   "text": "160.000 € Casa singola in vendita a Reggello Reggello zona Cancelli vendiamo lotto di terreno edificabile di mq 911 con… Scopri di più",
+   "title": "Casa singola in vendita a Reggello",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1163/"
+  },
   "6f85886af45b145f": {
    "also_on": [],
    "comune": "Gaiole in Chianti",
@@ -3330,6 +3390,18 @@
    "title": "Vendita 140.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 1 Camera 1 Bagno 62 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50649/"
   },
+  "7b6be15602e51df9": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-12T02:30:10+00:00",
+   "id": "7b6be15602e51df9",
+   "mq": 360,
+   "price": 505000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1031 Villette a schiera in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Viale a Monte Figline Valdarno zona residenziale panoramica con visuale a 360 gradi su tutta la montagna. importante fabbricato disposto a terra tetto ,con ottima esposizione al sole Immobile ha una metratura di circa 360mq che permetterebbe dato gli accessi, la suddivisione in due unita abitat…",
+   "title": "Villette a schiera in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1696-vendita-villette-a-schiera-figline-e-incisa-valdarno-viale-a-monte/"
+  },
   "7c48dcb1c70e8096": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -3377,6 +3449,18 @@
    "text": "Locale Commerciale 2 in complesso di Prestigio con reddito San Giovanni Valdarno 80 mq 4 2 230.000€",
    "title": "Locale Commerciale 2 in complesso di Prestigio con reddito",
    "url": "https://tizianagentile.it/annunci/annuncio-test-4/"
+  },
+  "803c5fde4b543e34": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-12T02:33:59+00:00",
+   "id": "803c5fde4b543e34",
+   "mq": null,
+   "price": 20000,
+   "source": "Valdarno Affari",
+   "text": "20.000 € Terreno in vendita a Cavriglia Cavriglia Loc. Meleto, vicino ai servizi, vendiamo terreno agricolo di c.a. 6000… Scopri di più",
+   "title": "Terreno in vendita a Cavriglia",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2351/"
   },
   "80af4dd9f7f196a7": {
    "also_on": [],
@@ -3450,6 +3534,18 @@
    "title": "Splendida villa panoramica con ampio terreno a Loro Ciuffenna ESCLUSIVA",
    "url": "https://centroimmobiliare.com/immobili/splendida-villa-panoramica-con-ampio-terreno-a-loro-ciuffenna-esclusiva/"
   },
+  "84e290ffdfe7bb1f": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-12T02:33:15+00:00",
+   "id": "84e290ffdfe7bb1f",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Pian di Sco (AR)",
+   "title": "VENDITA Appartamento Pian di Sco (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=429"
+  },
   "8575be6d80370859": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -3473,6 +3569,18 @@
    "text": "villetta in vendita a San Giovanni Valdarno 0 490.000 € Vendita",
    "title": "villetta in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2188/"
+  },
+  "8603b212912d6f26": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T02:33:15+00:00",
+   "id": "8603b212912d6f26",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento San Giovanni Valdarno (AR)",
+   "title": "VENDITA Appartamento San Giovanni Valdarno (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=812"
   },
   "861a3adf4cb14839": {
    "also_on": [],
@@ -4277,6 +4385,18 @@
    "text": "VENDITA Complesso colonico Cavriglia (AR)",
    "title": "VENDITA Complesso colonico Cavriglia (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=410"
+  },
+  "a2284325934b640b": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T02:33:15+00:00",
+   "id": "a2284325934b640b",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento San Giovanni Valdarno (AR)",
+   "title": "VENDITA Appartamento San Giovanni Valdarno (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=705"
   },
   "a2372ca3b1b59d39": {
    "also_on": [],
@@ -6054,6 +6174,18 @@
    "title": "Villa con Piscina",
    "url": "https://tizianagentile.it/annunci/villa-con-piscina/"
   },
+  "ece14e617cde1919": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T02:33:59+00:00",
+   "id": "ece14e617cde1919",
+   "mq": null,
+   "price": 198000,
+   "source": "Valdarno Affari",
+   "text": "198.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni Valdarno, in zona Bani vendiamo luminoso appartamento posto al primo… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2183/"
+  },
   "ece1a806deb39036": {
    "also_on": [],
    "comune": "Greve in Chianti",
@@ -6149,6 +6281,30 @@
    "text": "33 Villa Unifamiliare Reggello 310 mq con giardino privato e garage Reggello: In posizione panoramica, a pochi passi dal centro di Reggello, raggiungibile comodamente anche a piedi, proponiamo in vendita una villa di ampia metratura da 310 mq 9 locali 5 camere 2933 € 427.000 Novità",
    "title": "Villa Unifamiliare Reggello",
    "url": "https://www.studio21immobiliare.it/immobile/2933-villa-unifamiliare-reggello-centro-310mq/"
+  },
+  "f137a591de54c5ff": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T02:33:15+00:00",
+   "id": "f137a591de54c5ff",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Capannone San Giovanni Valdarno (AR)",
+   "title": "VENDITA Capannone San Giovanni Valdarno (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=864"
+  },
+  "f2cd19490c20b686": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T02:33:59+00:00",
+   "id": "f2cd19490c20b686",
+   "mq": 150,
+   "price": 210000,
+   "source": "Valdarno Affari",
+   "text": "210.000 € Locale commerciale in vendita a San Giovanni Valdarno San Giovanni V.no ottima posizione, vendiamo fondo commerciale di c.a. 150 mq… Scopri di più",
+   "title": "Locale commerciale in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1721/"
   },
   "f4fb0fb185e2998b": {
    "also_on": [],
@@ -6305,6 +6461,18 @@
    "text": "VENDITA Appartamento Loro Ciuffenna (AR)",
    "title": "VENDITA Appartamento Loro Ciuffenna (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=556"
+  },
+  "fc9b2ab5e65fe623": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-12T02:33:15+00:00",
+   "id": "fc9b2ab5e65fe623",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Terratetto Pian di Sco (AR)",
+   "title": "VENDITA Terratetto Pian di Sco (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=368"
   },
   "fdc22ae00e876d15": {
    "also_on": [],
