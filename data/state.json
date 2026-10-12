@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-12T02:34:02+00:00",
+ "last_scrape": "2026-10-12T09:49:17+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -950,6 +950,18 @@
    "title": "Virtual tour € 339.000 Prezzo aggiornato Villa singola in vendita Loro Ciuffenna, Via Setteponti Levante 7 locali 220 Mq…",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/loro-ciuffenna/ville-in-vendita-61220816"
   },
+  "227a8f08284302bf": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-12T09:45:27+00:00",
+   "id": "227a8f08284302bf",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Casa colonica in vendita a Cavriglia",
+   "url": "https://www.colli-toscani.com/i-1869-vendita-casa-colonica-cavriglia-grimoli/"
+  },
   "234794cc01b2db30": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -1636,6 +1648,18 @@
    "title": "Appartamento <span class=condizioni>ottime condizioni</span> a San Giovanni Valdarno",
    "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2604928&language=ita"
   },
+  "3acee31b829a70d6": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T09:49:13+00:00",
+   "id": "3acee31b829a70d6",
+   "mq": null,
+   "price": 850000,
+   "source": "Valdarno Affari",
+   "text": "850.000 € Villa in vendita a San Giovanni Valdarno SAN GIOVANNI V.NO immediata periferia, vendesi villa indipendente si recente edificazione, composta… Scopri di più",
+   "title": "Villa in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2286/"
+  },
   "3b27c33d3ef11647": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -2272,6 +2296,18 @@
    "title": "PONTE AGLI STOLLI - CARATTERISTICO TERRATETTO RUSTICO",
    "url": "https://www.caseditoscana.com/ita/immobile/0-16/1153-ponte-agli-stolli---caratteristico-terratetto-rustico.html"
   },
+  "52bbe56429cf86f9": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-12T09:45:27+00:00",
+   "id": "52bbe56429cf86f9",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villette a schiera in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1749-vendita-villette-a-schiera-figline-e-incisa-valdarno-centro/"
+  },
   "52e92e73ea31dc1d": {
    "also_on": [],
    "comune": "Greve in Chianti",
@@ -2367,6 +2403,18 @@
    "text": "€ 87.000 Appartamento in vendita a Figline e Incisa Valdarno - centro FIGLINE - CENTRO STORICO Nel cuore del centro storico di Figline, in Corso Mazzini, proponiamo caratteristico appartamento di circa 85 mq, situato al secondo... 92 mq 2 Camere 1 Bagni Cod. 147 Dettagli",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.cadesoimmobiliare.it/i-147-vendita-appartamento-figline-e-incisa-valdarno-centro/"
+  },
+  "556afaa5d0265337": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-12T09:45:27+00:00",
+   "id": "556afaa5d0265337",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-990-vendita-villa-figline-e-incisa-valdarno-gaville/"
   },
   "564a4dfbb48c7122": {
    "also_on": [],
@@ -2788,6 +2836,18 @@
    "title": "VENDITA Appartamento San Giovanni Valdarno (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=894"
   },
+  "64f9cfa78c33afac": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-12T09:48:32+00:00",
+   "id": "64f9cfa78c33afac",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Cavriglia (AR)",
+   "title": "VENDITA Appartamento Cavriglia (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=431"
+  },
   "651fd6edfbc24ab2": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -2931,6 +2991,30 @@
    "text": "",
    "title": "dettaglio.php?id=400",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=400"
+  },
+  "69a464745a2acf80": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T09:48:32+00:00",
+   "id": "69a464745a2acf80",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Abano Terme (PD)",
+   "title": "VENDITA Appartamento Abano Terme (PD)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=832"
+  },
+  "6a780807ef712987": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-12T09:45:27+00:00",
+   "id": "6a780807ef712987",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa singola in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1792-vendita-casa-singola-castelfranco-piandisco/"
   },
   "6aa2131e057e24bc": {
    "also_on": [],
@@ -4158,6 +4242,18 @@
    "title": "VENDITA Casa indipendente Castelfranco di Sopra (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=618"
   },
+  "96f838951f64a7bc": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-12T09:48:32+00:00",
+   "id": "96f838951f64a7bc",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
+   "title": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=175"
+  },
   "9782112930fbd96b": {
    "also_on": [],
    "comune": "Reggello",
@@ -4241,6 +4337,18 @@
    "text": "Vendita 165.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 2 Camere 1 Bagno 65 mq",
    "title": "Vendita 165.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 2 Camere 1 Bagno 65 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50656/"
+  },
+  "9a5d0c563a339632": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-12T09:45:27+00:00",
+   "id": "9a5d0c563a339632",
+   "mq": 143,
+   "price": 98000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 272 Appartamento in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno centro Figline Valdarno centro storico in piccolo condominio appartamento COMPLETAMENTE DA RISTRUTTURARE disposto su tre livelli per un totale di mq 143 circa l'immobile è posto al secondo piano ed e composto da ingresso cucina due camere consecutive bagno al piano superiore sempre cucina due camere c…",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1345-vendita-appartamento-figline-e-incisa-valdarno-centro/"
   },
   "9b92355672faa330": {
    "also_on": [],
@@ -4457,6 +4565,18 @@
    "text": "RIF. 3326 Villa perfettamente ristrutturata con piscina e vista panoramica Vai alla scheda € 3.600.000 Villa perfettamente ristrutturata con piscina e vista panoramica close € 3.600.000",
    "title": "Vai alla scheda",
    "url": "https://www.toskana.it/proprieta_in_toscana/759/villa-perfettamente-ristrutturata-con-piscina-e-vista-panoramica"
+  },
+  "a4de6391ea46406f": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T09:46:23+00:00",
+   "id": "a4de6391ea46406f",
+   "mq": 140,
+   "price": 350000,
+   "source": "RE/MAX Ideale 2",
+   "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 350.000 € Appartamento in vendita a Arezzo, Zona Via Fiorentina Via Sebastaino Fabroni 7 6 loc. 6 locali 140 mq 2 bagni 1° p. 1° piano",
+   "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 350.000 € Appartamento in vendita a Arezzo, Z…",
+   "url": "https://ideale.remax.it/vendita-appartamento/arezzo/prima-periferia-31451060-38"
   },
   "a5e8de97df4e8bf6": {
    "also_on": [],
@@ -5357,6 +5477,18 @@
    "text": "a/2726 Vendita 24 Appartamento a Reggello In vendita a Reggello Zona Prulli RIF:A/2726 Reggello, Montanino, in posizione comoda e ben servita dagli autobus di linea, a breve distanza dallâingresso dellâautostrada A1,nelle vicinanze dei fashion outlet, tra cui The Mall e The Groove, Prada e Gucci .Proponiamo, recente appartamento, sviluppato su due livelli al primo e ultimo 110 Mq - 5 Vani â¬…",
    "title": "Appartamento <span class=condizioni></span> a Reggello",
    "url": "https://www.valdarnocasa.it/web/immobile_dettaglio.asp?cod_annuncio=2597930&language=ita"
+  },
+  "c6586f8116361fcb": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T09:49:13+00:00",
+   "id": "c6586f8116361fcb",
+   "mq": null,
+   "price": 120000,
+   "source": "Valdarno Affari",
+   "text": "120.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni V.no Corso Italia, oggetto unico, in bellissima palazzina antica,… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1630/"
   },
   "c75ce575d0c46be1": {
    "also_on": [],
