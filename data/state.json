@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-12T09:49:17+00:00",
+ "last_scrape": "2026-10-12T19:47:39+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -806,6 +806,18 @@
    "title": "VENDITA Appartamento San Giovanni Valdarno (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=899"
   },
+  "1ceafacc790d5085": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-12T19:43:59+00:00",
+   "id": "1ceafacc790d5085",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Cascina/Casale/Masseria in vendita a Terranuova Bracciolini",
+   "url": "https://www.colli-toscani.com/i-1861-vendita-cascinacasalemasseria-terranuova-bracciolini-castiglion-ubertini/"
+  },
   "1d394ed0bb645fd2": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -1273,6 +1285,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Claudia Baldi 310.000 € Casa semindipendente in vendita a San Giovanni Valdarno, Campagna Via Borro Barulli 7 8 loc. 8 locali 228 mq 2 bagni multipiano Multipiano",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Claudia Baldi 310.000 € Casa semindipendente in vendita a San…",
    "url": "https://ideale.remax.it/vendita-casa-semindipendente/san-giovanni-valdarno/campagna-31451034-130"
+  },
+  "2eadd1bd297ebd45": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-12T19:43:59+00:00",
+   "id": "2eadd1bd297ebd45",
+   "mq": 20,
+   "price": 110000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1143 Casa singola in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Incisa Valdarno Palazzolo interessante terra etto da ristrutturare libero su due lati per un totale di mq 80.L'immobile si dispone in ingresso indipendente corridoio dove troviamo piccolo soggiorno molto luminoso ,bagno ,accesso alla cantina circa 20 mq interrata e in fine alla cucina/soggiorno dove…",
+   "title": "Casa singola in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1808-vendita-casa-singola-figline-e-incisa-valdarno/"
   },
   "2f4d1dbaea88bad3": {
    "also_on": [],
@@ -4086,6 +4110,18 @@
    "title": "Villa Unifamiliare Reggello",
    "url": "https://www.studio21immobiliare.it/immobile/2927-villa-unifamiliare-reggello-centro-440mq/"
   },
+  "905762292bf41745": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-12T19:47:39+00:00",
+   "id": "905762292bf41745",
+   "mq": 164,
+   "price": null,
+   "source": "Valdarno Casa",
+   "text": "a/2729 Vendita 29 Terratetto ottime condizioni a Castelfranco Piandisco In vendita a Castelfranco Piandisco Zona Pian di Sco Rif.A/2729 Castelfranco PiandiscÃ², in zona residenziale nel paese di Pian Di ScÃ², proponiamo bella villa unifamiliare, libera su quattro lati, posta su piÃ¹ livelli, in ottime condizioni generali, dotata di fotovoltaico, pompa di calore, pozzo acqua ed impianto di irrigazi…",
+   "title": "Terratetto <span class=condizioni>ottime condizioni</span> a Castelfranco Piandisco",
+   "url": "https://www.valdarnocasa.it/web/immobile_dettaglio.asp?cod_annuncio=2605342&language=ita"
+  },
   "90589cb88b6f58f2": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -4445,6 +4481,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Villa a schiera in vendita a Reggello, Poggio Giubbiani 4 loc. 4 locali 85 mq 3 bagni 2 livelli Su due livelli",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Villa a schiera in vendita a Reggell…",
    "url": "https://ideale.remax.it/vendita-villa-a-schiera/reggello/poggio-ai-giubbiani-31451005-232"
+  },
+  "9ff9ca3246221c5b": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-12T19:43:59+00:00",
+   "id": "9ff9ca3246221c5b",
+   "mq": 17,
+   "price": 1200000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 0108-3 Azienda Agricola in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno IN POSIZONE PANORAMICA E COLLINARE ZONA TRANQUILLA E SILENZIOSA IMMERSA NEL VERDE DELLE COLLINE FIORENTINE BELLA AZIENDA AGRICOLA CON CIRCA 17.000MQ DI TERRENO CIRCOSTANTE TERRENO PARTE BOSCHIVO PARTE SEMINATIVO OLTRE A VIGNETO CHIANTI FIORENTINO E OLIVETO 1.100PIANTE IL FABBRICATO CENTRALE DI…",
+   "title": "Azienda Agricola in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-701-vendita-azienda-agricola-figline-e-incisa-valdarno/"
   },
   "a00362b870aeec35": {
    "also_on": [],
@@ -5394,6 +5442,18 @@
    "title": "VENDITA Terratetto Bucine (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=702"
   },
+  "c1ef6e009300e2d3": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T19:47:36+00:00",
+   "id": "c1ef6e009300e2d3",
+   "mq": 35,
+   "price": 50000,
+   "source": "Valdarno Affari",
+   "text": "I nostri Immobili 50.000 € Locale commerciale in vendita a San Giovanni Valdarno Affittasi locale commerciale , zona centro , di 35 mq con bagno… Scopri di più 4.400.000 € Casale in vendita a Cavriglia Cavriglia, zona panoramica, vendiamo bellissimo casale in pietra con torre, per un… Scopri di più",
+   "title": "I nostri Immobili",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-664/"
+  },
   "c23fad334a034664": {
    "also_on": [],
    "comune": "Gaiole in Chianti",
@@ -5730,6 +5790,18 @@
    "title": "Virtual tour € 250.000 Negozio in vendita Figline E Incisa Valdarno, Via Giacomo Brodolini - Lagaccioni 4 locali 275 Mq…",
    "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/figline-e-incisa-valdarno/negozio-in-vendita-61095015"
   },
+  "d07e1e91ae316a7e": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T19:47:08+00:00",
+   "id": "d07e1e91ae316a7e",
+   "mq": 75,
+   "price": 160000,
+   "source": "Soges",
+   "text": "Vendita 160.000 € Appartamento San Giovanni Valdarno - Centro 2 Camere 1 Bagno 75 mq",
+   "title": "Vendita 160.000 € Appartamento San Giovanni Valdarno - Centro 2 Camere 1 Bagno 75 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-san-giovanni-valdarno-50669/"
+  },
   "d22976e0e0213641": {
    "also_on": [],
    "comune": "Reggello",
@@ -5945,6 +6017,18 @@
    "text": "Appartamento in vendita a San Giovanni Valdarno 0 169.000 € Vendita",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2383/"
+  },
+  "dd5c5c6f1bdc94f5": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-12T19:46:56+00:00",
+   "id": "dd5c5c6f1bdc94f5",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Montevarchi (AR)",
+   "title": "VENDITA Appartamento Montevarchi (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=581"
   },
   "dd7aebea56c90be5": {
    "also_on": [],
@@ -6197,6 +6281,18 @@
    "text": "Novità € 135.000 Appartamento in vendita a Figline e Incisa Valdarno - centro Nel cuore di Figline, all'interno delle antiche mura del paese, proponiamo in vendita caratteristico appartamento ideale per chi desidera vivere l'atmosfera... 60 mq 1 Camere 2 Bagni Cod. 148 Dettagli",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.cadesoimmobiliare.it/i-148-vendita-appartamento-figline-e-incisa-valdarno-centro/"
+  },
+  "e68eb7a50ad1a33e": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-12T19:47:36+00:00",
+   "id": "e68eb7a50ad1a33e",
+   "mq": null,
+   "price": 20000,
+   "source": "Valdarno Affari",
+   "text": "20.000 € Colonica in vendita a San Giovanni Valdarno San Giovanni V.no zona Fornaci vendiamo ampio garage per tutti tipi di… Scopri di più",
+   "title": "Colonica in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1817/"
   },
   "e7427b50cfca7a49": {
    "also_on": [],
