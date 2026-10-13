@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-12T19:47:39+00:00",
+ "last_scrape": "2026-10-13T02:00:05+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -253,6 +253,18 @@
    "text": "San Giovanni Valdarno (AR) zona centrale 3/4 vani € 93.000,00 Rif. 1598 In zona centrale, ma fuori dal centro storico, vendesi al primo piano di piccolo condominio, luminoso appartamento … 27 Giugno 2023 in 3/4 vani .",
    "title": "San Giovanni Valdarno (AR) zona centrale 3/4 vani € 93.000,00 Rif. 1598",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=5533"
+  },
+  "06319867fc8d1002": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-13T01:56:15+00:00",
+   "id": "06319867fc8d1002",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1207-vendita-villa-figline-e-incisa-valdarno/"
   },
   "06abfe429dc21e3f": {
    "also_on": [],
@@ -2032,6 +2044,18 @@
    "title": "Bifamiliare in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2385/"
   },
+  "49c824292a42c069": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-13T02:00:02+00:00",
+   "id": "49c824292a42c069",
+   "mq": null,
+   "price": 90000,
+   "source": "Valdarno Affari",
+   "text": "90.000 € Attività commerciale in vendita a San Giovanni Valdarno Vendesi negozio di alimentari e gastronomia Zona Valdarno, in via residenziale densamente… Scopri di più",
+   "title": "Attività commerciale in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2216/"
+  },
   "4a0bb4cf9008d7a2": {
    "also_on": [],
    "comune": "Reggello",
@@ -2631,6 +2655,18 @@
    "text": "VENDITA Appartamento Montevarchi (AR)",
    "title": "VENDITA Appartamento Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=156"
+  },
+  "5a2b70b18bf3aa51": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-13T01:56:15+00:00",
+   "id": "5a2b70b18bf3aa51",
+   "mq": 350,
+   "price": 440000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità Cod. 1169 Rustico in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Loppiano, nel comune di Figline e Incisa Valdarno , interessante casa indipendente libera su quattro lati per un totale di circa 350 mq . L'immobile, edificato negli anni '30, si sviluppa su un unico livello (piano terreno rialzato) . Pur necessitando di lavori di ammodernamento, la disposizione su…",
+   "title": "Rustico in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1835-vendita-rustico-figline-e-incisa-valdarno/"
   },
   "5a2eaed133acf31d": {
    "also_on": [],
@@ -3522,6 +3558,18 @@
    "title": "Appartamento <span class=condizioni></span> a Figline e Incisa Valdarno",
    "url": "https://www.valdarnocasa.it/web/immobile_dettaglio.asp?cod_annuncio=2590679&language=ita"
   },
+  "7c4a0559a4779ea9": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-13T02:00:02+00:00",
+   "id": "7c4a0559a4779ea9",
+   "mq": null,
+   "price": 240000,
+   "source": "Valdarno Affari",
+   "text": "240.000 € Studio in vendita a San Giovanni Valdarno San Giovanni V.no centralissimo, con facile possibilità di parcheggio, vendiamo bellissimo ufficio/studio… Scopri di più",
+   "title": "Studio in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2039/"
+  },
   "7d32e80883fb7cd5": {
    "also_on": [],
    "comune": "Loro Ciuffenna",
@@ -4217,6 +4265,18 @@
    "text": "VENDITA Appartamento Loro Ciuffenna (AR)",
    "title": "VENDITA Appartamento Loro Ciuffenna (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=583"
+  },
+  "92cef6b804340b7b": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-13T02:00:02+00:00",
+   "id": "92cef6b804340b7b",
+   "mq": null,
+   "price": 47000,
+   "source": "Valdarno Affari",
+   "text": "47.000 € Annesso agricolo in vendita a San Giovanni Valdarno San Giovanni Valdarno, zona Borro della Madonna, ESCLUSIVA VALDARNO AFFARI, vendiamo annesso… Scopri di più",
+   "title": "Annesso agricolo in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2078/"
   },
   "931db06d4485ba60": {
    "also_on": [],
@@ -5298,6 +5358,18 @@
    "title": "Virtual tour € 140.000 Quadrilocale in vendita Laterina, Via Luigi Pirandello - Casanuova 4 locali 70 Mq 1 bagno",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/laterina/appartamenti-in-vendita-61186295"
   },
+  "bd82e83385121374": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-13T01:59:18+00:00",
+   "id": "bd82e83385121374",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
+   "title": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=707"
+  },
   "be20ef85cb927cc9": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -5586,6 +5658,18 @@
    "title": "MATASSINO - 4 VANI AL PIANO TERRENO CON GARAGE",
    "url": "https://www.caseditoscana.com/ita/immobile/0-4/1152-matassino---4-vani-al-piano-terreno-con-garage.html"
   },
+  "c7fe1bdb869a96e0": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-13T01:56:15+00:00",
+   "id": "c7fe1bdb869a96e0",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Castello in vendita a Greve in Chianti",
+   "url": "https://www.colli-toscani.com/i-1712-vendita-castello-greve-in-chianti-la-panca-dudda/"
+  },
   "c82fbec14afcbaf1": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -5741,6 +5825,18 @@
    "text": "€ 25.000 Negozio in vendita Figline E Incisa Valdarno, Via corso vittorio figline valdarno - Figline Valdarno 1 locale 33 Mq 1 bagno",
    "title": "€ 25.000 Negozio in vendita Figline E Incisa Valdarno, Via corso vittorio figline valdarno - Figline Valdarno 1 locale 3…",
    "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/figline-e-incisa-valdarno/negozio-in-vendita-61065488"
+  },
+  "cd3df646fd1026cc": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-13T01:56:15+00:00",
+   "id": "cd3df646fd1026cc",
+   "mq": 95,
+   "price": 130000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1158 Appartamento in vendita a Castelfranco Piandiscò Castelfranco Piandiscò Pian di Sco centro ad un passo dai principali servizi vendesi appartamento posto al piano primo di piccolo condominio per un totale mq 65 circa .L'immobile si presenta in ottimo stato e si dispone in ingresso cucina -soggiorno, due camere matrimoniali e bagno, una camera attualmente adibita a salone. 95mq…",
+   "title": "Appartamento in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1824-vendita-appartamento-castelfranco-piandisco/"
   },
   "cd5e121f253d24a3": {
    "also_on": [],
@@ -6605,6 +6701,18 @@
    "text": "TRATTATIVA RISERVATA Terranuova B.ni 440 mq 10 7 6",
    "title": "TRATTATIVA RISERVATA",
    "url": "https://tizianagentile.it/annunci/trattativa-riservata/"
+  },
+  "f8c5fcf2ea28e93a": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-13T01:56:15+00:00",
+   "id": "f8c5fcf2ea28e93a",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1834-vendita-casa-colonica-figline-e-incisa-valdarno-ponte-agli-stolli/"
   },
   "f8dfed928d347964": {
    "also_on": [],
