@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-13T02:00:05+00:00",
+ "last_scrape": "2026-10-13T09:20:24+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1166,6 +1166,18 @@
    "title": "Appartamenti-vendita-Figline-Valdarno",
    "url": "https://www.blustudioimmobiliare.it/-Appartamenti-vendita-Figline-Valdarno_2843.html"
   },
+  "29302cfe47081594": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-13T09:20:01+00:00",
+   "id": "29302cfe47081594",
+   "mq": 52,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento Figline e Incisa Valdarno IN EVIDENZA 52 mq con giardino privato NOSTRA ESCLUSIVA – Figline V.no, GAVILLE – in piccolo borgo, terratetto angolare con ingresso indipendente e giardino privato staccato dall’abitazione 52 mq 3 locali 1 camera 2935 € 115.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2935-appartamento-figline-e-incisa-valdarno-gaville-52mq/"
+  },
   "29332ea6e6fd930b": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -1636,6 +1648,18 @@
    "title": "Casa Colonica in posizione panoramica a Gaiole in Chianti nuda proprietà 900.000 €",
    "url": "https://www.chiantipropertygroup.com/immobili/casa-colonica-in-posizione-panoramica-a-gaiole-in-chianti/"
   },
+  "39c0232b8739a626": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-13T09:20:20+00:00",
+   "id": "39c0232b8739a626",
+   "mq": null,
+   "price": 165000,
+   "source": "Valdarno Affari",
+   "text": "165.000 € Terratetto in vendita a San Giovanni Valdarno San Giovanni V.no via San Lorenzo vendiamo IN ESCLUSIVA (in collaborazione con… Scopri di più",
+   "title": "Terratetto in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2367/"
+  },
   "39cd887bf2e5400e": {
    "also_on": [],
    "comune": "Reggello",
@@ -1864,6 +1888,18 @@
    "title": "Splendida Villa in Vendita a Montevarchi – Zona Piscina",
    "url": "https://centroimmobiliare.com/immobili/splendida-villa-in-vendita-a-montevarchi-zona-piscina/"
   },
+  "40f2fde309627bda": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-13T09:20:20+00:00",
+   "id": "40f2fde309627bda",
+   "mq": 80,
+   "price": 85000,
+   "source": "Valdarno Affari",
+   "text": "85.000 € Locale commerciale in vendita a Montevarchi Montevarchi, zona Levanella, vendiamo fondo commerciale di c.a. 80 mq piano terra… Scopri di più",
+   "title": "Locale commerciale in vendita a Montevarchi",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1759/"
+  },
   "4295f21f907b31ca": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -1875,6 +1911,18 @@
    "text": "Cavriglia (AR) Frazione Collinare Terra-Tetto € 350.000,00 Rif 1573 All’interno di caratteristico borgo collinare, vendesi particolare terra-tetto ristrutturato da qualche anno in stile toscano, composto da loggia d’ingresso… 3 Marzo 2022 in Coloniche e porzioni , Senza categoria , Ville e villette .",
    "title": "Cavriglia (AR) Frazione Collinare Terra-Tetto € 350.000,00 Rif 1573",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=4962"
+  },
+  "42bf76fbc3363669": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-13T09:16:55+00:00",
+   "id": "42bf76fbc3363669",
+   "mq": 350,
+   "price": 350000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità Cod. 265 Capannone in vendita a Rignano sull'Arno Rignano sull'Arno Le Valli Rignano sull'Arno interessante capannone semi indipendente con posti auto privati di cica mq 400 possibilità di affitto con riscatto solo con serie garanzie possibilità di acquisito solo da modernizzare ottimo per pelletteria attività artigianali . 🏡 STIAMO CERCANDO IMMOBILI PER I NOSTRI CLIENTI REFERENZ…",
+   "title": "Capannone in vendita a Rignano sull'Arno",
+   "url": "https://www.colli-toscani.com/i-1341-vendita-capannone-rignano-sullarno-le-valli/"
   },
   "42dddf5d812a7f83": {
    "also_on": [],
@@ -1947,6 +1995,18 @@
    "text": "Virtual tour € 280.000 Quadrilocale in vendita San Giovanni Valdarno, Via Pier della Francesca - Oltrarno 4 locali 88 Mq 2 bagni",
    "title": "Virtual tour € 280.000 Quadrilocale in vendita San Giovanni Valdarno, Via Pier della Francesca - Oltrarno 4 locali 88 Mq…",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/san-giovanni-valdarno/appartamenti-in-vendita-61184679"
+  },
+  "460d49a3dff84ca0": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-13T09:16:55+00:00",
+   "id": "460d49a3dff84ca0",
+   "mq": 400,
+   "price": 350000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 856 Cascina/Casale/Masseria in vendita a Reggello Reggello Donnini Reggello Donnini zona collinare panoramica interessane casa colonica poderale settecentesca da ristrutturare preserva ancora il sapore antico con materiali integri .il complesso colonico e disposto in un unica immobiliari una casa colonica di circa 400 mq completa la proprietà il terreno 3500 circa, è possibile acqu…",
+   "title": "Cascina/Casale/Masseria in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1046-vendita-cascinacasalemasseria-reggello-donnini/"
   },
   "46650cc8e71aae8e": {
    "also_on": [],
@@ -3004,6 +3064,18 @@
    "title": "cerca Terranuova Bracciolini CAPANNONE VENDITA",
    "url": "https://www.studiocasauno.com/immobile-terranuova-bracciolini-_vendita_capannone_2892830.html"
   },
+  "67c388ffdb9fe226": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-13T09:20:20+00:00",
+   "id": "67c388ffdb9fe226",
+   "mq": null,
+   "price": 170000,
+   "source": "Valdarno Affari",
+   "text": "170.000 € Casa di campagna in vendita a San Giovanni Valdarno San Giovanni Valdarno, in campagna (lato Fornaci), vendiamo casa di campagna semi-indipendente… Scopri di più",
+   "title": "Casa di campagna in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2368/"
+  },
   "681f0b8072d56d2c": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -3185,6 +3257,18 @@
    "text": "Primo piano Esclusiva Terranuova Bracciolini, Fraz. Cicogna Terranuova Bracciolini Case coloniche A 10 minuti da Terranuova, nei pressi della frazione Cicogna, vendiamo una bella colonica con giardino, annessi e terreno. La colonica si dispone su 2 livelli oltre alla mansarda; al piano terreno si trovano 8 locali ad uso cantina, garage e magazzino, oltre alla centrale termica dell'edificio, per un…",
    "title": "Primo piano Esclusiva Terranuova Bracciolini, Fraz. Cicogna Terranuova Bracciolini Case coloniche A 10 minuti da Terranu…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/terranuova-bracciolini-845-1522"
+  },
+  "6e41811a382d297f": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-13T09:20:20+00:00",
+   "id": "6e41811a382d297f",
+   "mq": 60,
+   "price": 30000,
+   "source": "Valdarno Affari",
+   "text": "30.000 € Fondo Artigianale in vendita a San Giovanni Valdarno San Giovanni V.no Centro Storico vendiamo fondo artigianale di c.a. 60 mq… Scopri di più",
+   "title": "Fondo Artigianale in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1755/"
   },
   "6e6d44abaa73b2b4": {
    "also_on": [],
@@ -3425,6 +3509,18 @@
    "text": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
    "title": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=352"
+  },
+  "75d67c9f89048777": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-13T09:16:55+00:00",
+   "id": "75d67c9f89048777",
+   "mq": 220,
+   "price": 499000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 431 Casa singola in vendita a Greve in Chianti Greve in Chianti Greve In Chianti Lucolena in antico complesso colonico vendiamo porzione di colonica indipendente per un totale di mq 250 circa .L'immobile di recente ristrutturazione si dispone su due livelli e si compone al piano terreno di ampio soggiorno mq 60 circa con camino e cucina abitabile disimpegno lavanderia e bagno al pi…",
+   "title": "Casa singola in vendita a Greve in Chianti",
+   "url": "https://www.colli-toscani.com/i-1559-vendita-casa-singola-greve-in-chianti/"
   },
   "75d6ec5a9c68256c": {
    "also_on": [],
@@ -4842,6 +4938,18 @@
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2378/"
   },
+  "ac419abb9a973207": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-13T09:16:55+00:00",
+   "id": "ac419abb9a973207",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Cascina/Casale/Masseria in vendita a Cavriglia",
+   "url": "https://www.colli-toscani.com/i-1710-vendita-cascinacasalemasseria-cavriglia-campagna/"
+  },
   "acb45ba558bec88a": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -5730,6 +5838,18 @@
    "title": "Ville-in-vendita-Figline-Valdarno",
    "url": "https://www.blustudioimmobiliare.it/-Ville-in-vendita-Figline-Valdarno_2845.html"
   },
+  "cada590a803e25bc": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-13T09:16:55+00:00",
+   "id": "cada590a803e25bc",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Loro Ciuffenna",
+   "url": "https://www.colli-toscani.com/i-1735-vendita-casa-colonica-loro-ciuffenna-poggio-di-loro/"
+  },
   "cb3d910321795405": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -6269,6 +6389,18 @@
    "text": "€ 370.000 Villa in vendita a Figline e Incisa Valdarno - Cesto FIGLINE - VILLA INDIPENDENTE IN VENDITAIn una delle zone più apprezzate del paese, proponiamo in vendita splendida villetta indipendente con giardino... 178 mq 3 Camere 3 Bagni Cod. 145 Dettagli",
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.cadesoimmobiliare.it/i-145-vendita-villa-figline-e-incisa-valdarno-cesto/"
+  },
+  "e1327de2944bb26d": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-13T09:16:51+00:00",
+   "id": "e1327de2944bb26d",
+   "mq": null,
+   "price": 142000,
+   "source": "Abita",
+   "text": "9829 Appartamento Montevarchi 75 m 2 con garage RIF. 9829 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 VENDIAMO ZONA PISCINA APPARTAMENTO COMPLETAMENTE RISTRUTTURATO CON PICCOLO GARAGE E 3 locali 2 camere 1 bagno 75 m 2 1 € 142.000 Novità",
+   "title": "Appartamento Montevarchi",
+   "url": "https://www.abitaimmobiliare.com/immobili/9829-appartamento-montevarchi-piscina-75mq/"
   },
   "e20e89f94a10bac5": {
    "also_on": [],
