@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-13T09:20:24+00:00",
+ "last_scrape": "2026-10-13T17:05:32+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -2104,6 +2104,18 @@
    "title": "Bifamiliare in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2385/"
   },
+  "49b138ac5b059384": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-13T17:05:28+00:00",
+   "id": "49b138ac5b059384",
+   "mq": null,
+   "price": 430000,
+   "source": "Valdarno Affari",
+   "text": "430.000 € villetta in vendita a Figline e Incisa Valdarno Figline Valdarno, ad 1 km dal centro, in zona residenziale e circondata… Scopri di più",
+   "title": "villetta in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2220/"
+  },
   "49c824292a42c069": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -2331,6 +2343,18 @@
    "text": "Rif.: 2/0023 24 media VILLE VILLETTE TERRATETTI - VILLETTA BIFAMILIARE CASTEL SAN NICCOLO' - STAZIONE (AR) in posizione tranquilla e soleggiata vicino a tutti servizi proponiamo villetta bifamiliare di mq.85 diposta al piano terreno e composta da ingresso, tinello con angolo cottura, ampio soggiorno, due camere ... Vani: 4 Mq: 85 Prezzo vendita: â¬ 110.000",
    "title": "CASTEL SAN NICCOLO' - STAZIONE (AR)",
    "url": "https://www.nextimmobiliare.it/0002/it/dettaglio.asp?idm=0002-2-002346122&pag=1&ID_A004=0&ID_A012=0&ID_A016=0&ID_A006=0&ID_A007=0&ID_A008=0&ID_A009=0&ID_A011=0&ID_A056=0&cifra1=0&cifra2=999999999&vani1=0&vani2=9999&superficie1=0&superficie2=99999999"
+  },
+  "509dcf3802a62fda": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-13T17:01:34+00:00",
+   "id": "509dcf3802a62fda",
+   "mq": 320,
+   "price": 370000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 811_1 Casa singola in vendita a Cavriglia Cavriglia Chiantigiana Cavriglia, campagna pressi via Chiantigiana, in zona soleggiata e ben raggiungibile dalla quale si gode bellissima vista suggestiva, inserita in paesaggio agreste bucolico nella massima privacy, si vende una bella villa indipendente circondata da ampio terreno / giardino ben curato di circa mq 2000 . La costruzione è…",
+   "title": "Casa singola in vendita a Cavriglia",
+   "url": "https://www.colli-toscani.com/i-1030-vendita-casa-singola-cavriglia-chiantigiana/"
   },
   "5150509c36867c86": {
    "also_on": [],
@@ -3294,6 +3318,18 @@
    "title": "Casa singola in vendita a Reggello",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1163/"
   },
+  "6ecd164eefe69374": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-13T17:02:18+00:00",
+   "id": "6ecd164eefe69374",
+   "mq": 250,
+   "price": 350000,
+   "source": "RE/MAX Ideale 2",
+   "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Monia Gosi 350.000 € Villa singola in vendita a Terranuova Bracciolini, Ville 7 loc. 7 locali 250 mq 1 bagno rialzato Piano rialzato",
+   "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Monia Gosi 350.000 € Villa singola in vendita a Terranuova Bra…",
+   "url": "https://ideale.remax.it/vendita-villa-singola/terranuova-bracciolini/ville-31451018-293"
+  },
   "6f85886af45b145f": {
    "also_on": [],
    "comune": "Gaiole in Chianti",
@@ -3689,6 +3725,18 @@
    "text": "VENDITA Terratetto Cavriglia (AR)",
    "title": "VENDITA Terratetto Cavriglia (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=893"
+  },
+  "7f1ee3a7ce65fa14": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-13T17:05:28+00:00",
+   "id": "7f1ee3a7ce65fa14",
+   "mq": null,
+   "price": 520000,
+   "source": "Valdarno Affari",
+   "text": "520.000 € Villa in vendita a Loro Ciuffenna Loro Ciuffenna, zona San Giustino Valdarno, in posizione panoramica immersa nel verde,… Scopri di più",
+   "title": "Villa in vendita a Loro Ciuffenna",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2336/"
   },
   "7f84453ae05e816c": {
    "also_on": [],
@@ -5970,6 +6018,18 @@
    "title": "Case-in-vendita-Rignano-sullArno",
    "url": "https://www.blustudioimmobiliare.it/-Case-in-vendita-Rignano-sullArno_2855.html"
   },
+  "ce05e7e8509b13fc": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-13T17:01:34+00:00",
+   "id": "ce05e7e8509b13fc",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Cascina/Casale/Masseria in vendita a Greve in Chianti",
+   "url": "https://www.colli-toscani.com/i-1467-vendita-cascinacasalemasseria-greve-in-chianti-lucolena/"
+  },
   "ce4b1cc46ed260cc": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -5981,6 +6041,18 @@
    "text": "1985 Vendita Riferimento 1985 4 Locali 2 Camere 1 Servizi 7994 Mq Appartamento (Montevarchi) MONTEVARCHI (LEVANE) StudioCasaUno propone a Levane composto da soggiorno, cucina, due camere matrim... € 145.000 Vedi Dettagli",
    "title": "cerca Montevarchi APPARTAMENTO VENDITA",
    "url": "https://www.studiocasauno.com/immobile-montevarchi-_vendita_appartamento_2886865.html"
+  },
+  "cf633a0ed3ac3b47": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-13T17:01:34+00:00",
+   "id": "cf633a0ed3ac3b47",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Castello in vendita a Greve in Chianti",
+   "url": "https://www.colli-toscani.com/i-1273-vendita-castello-greve-in-chianti-la-panca-dudda/"
   },
   "cfe03abf35350a29": {
    "also_on": [],
