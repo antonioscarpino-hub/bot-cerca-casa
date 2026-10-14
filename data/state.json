@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-13T21:56:43+00:00",
+ "last_scrape": "2026-10-14T01:05:39+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -85,6 +85,18 @@
    "text": "Villa in vendita Rignano sull'Arno",
    "title": "Villa-in-vendita-Rignano-sullArno",
    "url": "https://www.blustudioimmobiliare.it/-Villa-in-vendita-Rignano-sullArno_2856.html"
+  },
+  "014feab4cb429b84": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-14T01:02:52+00:00",
+   "id": "014feab4cb429b84",
+   "mq": 2000,
+   "price": 480000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1066 Villa in vendita a Castelfranco Piandiscò Castelfranco Piandiscò Castelfranco Prima periferia in zona collinare panoramica ottima esposizione al sole proponiamo in vendita interessante villa costruita anni 80 per un totale di mq 300 circa. La villa si dispone su dure livelli e si compone in :ampio loggiato chiuso da infissi molto luminoso e pratico ,con vista dominante sul Val…",
+   "title": "Villa in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1731-vendita-villa-castelfranco-piandisco/"
   },
   "015fef74766c13d5": {
    "also_on": [],
@@ -2416,6 +2428,18 @@
    "title": "Casa singola in vendita a Cavriglia",
    "url": "https://www.colli-toscani.com/i-1030-vendita-casa-singola-cavriglia-chiantigiana/"
   },
+  "50f4f55571549ba7": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-14T01:02:52+00:00",
+   "id": "50f4f55571549ba7",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Cascina/Casale/Masseria in vendita a Cetona",
+   "url": "https://www.colli-toscani.com/i-1862-vendita-cascinacasalemasseria-cetona-belverde/"
+  },
   "5150509c36867c86": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -2715,6 +2739,18 @@
    "text": "Vendita 225.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 2 Camere 1 Bagno 90 mq",
    "title": "Vendita 225.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 2 Camere 1 Bagno 90 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50654/"
+  },
+  "588cabb0af9a2dcc": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-14T01:02:52+00:00",
+   "id": "588cabb0af9a2dcc",
+   "mq": 250,
+   "price": 650000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 441 Cascina/Casale/Masseria in vendita a Reggello Reggello Reggello Setteponti interessante mulino antico completamente ristrutturato per un totale di mq 250 circa, La proprietà immobiliare è disposta in quattro unità abitative ed è composta dalla casa centrale disposta su tre livelli al piano terra troviamo ingresso soggiorno con camino cucina abitabile sala da pranzo al piano sup…",
+   "title": "Cascina/Casale/Masseria in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1566-vendita-cascinacasalemasseria-reggello/"
   },
   "5894e379460e6cd7": {
    "also_on": [],
@@ -5802,6 +5838,18 @@
    "title": "Colonica-in-vendita-Rignano-sullArno",
    "url": "https://www.blustudioimmobiliare.it/-Colonica-in-vendita-Rignano-sullArno_2852.html"
   },
+  "c537b9664be7d1f6": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-14T01:04:52+00:00",
+   "id": "c537b9664be7d1f6",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Zaffira",
+   "text": "VENDITA Appartamento Montevarchi (AR)",
+   "title": "VENDITA Appartamento Montevarchi (AR)",
+   "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=885"
+  },
   "c55ee60e35c9e741": {
    "also_on": [],
    "comune": "Greve in Chianti",
@@ -6126,6 +6174,18 @@
    "title": "cerca Montevarchi APPARTAMENTO VENDITA",
    "url": "https://www.studiocasauno.com/immobile-montevarchi-_vendita_appartamento_2886865.html"
   },
+  "ce9d2140d8efd22b": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-14T01:02:52+00:00",
+   "id": "ce9d2140d8efd22b",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1528-vendita-villa-figline-e-incisa-valdarno-ponte-rosso/"
+  },
   "cf633a0ed3ac3b47": {
    "also_on": [],
    "comune": "Greve in Chianti",
@@ -6281,6 +6341,18 @@
    "text": "VENDITA Terratetto Reggello (FI)",
    "title": "VENDITA Terratetto Reggello (FI)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=821"
+  },
+  "d6197911837a845a": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-14T01:02:52+00:00",
+   "id": "d6197911837a845a",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Appartamento in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1753-vendita-appartamento-reggello-san-donato-in-fronzano/"
   },
   "d812f2f6b82e7417": {
    "also_on": [],
