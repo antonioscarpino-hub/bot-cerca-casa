@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-14T01:05:39+00:00",
+ "last_scrape": "2026-10-14T06:17:46+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -685,6 +685,18 @@
    "text": "A/2724 Vendita 29 Appartamento indipendente ristrutturato a Reggello In vendita a Reggello Zona Cascia RIF: A/2724 Reggello vicinanze - Porzione di colonica in terratetto, completamente ristrutturata, ingresso indipendente con giardino privato di 200 mq e loggiato. L'immobile posto su due livelli si compone al piano terreno da soggiorno con angolo cottura, ingresso dal loggiato, bagno, camera e 16…",
    "title": "Appartamento indipendente <span class=condizioni>ristrutturato</span> a Reggello",
    "url": "https://www.valdarnocasa.it/web/immobile_dettaglio.asp?cod_annuncio=2591102&language=ita"
+  },
+  "143786b4eb58fad8": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-14T06:17:18+00:00",
+   "id": "143786b4eb58fad8",
+   "mq": 200,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Villetta a Schiera Cavriglia 200 mq con giardino privato e garage San Giovanni V.no, in zona residenziale, villetta terratetto di nuova costruzione di ampia metratura con ingresso indipendente, inserita all’interno di area privata Immobile Classe A1 200 mq 5 locali 3 camere 2939 € 365.000 Novità",
+   "title": "Villetta a Schiera Cavriglia",
+   "url": "https://www.studio21immobiliare.it/immobile/2939-villetta-a-schiera-cavriglia-vacchereccia-200mq/"
   },
   "147a2e43d99b0f95": {
    "also_on": [],
@@ -1466,6 +1478,18 @@
    "title": "€ 800.000 Capannone in vendita Pergine Valdarno, Via Vecchia Aretina - Rimaggio 10 locali 1800 Mq 3 bagni",
    "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/pergine-valdarno/capannone-in-vendita-61196884"
   },
+  "31b5a8b455f238b5": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-14T06:17:18+00:00",
+   "id": "31b5a8b455f238b5",
+   "mq": 200,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Villetta a Schiera Cavriglia 200 mq con giardino privato e garage San Giovanni V.no, in zona residenziale, villetta terratetto di nuova costruzione (capo schiera), di ampia metratura con ingresso indipendente, inserita all’interno Immobile Classe A1 200 mq 5 locali 3 camere 2937 € 385.000 Novità",
+   "title": "Villetta a Schiera Cavriglia",
+   "url": "https://www.studio21immobiliare.it/immobile/2937-villetta-a-schiera-cavriglia-vacchereccia-200mq/"
+  },
   "31bce6e98473272f": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -1852,6 +1876,30 @@
    "title": "Appartamento San Giovanni Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9795-appartamento-san-giovanni-valdarno-oltrarno-90mq/"
   },
+  "3d3c876199bfaa91": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-14T06:17:42+00:00",
+   "id": "3d3c876199bfaa91",
+   "mq": null,
+   "price": 360000,
+   "source": "Valdarno Affari",
+   "text": "360.000 € Colonica in vendita a Terranuova Bracciolini Terranuova Bracciolini/ Loro Ciuffenna zona Setteponti, vendiamo indipendente colonica leopoldina da ristrutturare,… Scopri di più",
+   "title": "Colonica in vendita a Terranuova Bracciolini",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1979/"
+  },
+  "3e29887b1248d6ba": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-14T06:14:41+00:00",
+   "id": "3e29887b1248d6ba",
+   "mq": null,
+   "price": 105000,
+   "source": "Abita",
+   "text": "9827 Appartamento Cavriglia NOSTRA ESCLUSIVA 115 m 2 ingresso indipendente e garage A Castelnuovo dei Sabbioni, in un contesto tranquillo, proponiamo IN ESCLUSIVA un ampio e luminoso appartamento posto al piano terra rialzato, ideale per chi desidera 5 locali 2 camere 2 bagni 115 m 2 1 € 105.000 Consigliato Novità",
+   "title": "Appartamento Cavriglia",
+   "url": "https://www.abitaimmobiliare.com/immobili/9827-appartamento-cavriglia-castelnuovo-dei-sabbioni-115mq/"
+  },
   "3e306cfa48abc924": {
    "also_on": [],
    "comune": "Castelfranco Piandiscò",
@@ -2212,6 +2260,18 @@
    "title": "Ref. TR 99, Property to restore in dominant position",
    "url": "https://prinstuscanproperties.com/properties/ref-tr-99-property-to-restore-in-dominant-position/"
   },
+  "4aad75fd816ec7b4": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-14T06:14:46+00:00",
+   "id": "4aad75fd816ec7b4",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1805-vendita-appartamento-figline-e-incisa-valdarno-centro/"
+  },
   "4af9c9ececde7d82": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -2571,6 +2631,18 @@
    "text": "Vendita â¬ 1.130.000 MC 22111 Casale la Pieve TOSCANA | Chianti | Tenuta nel cuore del Chianti con casale, fienile e 14ha Greve in Chianti Zona San Polo in Chianti GREVE IN CHIANTI | San Polo | Affascinante Tenuta con Casale, Fienile e 14 Ettari di Terreno nel Cuore del Chianti Immersa nel suggestivo paesaggio ... 380 Mq - 13 Vani 5 4",
    "title": "TOSCANA | Chianti | Tenuta nel cuore del Chianti con casale, fienile e 14ha",
    "url": "https://www.real-estate-toscana.com/web/immobile_dettaglio.asp?cod_annuncio=2577246&language=ita"
+  },
+  "546c819f9481f0e7": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-14T06:14:41+00:00",
+   "id": "546c819f9481f0e7",
+   "mq": null,
+   "price": 80000,
+   "source": "Abita",
+   "text": "9824 Appartamento Bucine NOSTRA ESCLUSIVA 250 m 2 ingresso indipendente e garage RIF. 9824 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Bucine, Capannole nel caratteristico borgo, immobile in pietra libero su tre lati 6 locali 5 camere 2 bagni 250 m 2 1 € 80.000 Novità",
+   "title": "Appartamento Bucine",
+   "url": "https://www.abitaimmobiliare.com/immobili/9824-appartamento-bucine-capannole-250mq/"
   },
   "546c9033b16b88eb": {
    "also_on": [],
@@ -3318,6 +3390,18 @@
    "title": "Appartamento in villa in vendita a Loro Ciuffenna",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2391/"
   },
+  "6bbf7a9b6276807a": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-14T06:17:18+00:00",
+   "id": "6bbf7a9b6276807a",
+   "mq": 100,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Villetta a Schiera Cavriglia 100 mq con posto auto San Giovanni V.no, in zona residenziale, appartamento di nuova costruzione posto al piano primo ed ultimo. L’immobile è composto da soggiorno con angolo cottura, Immobile Classe A1 100 mq 3 locali 2 camere 2938 € 210.000 Novità",
+   "title": "Villetta a Schiera Cavriglia",
+   "url": "https://www.studio21immobiliare.it/immobile/2938-villetta-a-schiera-cavriglia-vacchereccia-100mq/"
+  },
   "6bd605609401cbf6": {
    "also_on": [],
    "comune": "Reggello",
@@ -3594,6 +3678,18 @@
    "title": "VENDIAMO PORZIONE DI VILLA LIBERTY",
    "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2561807&language=ita"
   },
+  "74a06ffc23830c74": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-14T06:14:41+00:00",
+   "id": "74a06ffc23830c74",
+   "mq": null,
+   "price": 200000,
+   "source": "Abita",
+   "text": "9816 Unifamiliare Terranuova Bracciolini 560 m 2 con giardino privato e garage RIF. 9816 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Terranuova Bracciolini, nei pressi del centro abitato di Loro Ciuffenna, intero 12 locali 6 camere 5 bagni 560 m 2 1 € 200.000 Novità",
+   "title": "Unifamiliare Terranuova Bracciolini",
+   "url": "https://www.abitaimmobiliare.com/immobili/9816-unifamiliare-terranuova-bracciolini-penna-560mq/"
+  },
   "74b4fc6721aa1927": {
    "also_on": [],
    "comune": "Rignano sull'Arno",
@@ -3678,6 +3774,18 @@
    "title": "Vai alla scheda",
    "url": "https://www.toskana.it/proprieta_in_toscana/731/vendesi-colonica-con-piscina"
   },
+  "76f44459b86d9f49": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-14T06:14:46+00:00",
+   "id": "76f44459b86d9f49",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1730-vendita-casa-colonica-figline-e-incisa-valdarno-cesto/"
+  },
   "7826207ce88272e9": {
    "also_on": [],
    "comune": "Reggello",
@@ -3761,6 +3869,18 @@
    "text": "Vendita 140.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 1 Camera 1 Bagno 62 mq",
    "title": "Vendita 140.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 1 Camera 1 Bagno 62 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50649/"
+  },
+  "7b3a4ee208a22d16": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-14T06:14:41+00:00",
+   "id": "7b3a4ee208a22d16",
+   "mq": null,
+   "price": 188000,
+   "source": "Abita",
+   "text": "9831 Appartamento Figline e Incisa Valdarno 100 m 2 con garage RIF. 9831 Incisa Valdarno – Ampio appartamento di 5 vani vicino alla stazione ferroviaria In posizione strategica, a pochi passi dalla stazione ferroviaria di Incisa 5 locali 3 camere 2 bagni 100 m 2 1 € 188.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9831-appartamento-figline-e-incisa-valdarno-centro-incisa-in-val-darno-100mq/"
   },
   "7b6be15602e51df9": {
    "also_on": [],
@@ -4698,6 +4818,18 @@
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1345-vendita-appartamento-figline-e-incisa-valdarno-centro/"
   },
+  "9b494580efd6ab69": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-14T06:14:41+00:00",
+   "id": "9b494580efd6ab69",
+   "mq": null,
+   "price": 128000,
+   "source": "Abita",
+   "text": "9832 Appartamento Terranuova Bracciolini 95 m 2 RIF. 9832 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Terranuova Bracciolini, in posizione comoda e strategica, a pochi passi dai 4 locali 2 camere 2 bagni 95 m 2 1 € 128.000 Novità",
+   "title": "Appartamento Terranuova Bracciolini",
+   "url": "https://www.abitaimmobiliare.com/immobili/9832-appartamento-terranuova-bracciolini-centro-95mq/"
+  },
   "9b92355672faa330": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -5525,6 +5657,18 @@
    "text": "€ 195.000 Appartamento in vendita a Figline e Incisa Valdarno - Via Petrarca Figline - Via PetrarcaIn zona comoda, fuori dal centro storico ma vicino a tutti i principali servizi, proponiamo in vendita appartamento al primo ed ultimo... 117 mq 5 Camere 1 Bagni Cod. 135 Dettagli",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.cadesoimmobiliare.it/i-135-vendita-appartamento-figline-e-incisa-valdarno-via-petrarca/"
+  },
+  "baebabed236cf5d8": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-14T06:14:46+00:00",
+   "id": "baebabed236cf5d8",
+   "mq": 350,
+   "price": 590000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 435 Villa in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Figline Valdarno centro interessante casa indipendente su 4 lati e zona stazione per un totale di mq 200 circa .L'immobile si dispone in disimpegno ampio soggiorno con camino cucina abitabile zona notte due camere e bagno. Al piano superiore troviamo la mansarda con un cucinotto e sala camera matrimoniale e…",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1564-vendita-villa-figline-e-incisa-valdarno/"
   },
   "bb8e43495d8cfc59": {
    "also_on": [],
@@ -6354,6 +6498,18 @@
    "title": "Appartamento in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1753-vendita-appartamento-reggello-san-donato-in-fronzano/"
   },
+  "d72e50508645c6af": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-14T06:14:46+00:00",
+   "id": "d72e50508645c6af",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Casa colonica in vendita a Rignano sull'Arno",
+   "url": "https://www.colli-toscani.com/i-1783-vendita-casa-colonica-rignano-sullarno-san-donato/"
+  },
   "d812f2f6b82e7417": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -6750,6 +6906,18 @@
    "title": "Colonica in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1817/"
   },
+  "e6ae13ae8feb4056": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-14T06:15:19+00:00",
+   "id": "e6ae13ae8feb4056",
+   "mq": null,
+   "price": 620000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Villa panoramica con piscina e agriturismo in vendita a Cavriglia Cavriglia rif: 8639 300 5 11 9 € 620.000 dettagli",
+   "title": "Villa panoramica con piscina e agriturismo in vendita a Cavriglia",
+   "url": "https://centroimmobiliare.com/immobili/villa-panoramica-con-piscina-e-agriturismo-in-vendita-a-cavriglia/"
+  },
   "e7427b50cfca7a49": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -6990,6 +7158,18 @@
    "title": "Locale commerciale in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1721/"
   },
+  "f3c5f4d2772ab667": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-14T06:14:46+00:00",
+   "id": "f3c5f4d2772ab667",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "appartamento con ingresso indipendente in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1863-vendita-appartamento-con-ingresso-indipendente-reggello-san-donato-in-fronzano/"
+  },
   "f4fb0fb185e2998b": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -7145,6 +7325,18 @@
    "text": "Vendita 249.000 € Appartamento Rignano sull'Arno - Rosano 2 Camere 1 Bagno 95 mq",
    "title": "Vendita 249.000 € Appartamento Rignano sull'Arno - Rosano 2 Camere 1 Bagno 95 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-rignano-sull-arno-50637/"
+  },
+  "fc01bdca46d2e3b9": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-14T06:17:42+00:00",
+   "id": "fc01bdca46d2e3b9",
+   "mq": null,
+   "price": 125000,
+   "source": "Valdarno Affari",
+   "text": "125.000 € Appartamento in vendita a Cavriglia Castelnuovo dei Sabbioni Via Giovanni XXIII, IN ESCLUSIVA VALDARNO AFFARI, vendiamo luminoso… Scopri di più",
+   "title": "Appartamento in vendita a Cavriglia",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2159/"
   },
   "fc544a7da6e84150": {
    "also_on": [],
