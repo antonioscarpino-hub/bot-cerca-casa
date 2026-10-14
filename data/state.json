@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-14T17:25:28+00:00",
+ "last_scrape": "2026-10-14T21:02:09+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -530,6 +530,18 @@
    "title": "Appartamento San Giovanni Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9797-appartamento-san-giovanni-valdarno-oltrarno-85mq/"
   },
+  "0c9e24f3e4f20ffa": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-14T21:01:32+00:00",
+   "id": "0c9e24f3e4f20ffa",
+   "mq": 87,
+   "price": 155000,
+   "source": "Soges",
+   "text": "Vendita 155.000 € Appartamento Reggello - Matassino 2 Camere 1 Bagno 87 mq",
+   "title": "Vendita 155.000 € Appartamento Reggello - Matassino 2 Camere 1 Bagno 87 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-50641/"
+  },
   "0db08ed3207a9bd0": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -649,6 +661,18 @@
    "text": "In vendita 85 mq MONTANINO - DELIZIOSA PORZIONE DI COLONICA RISTRUTTURATA A 5 minuti dal casello A1 di Incisa/Reggello, proponiamo in vendita delizioso … Guarda la zona € 250.000,00",
    "title": "MONTANINO - DELIZIOSA PORZIONE DI COLONICA RISTRUTTURATA",
    "url": "https://www.caseditoscana.com/ita/immobile/0-10/1154-montanino---deliziosa-porzione-di-colonica-ristrutturata.html"
+  },
+  "1258cec198f519e1": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-14T21:02:06+00:00",
+   "id": "1258cec198f519e1",
+   "mq": null,
+   "price": 90000,
+   "source": "Valdarno Affari",
+   "text": "90.000 € Locale commerciale in vendita a San Giovanni Valdarno San Giovanni Valdarno, nel pieno centro storico del paese e con meraviglioso… Scopri di più",
+   "title": "Locale commerciale in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2278/"
   },
   "1264108cae49a03a": {
    "also_on": [],
@@ -3340,6 +3364,18 @@
    "title": "Partner",
    "url": "https://www.blustudioimmobiliare.it/Partner_2837.html"
   },
+  "6888aac6abfd4b47": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-14T20:58:21+00:00",
+   "id": "6888aac6abfd4b47",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa singola in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-606-vendita-casa-singola-figline-e-incisa-valdarno-coop/"
+  },
   "689003113bd5b3a0": {
    "also_on": [],
    "comune": "Castelfranco Piandiscò",
@@ -4325,6 +4361,18 @@
    "text": "Villa in vendita Incisa Valdarno",
    "title": "Villa-in-vendita-Incisa-Valdarno",
    "url": "https://www.blustudioimmobiliare.it/-Villa-in-vendita-Incisa-Valdarno_2851.html"
+  },
+  "88f774819f4f81b7": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-14T21:02:06+00:00",
+   "id": "88f774819f4f81b7",
+   "mq": null,
+   "price": 25000,
+   "source": "Valdarno Affari",
+   "text": "25.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni V.no centrale affittiamo ufficio posto la primo piano composto da… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1889/"
   },
   "88fca8ac2b2bb56f": {
    "also_on": [],
@@ -7013,6 +7061,18 @@
    "text": "A1077 Vendita 15 immobile lbero su tre lati con annesso e terreni In vendita a Terranuova Bracciolini Zona Centro In vendita a Terranuova Bracciolini, proponiamo un interessante immobile, ideale per famiglie o per chi cerca ampi spazi. L'immobile si sviluppa su tre livelli, offrendo una distribuzione degli spazi funzionale e versatile. Al piano terra troviamo un locale uso taverna ed un locale gar…",
    "title": "immobile lbero su tre lati con annesso e terreni",
    "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2584227&language=ita"
+  },
+  "e5d6cc1a1584baf4": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-14T20:58:21+00:00",
+   "id": "e5d6cc1a1584baf4",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Azienda Agricola in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1523-vendita-azienda-agricola-castelfranco-piandisco/"
   },
   "e60e54c6af287995": {
    "also_on": [],
