@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-15T14:18:32+00:00",
+ "last_scrape": "2026-10-15T18:27:41+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -889,6 +889,18 @@
    "text": "VENDITA Terratetto Montevarchi (AR)",
    "title": "VENDITA Terratetto Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=895"
+  },
+  "1996b49250d32f86": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-15T18:23:58+00:00",
+   "id": "1996b49250d32f86",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Visto ma aggiornato Lusso",
+   "title": "Casa colonica in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1845-vendita-casa-colonica-reggello-setteponti/"
   },
   "19c90bc59c48a384": {
    "also_on": [],
@@ -2368,6 +2380,18 @@
    "title": "Virtual tour € 265.000 Trilocale in vendita Reggello, Piazza Silvano Ceccherelli - Cascia 3 locali 78 Mq 1 bagno",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/reggello/appartamenti-in-vendita-61203876"
   },
+  "4a3fb3304a819822": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-15T18:24:24+00:00",
+   "id": "4a3fb3304a819822",
+   "mq": null,
+   "price": 175000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Appartamento ristrutturato, ingresso indipendente con giardino Montevarchi rif: 8644 73 2 3 1 € 175.000 dettagli",
+   "title": "Appartamento ristrutturato, ingresso indipendente con giardino",
+   "url": "https://centroimmobiliare.com/immobili/appartamento-ristrutturato-ingresso-indipendente-con-giardino/"
+  },
   "4a828d77318747af": {
    "also_on": [],
    "comune": "Bucine",
@@ -2572,6 +2596,18 @@
    "title": "Figline V.no (FI) a 3 Km Fienile € 140.000,00 Rif. 1400",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=1810"
   },
+  "4ebc33543360b4b6": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-15T18:23:58+00:00",
+   "id": "4ebc33543360b4b6",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Cascina/Casale/Masseria in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1636-vendita-cascinacasalemasseria-figline-e-incisa-valdarno-gaville/"
+  },
   "4fe9e07e3726c4c9": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -2619,6 +2655,18 @@
    "text": "in Vendita Lusso",
    "title": "Cascina/Casale/Masseria in vendita a Cetona",
    "url": "https://www.colli-toscani.com/i-1862-vendita-cascinacasalemasseria-cetona-belverde/"
+  },
+  "514822004ec39d95": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-15T18:27:38+00:00",
+   "id": "514822004ec39d95",
+   "mq": null,
+   "price": 1350000,
+   "source": "Valdarno Affari",
+   "text": "1.350.000 € Capannone in vendita a Cavriglia nel comune di Cavriglia, zona industriale ad alta concentrazione di imprese e… Scopri di più",
+   "title": "Capannone in vendita a Cavriglia",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2310/"
   },
   "5150509c36867c86": {
    "also_on": [],
