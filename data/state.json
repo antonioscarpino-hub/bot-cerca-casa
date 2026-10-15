@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-15T09:18:28+00:00",
+ "last_scrape": "2026-10-15T14:18:32+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -637,6 +637,18 @@
    "text": "In vendita 85 mq CILIEGI - LUMINOSO 4 VANI CON TERRAZZA ABITABILE E POSTI AUTO PRIVATI CILIEGI- Nella vicinanza del casello A1 di di Incisa in Val d'Arno, proponiamo in … Guarda la zona € 175.000,00",
    "title": "CILIEGI - LUMINOSO 4 VANI CON TERRAZZA ABITABILE E POSTI AUTO PRIVATI",
    "url": "https://www.caseditoscana.com/ita/immobile/0-4/1155-ciliegi---luminoso-4-vani-con-terrazza-abitabile-e-posti-auto-privati.html"
+  },
+  "109cd23718155af7": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-15T14:15:22+00:00",
+   "id": "109cd23718155af7",
+   "mq": 107,
+   "price": 289000,
+   "source": "RE/MAX Ideale 2",
+   "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 289.000 € Appartamento in vendita a Bagno a Ripoli, Grassina 7 loc. 7 locali 107 mq 2 bagni 1° p. 1° piano",
+   "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 289.000 € Appartamento in vendita a Bagno a R…",
+   "url": "https://ideale.remax.it/vendita-appartamento/bagno-a-ripoli/grassina-31451065-6"
   },
   "10f830f476b59cbb": {
    "also_on": [],
@@ -2812,6 +2824,18 @@
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-990-vendita-villa-figline-e-incisa-valdarno-gaville/"
   },
+  "560e5b8b02a34968": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-15T14:18:28+00:00",
+   "id": "560e5b8b02a34968",
+   "mq": null,
+   "price": 830000,
+   "source": "Valdarno Affari",
+   "text": "830.000 € Capannone in vendita a Cortona Comune di Cortona, frazione Tavarnelle In ottima posizione con MASSIMA visibilità e comodo… Scopri di più",
+   "title": "Capannone in vendita a Cortona",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2219/"
+  },
   "564a4dfbb48c7122": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -3303,6 +3327,18 @@
    "text": "Townhouse with garden in the old center Lucignano Sold 3 2 140 m₂ 20 m₂",
    "title": "Townhouse with garden in the old center",
    "url": "https://prinstuscanproperties.com/properties/4322/"
+  },
+  "65b18e7b8106540a": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-15T14:18:10+00:00",
+   "id": "65b18e7b8106540a",
+   "mq": 101,
+   "price": null,
+   "source": "Studio Ciccarelli & Partner",
+   "text": "Rif 6121 APPARTAMENTO CON INGRESSO INDIPENDENTE GARAGE E GIARDINO Montevarchi Zona Piscina â¬ 235.000 MONTEVARCHI - ZONA PISCINA In posizione strategica e a pochissimi passi da tutti i principali servizi, proponiamo in vendita uno splendido 101 Mq 4 Vani 2 2 Continua",
+   "title": "Rif 6121",
+   "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2606350&language=ita"
   },
   "66d18f5c1897b5cf": {
    "also_on": [],
@@ -4109,6 +4145,18 @@
    "text": "240.000 € Studio in vendita a San Giovanni Valdarno San Giovanni V.no centralissimo, con facile possibilità di parcheggio, vendiamo bellissimo ufficio/studio… Scopri di più",
    "title": "Studio in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2039/"
+  },
+  "7cdd16532cb2f58a": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-15T14:17:31+00:00",
+   "id": "7cdd16532cb2f58a",
+   "mq": 500,
+   "price": 550000,
+   "source": "Studio Immobiliare Balsimelli",
+   "text": "Primo piano Esclusiva Loro Ciuffenna, Fraz. La Trappola Loro Ciuffenna Struttura ricettiva Frazione La Trappola, vendiamo bellissima struttura ricettiva con ristorante e albergo, ben avviata e in posizione eccellente con vista sul Valdarno e sulle montagne. L'immobile, disposto su 2 livelli, è così composto: al piano terra troviamo una reception con bar e ristorante/pizzeria dotato di 120 posti a…",
+   "title": "Primo piano Esclusiva Loro Ciuffenna, Fraz. La Trappola Loro Ciuffenna Struttura ricettiva Frazione La Trappola, vendiam…",
+   "url": "https://www.immobiliarebalsimelli.net/immobili/loro-ciuffenna-852-1529"
   },
   "7d32e80883fb7cd5": {
    "also_on": [],
@@ -4926,6 +4974,18 @@
    "title": "VENDITA Casa indipendente Castelfranco di Sopra (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=618"
   },
+  "9688539483f3cdbe": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-15T14:14:18+00:00",
+   "id": "9688539483f3cdbe",
+   "mq": null,
+   "price": 155000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 534 Terreno Agricolo in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno OTTIMO TERRENO AGRICOLO IN ZONA DI FORTE TRANSITO ADATTO PER DEPOSITO O AREA ESPOSITIVA DI PRODOTTI AGRICOLI POSTO AL MATASSINO NE COMUNE DI FIGLINE VALDARNO VENDITA ANCHE FRAZIONATA MASSIMO TRE LOTTI 14.850 mq € 155.000 Dettagli",
+   "title": "Terreno Agricolo in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-831-vendita-terreno-agricolo-figline-e-incisa-valdarno/"
+  },
   "96f838951f64a7bc": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -4937,6 +4997,18 @@
    "text": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
    "title": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=175"
+  },
+  "97149040953c65e6": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-15T14:14:18+00:00",
+   "id": "97149040953c65e6",
+   "mq": 300,
+   "price": 520000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Visto ma aggiornato Cod. 1145 Villa in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Brollo Figline Valdarno Brollo ottima casa unifamiliare inserita in contesto signorile residenziale libera su 4 lati per un totale di mq 300 circa .L'immobile si presenta ancora in buono stato di conservazione la proprietà e eseguito varie manutenzione fino ad una ristrutturazione comple…",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1810-vendita-villa-figline-e-incisa-valdarno-brollo/"
   },
   "9782112930fbd96b": {
    "also_on": [],
@@ -6173,6 +6245,18 @@
    "text": "VENDITA Terratetto Bucine (AR)",
    "title": "VENDITA Terratetto Bucine (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=702"
+  },
+  "c0fd226802ddb558": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-15T14:18:28+00:00",
+   "id": "c0fd226802ddb558",
+   "mq": null,
+   "price": null,
+   "source": "Valdarno Affari",
+   "text": "Prezzo Villa in vendita a Cavriglia Cavriglia frazione, alle porte del Chianti, in borgo antico, vendiamo panoramica e… Scopri di più",
+   "title": "Villa in vendita a Cavriglia",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-802/"
   },
   "c15b78ca5c3c4ecc": {
    "also_on": [],
