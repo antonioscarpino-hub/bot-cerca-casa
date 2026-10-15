@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-14T21:02:09+00:00",
+ "last_scrape": "2026-10-15T04:14:17+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -289,6 +289,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 339.000 € Cascina in vendita a Castelfranco Piandiscò, Botriolo località Riguzze snc 16 loc. 16 locali 373 mq 3 bagni 2 livelli Su due livelli",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 339.000 € Cascina in vendita a Castelfranco P…",
    "url": "https://ideale.remax.it/vendita-cascina-casale/castelfranco-piandisco/botriolo-31451015-376"
+  },
+  "06c92375a012ab68": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-10-15T04:11:13+00:00",
+   "id": "06c92375a012ab68",
+   "mq": null,
+   "price": 148000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Ampio Appartamento Quadrilocale con Giardino Privato a Bucine Bucine rif: 8643 135 2 4 2 € 148.000 dettagli",
+   "title": "Ampio Appartamento Quadrilocale con Giardino Privato a Bucine",
+   "url": "https://centroimmobiliare.com/immobili/ampio-appartamento-quadrilocale-con-giardino-privato-a-bucine/"
   },
   "071daf60dff8bc82": {
    "also_on": [],
@@ -1286,6 +1298,18 @@
    "title": "Appartamenti-vendita-Figline-Valdarno",
    "url": "https://www.blustudioimmobiliare.it/-Appartamenti-vendita-Figline-Valdarno_2843.html"
   },
+  "28d444b91f65cd89": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-15T04:10:39+00:00",
+   "id": "28d444b91f65cd89",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villette a schiera in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1799-vendita-villette-a-schiera-figline-e-incisa-valdarno-ponte-agli-stolli/"
+  },
   "29302cfe47081594": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -1465,6 +1489,18 @@
    "text": "VENDITA Appartamento Terranuova Bracciolini (AR)",
    "title": "VENDITA Appartamento Terranuova Bracciolini (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=654"
+  },
+  "30655ce09ee0a934": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-15T04:11:13+00:00",
+   "id": "30655ce09ee0a934",
+   "mq": null,
+   "price": 68000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Appartamento Pentalocale in Vendita a Montevarchi – Levane Montevarchi rif: 8642 79 3 4 2 € 68.000 dettagli",
+   "title": "Appartamento Pentalocale in Vendita a Montevarchi – Levane",
+   "url": "https://centroimmobiliare.com/immobili/appartamento-pentalocale-in-vendita-a-montevarchi-levane/"
   },
   "307430735d49e1aa": {
    "also_on": [],
@@ -3978,6 +4014,18 @@
    "title": "Vendita 140.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 1 Camera 1 Bagno 62 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50649/"
   },
+  "7a893d5f45db984c": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-10-15T04:10:35+00:00",
+   "id": "7a893d5f45db984c",
+   "mq": null,
+   "price": 130000,
+   "source": "Abita",
+   "text": "9835 Villetta a Schiera Bucine NOSTRA ESCLUSIVA 100 m 2 ingresso indipendente Nel comune di Bucine, nella suggestiva zona di Ambra, proponiamo IN ESCLUSIVA un terratetto con ingresso indipendente, disposto su due livelli, ideale per chi desidera 5 locali 2 camere 1 bagno 100 m 2 1 € 130.000 Consigliato Novità",
+   "title": "Villetta a Schiera Bucine",
+   "url": "https://www.abitaimmobiliare.com/immobili/9835-villetta-a-schiera-bucine-ambra-100mq/"
+  },
   "7b3a4ee208a22d16": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -6078,6 +6126,18 @@
    "title": "VENDITA Terratetto Bucine (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=702"
   },
+  "c15b78ca5c3c4ecc": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-15T04:14:14+00:00",
+   "id": "c15b78ca5c3c4ecc",
+   "mq": null,
+   "price": 225000,
+   "source": "Valdarno Affari",
+   "text": "225.000 € Villa in vendita a San Giovanni Valdarno San Giovanni Valdarno, prima periferia ( catastalmente nel comune di Terranuova), circondato… Scopri di più",
+   "title": "Villa in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2340/"
+  },
   "c1ef6e009300e2d3": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -6630,6 +6690,18 @@
    "title": "cerca Montevarchi APPARTAMENTO VENDITA",
    "url": "https://www.studiocasauno.com/immobile-montevarchi-_vendita_appartamento_2890873.html"
   },
+  "d51f3d3190ccbff7": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-15T04:10:39+00:00",
+   "id": "d51f3d3190ccbff7",
+   "mq": 75,
+   "price": 75000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità Cod. 1162 Locale commerciale in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno centro Figline Valdarno centro storico interessante fondo commerciale attualmente adibito a studio medico per un totale di mq 75.l'immobile si dispone un ingresso con ampia vetrate sul corso e finestra ,bagno antibagno corridoio ampia stanza con porta finestra e finestra da li si accede…",
+   "title": "Locale commerciale in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1828-vendita-locale-commerciale-figline-e-incisa-valdarno-centro/"
+  },
   "d52e7ca2264e6755": {
    "also_on": [],
    "comune": "Reggello",
@@ -6749,6 +6821,18 @@
    "text": "Appartamento in vendita a San Giovanni Valdarno 0 165.000 € Vendita",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2387/"
+  },
+  "da90e1e4a8c2b876": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-15T04:13:16+00:00",
+   "id": "da90e1e4a8c2b876",
+   "mq": 55,
+   "price": 105000,
+   "source": "Europa 92 Immobiliare Centro Casa",
+   "text": "Vendita € 105.000 Figline e Incisa Valdarno 55 mq - 2 Camere - 1 Bagni Appartamento Rif. A3/2104 FIGLINE V. NO (Centro) Nostra esclusiva: vendesi appartamento composto da ingresso, cucina, due camere da letto e bagno oltre ampio guardino esclusivo. Piano terreno. Euro 105.000 tratt. li RIF. A3/2104.",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.europa92immobiliare.it/i-36749456-vendita-appartamento-figline-e-incisa-valdarno/"
   },
   "db140b3158f1cffd": {
    "also_on": [],
