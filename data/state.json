@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-16T09:40:30+00:00",
+ "last_scrape": "2026-10-16T14:19:48+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1069,6 +1069,18 @@
    "text": "VENDITA Terratetto Terranuova Bracciolini (AR)",
    "title": "VENDITA Terratetto Terranuova Bracciolini (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=883"
+  },
+  "1f630cdba5410061": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-16T14:19:45+00:00",
+   "id": "1f630cdba5410061",
+   "mq": null,
+   "price": 370000,
+   "source": "Valdarno Affari",
+   "text": "370.000 € Villa in vendita a San Giovanni Valdarno San Giovanni Valdarno oltrarno villetta di nuova costruzione libera su 4 lati… Scopri di più",
+   "title": "Villa in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2139/"
   },
   "1fc2f23ce93880d4": {
    "also_on": [],
@@ -2847,6 +2859,18 @@
    "text": "Vendita € 180.000 Greve in Chianti 90 mq - 3 Camere - 1 Bagni Casa Indipendente Rif. C/2093 GREVE IN CHIANTI (Dudda) In fase di completa ristrutturazione accurata, vendesi porzione di casa colonica terratetto avente ingresso indipendente, composta al piano terreno da soggiorno, cucina e ripostiglio;...",
    "title": "Casa Indipendente in vendita a Greve in Chianti",
    "url": "https://www.europa92immobiliare.it/i-35797154-vendita-casa-indipendente-greve-in-chianti/"
+  },
+  "531ba72097b1b08f": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-16T14:16:22+00:00",
+   "id": "531ba72097b1b08f",
+   "mq": 110,
+   "price": 239000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità Cod. 409 Casa singola in vendita a Reggello Reggello Centro bellissimo appartamento indipendente piano rialzato con giardino appartamento di 5 vani tre camere soggiorno cucina e due bagni ottime rifiniture completa la proprietà un box auto doppio da cui si accede dall'interno e giardino privato ottima zona centrale vicinissima ai servizi tutti gli impianti sono stati rimodernati…",
+   "title": "Casa singola in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1527-vendita-casa-singola-reggello-centro/"
   },
   "535137549ec8d8b9": {
    "also_on": [],
@@ -4901,6 +4925,18 @@
    "text": "8 9813 Appartamento Figline e Incisa Valdarno Complesso La Gaglianella 137 m 2 con ascensore LA GAGLIANELLA – ESCLUSIVA – Nel centro di Figline Valdarno, in una posizione strategica a pochi passi dalla stazione ferroviaria, dal centro commerciale e da 5 locali 3 camere 2 bagni 137 m 2 1 € 285.000 Novità",
    "title": "Appartamento Figline e Incisa Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9813-appartamento-figline-e-incisa-valdarno-coop-137mq/"
+  },
+  "8eb597a1435db398": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-16T14:16:22+00:00",
+   "id": "8eb597a1435db398",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa semi indipendente in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1756-vendita-casa-semi-indipendente-castelfranco-piandisco/"
   },
   "8f849b74db6df2ee": {
    "also_on": [],
@@ -7613,6 +7649,18 @@
    "text": "Novità € 135.000 Appartamento in vendita a Figline e Incisa Valdarno - centro Nel cuore di Figline, all'interno delle antiche mura del paese, proponiamo in vendita caratteristico appartamento ideale per chi desidera vivere l'atmosfera... 60 mq 1 Camere 2 Bagni Cod. 148 Dettagli",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.cadesoimmobiliare.it/i-148-vendita-appartamento-figline-e-incisa-valdarno-centro/"
+  },
+  "e6609a35d4222d72": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-16T14:19:45+00:00",
+   "id": "e6609a35d4222d72",
+   "mq": null,
+   "price": 220000,
+   "source": "Valdarno Affari",
+   "text": "220.000 € Studio in vendita a San Giovanni Valdarno San Giovanni V.no vendiamo ufficio completamente ristrutturato posto al piano terra con… Scopri di più",
+   "title": "Studio in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-62/"
   },
   "e68eb7a50ad1a33e": {
    "also_on": [],
