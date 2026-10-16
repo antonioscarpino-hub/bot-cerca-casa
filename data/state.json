@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-16T18:15:10+00:00",
+ "last_scrape": "2026-10-16T21:26:34+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4242,6 +4242,18 @@
    "title": "Casa singola in vendita a Cavriglia",
    "url": "https://www.colli-toscani.com/i-1840-vendita-casa-singola-cavriglia-castelnuovo-dei-sabbioni/"
   },
+  "78175f94f92d02dd": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-16T21:23:02+00:00",
+   "id": "78175f94f92d02dd",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villette a schiera in vendita a Loro Ciuffenna",
+   "url": "https://www.colli-toscani.com/i-1803-vendita-villette-a-schiera-loro-ciuffenna-centro/"
+  },
   "7826207ce88272e9": {
    "also_on": [],
    "comune": "Reggello",
@@ -4301,6 +4313,18 @@
    "text": "Primo piano Loro Ciuffenna, Zona residenziale Loro Ciuffenna Appartamenti 3 vani In ottima zona residenziale vicinissima al centro, vendesi appartamento posto al primo piano, accessibile sia da scala condominiale che da ascensore, e composto da ampia zona giorno con angolo cottura, disimpegno, 2 camere di cui una con balcone, bagno con doccia e ripostiglio. Ampio garage condominiale con posto auto…",
    "title": "Primo piano Loro Ciuffenna, Zona residenziale Loro Ciuffenna Appartamenti 3 vani In ottima zona residenziale vicinissima…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/loro-ciuffenna-822-1499"
+  },
+  "7a0ad14b124f36a7": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-16T21:26:31+00:00",
+   "id": "7a0ad14b124f36a7",
+   "mq": null,
+   "price": 145000,
+   "source": "Valdarno Affari",
+   "text": "145.000 € Locale commerciale in vendita a San Giovanni Valdarno San Giovanni V.no via S. Lavagnini vendiamo ampio fondo posto al piano… Scopri di più",
+   "title": "Locale commerciale in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2146/"
   },
   "7a58b136231fd901": {
    "also_on": [],
@@ -8022,6 +8046,18 @@
    "title": "VENDITA Capannone San Giovanni Valdarno (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=864"
   },
+  "f18d9a09466195d3": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-16T21:23:02+00:00",
+   "id": "f18d9a09466195d3",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Cascina/Casale/Masseria in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1265-vendita-cascinacasalemasseria-reggello-centro/"
+  },
   "f2cd19490c20b686": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -8070,6 +8106,18 @@
    "title": "VENDITA Appartamento Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=892"
   },
+  "f66051fd0d1daeb8": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-16T21:26:31+00:00",
+   "id": "f66051fd0d1daeb8",
+   "mq": 1200,
+   "price": 480000,
+   "source": "Valdarno Affari",
+   "text": "480.000 € Capannone in vendita a Castelfranco Piandiscò Castelfranco , vicino al centro, vendiamo capannone artigianale di circa 1200 mq… Scopri di più",
+   "title": "Capannone in vendita a Castelfranco Piandiscò",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2025/"
+  },
   "f7bbe97756c2c604": {
    "also_on": [],
    "comune": "Bucine",
@@ -8093,6 +8141,18 @@
    "text": "VENDITA Appartamento Reggello (FI)",
    "title": "VENDITA Appartamento Reggello (FI)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=649"
+  },
+  "f7eb52dbcb9b9692": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-16T21:23:02+00:00",
+   "id": "f7eb52dbcb9b9692",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Cascina/Casale/Masseria in vendita a Greve in Chianti",
+   "url": "https://www.colli-toscani.com/i-1860-vendita-cascinacasalemasseria-greve-in-chianti-lamole/"
   },
   "f803b22ea193d997": {
    "also_on": [],
