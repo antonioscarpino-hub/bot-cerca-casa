@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-17T04:00:27+00:00",
+ "last_scrape": "2026-10-17T08:32:07+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -601,6 +601,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 550.000 € Villa singola in vendita a Rignano sull'Arno via Del Focardo 47 30 loc. 30 locali 1k+ mq 1600 mq 4 bagni 2 livelli Su due livelli",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 550.000 € Villa singola in vendita a Rignano…",
    "url": "https://ideale.remax.it/vendita-villa-singola/rignano-sull-arno/centro-31451015-416"
+  },
+  "0e4417231084c80c": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-17T08:32:03+00:00",
+   "id": "0e4417231084c80c",
+   "mq": null,
+   "price": 280000,
+   "source": "Valdarno Affari",
+   "text": "280.000 € Studio in affittovendita a San Giovanni Valdarno San Giovanni Valdarno, zona di ottima visibilità e passaggio di clienti, facente… Scopri di più",
+   "title": "Studio in affittovendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2254/"
   },
   "0e63b9dae695cfea": {
    "also_on": [],
@@ -2199,6 +2211,18 @@
    "text": "Rif 6107 Villa bifamiliare a Figline e Incisa Valdarno Zona Poggiolino â¬ 410.000 FIGLINE - ZONA POGGIOLINO In contesto residenziale e signorile, proponiamo porzione/terratetto libera su tre lati di villetta bifamiliare, con 230 Mq 10 Vani 3 4 Continua",
    "title": "Rif 6107",
    "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2585340&language=ita"
+  },
+  "40cd685086747521": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-17T08:29:12+00:00",
+   "id": "40cd685086747521",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Loro Ciuffenna",
+   "url": "https://www.colli-toscani.com/i-1717-vendita-casa-colonica-loro-ciuffenna-setteponti/"
   },
   "40ec21f2bbc63903": {
    "also_on": [],
@@ -5274,6 +5298,18 @@
    "title": "VENDITA Appartamento Loro Ciuffenna (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=583"
   },
+  "92ae47caea18f521": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-17T08:31:41+00:00",
+   "id": "92ae47caea18f521",
+   "mq": 170,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Unifamiliare Castelfranco Piandiscò 170 mq con giardino privato e garage Piandisco’, in ottima e tranquilla zona residenziale, villetta unifamiliare libera su 4 lati con ampio giardino privato con pozzo. L’immobile si sviluppa su più 170 mq 7 locali 3 camere 2941 € 450.000 Novità",
+   "title": "Unifamiliare Castelfranco Piandiscò",
+   "url": "https://www.studio21immobiliare.it/immobile/2941-unifamiliare-castelfranco-piandisco-pian-di-sco-centro-170mq/"
+  },
   "92c492aa429749b0": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -6581,6 +6617,18 @@
    "text": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
    "title": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=707"
+  },
+  "bda410bdff6d1a3d": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-17T08:32:03+00:00",
+   "id": "bda410bdff6d1a3d",
+   "mq": null,
+   "price": 69000,
+   "source": "Valdarno Affari",
+   "text": "69.000 € Locale commerciale in vendita a San Giovanni Valdarno San Giovanni Valdarno, zona Oltrarno. Vendiamo fondo commerciale di mq 78, 2… Scopri di più",
+   "title": "Locale commerciale in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-311/"
   },
   "be20ef85cb927cc9": {
    "also_on": [],
