@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-17T08:32:07+00:00",
+ "last_scrape": "2026-10-17T12:28:09+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1202,6 +1202,18 @@
    "title": "Casa colonica in vendita a Cavriglia",
    "url": "https://www.colli-toscani.com/i-1869-vendita-casa-colonica-cavriglia-grimoli/"
   },
+  "23478a57850a3ad2": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-17T12:28:05+00:00",
+   "id": "23478a57850a3ad2",
+   "mq": null,
+   "price": 180000,
+   "source": "Valdarno Affari",
+   "text": "180.000 € Ufficio in vendita a San Giovanni Valdarno San Giovanni Valdarno, nei pressi di Piazza Bologna, vicina al centro e… Scopri di più",
+   "title": "Ufficio in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2350/"
+  },
   "234794cc01b2db30": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -1285,6 +1297,18 @@
    "text": "Vendita Rustico Casa Colonica in Vendita a Bucine Bucine rif: 8636 220 8 11 4 € 290.000 dettagli",
    "title": "Rustico Casa Colonica in Vendita a Bucine",
    "url": "https://centroimmobiliare.com/immobili/rustico-casa-colonica-in-vendita-a-bucine/"
+  },
+  "2411150234290fe3": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-17T12:25:08+00:00",
+   "id": "2411150234290fe3",
+   "mq": null,
+   "price": 150000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Ampio Appartamento Pentalocale in Vendita a Montevarchi – Zona Piscina Montevarchi rif: 8645 100 3 5 2 € 150.000 dettagli",
+   "title": "Ampio Appartamento Pentalocale in Vendita a Montevarchi – Zona Piscina",
+   "url": "https://centroimmobiliare.com/immobili/ampio-appartamento-pentalocale-in-vendita-a-montevarchi-zona-piscina/"
   },
   "2464c8bde0186293": {
    "also_on": [],
@@ -1983,6 +2007,18 @@
    "text": "VENDITA Rustico - Casale Montevarchi (AR)",
    "title": "VENDITA Rustico - Casale Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=640"
+  },
+  "3a90b8af3dfa3fec": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-17T12:24:42+00:00",
+   "id": "3a90b8af3dfa3fec",
+   "mq": 110,
+   "price": 130000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1146 Appartamento in vendita a Cavriglia Cavriglia Castelnuovo dei Sabbioni Castelnuovo dei Sabbioni, nostra esclusiva, In contesto tranquillo e ben servito, proponiamo in vendita un appartamento luminoso situato al secondo piano di un palazzo elegante. L'immobile, in buone condizioni e libero subito, si compone di:  Ampio e luminoso soggiorno ideale per la zona living e relax  C…",
+   "title": "Appartamento in vendita a Cavriglia",
+   "url": "https://www.colli-toscani.com/i-1811-vendita-appartamento-cavriglia-castelnuovo-dei-sabbioni/"
   },
   "3aad4d99529e29e6": {
    "also_on": [],
@@ -3615,6 +3651,18 @@
    "text": "11 9787 Appartamento Terranuova Bracciolini NOSTRA ESCLUSIVA 85 m 2 con garage RIF. 9787 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 TERRANUOVA BRACCIOLINI OTTIMA ZONA VICINO A TUTTI I SERVIZI Vendiamo in esclusiva 3 locali 2 camere 1 bagno 85 m 2 € 125.000 Novità",
    "title": "Appartamento Terranuova Bracciolini",
    "url": "https://www.abitaimmobiliare.com/immobili/9787-appartamento-terranuova-bracciolini-centro-85mq/"
+  },
+  "65477723ad869207": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-17T12:24:42+00:00",
+   "id": "65477723ad869207",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1770-vendita-appartamento-figline-e-incisa-valdarno-ponte-agli-stolli/"
   },
   "657bc99e0fd823f7": {
    "also_on": [],
@@ -5441,6 +5489,18 @@
    "text": "in Vendita Visto ma aggiornato Cod. 1145 Villa in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Brollo Figline Valdarno Brollo ottima casa unifamiliare inserita in contesto signorile residenziale libera su 4 lati per un totale di mq 300 circa .L'immobile si presenta ancora in buono stato di conservazione la proprietà e eseguito varie manutenzione fino ad una ristrutturazione comple…",
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1810-vendita-villa-figline-e-incisa-valdarno-brollo/"
+  },
+  "975df3465bb07001": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-17T12:28:05+00:00",
+   "id": "975df3465bb07001",
+   "mq": null,
+   "price": 285000,
+   "source": "Valdarno Affari",
+   "text": "285.000 € Appartamento in villa in vendita a San Giovanni Valdarno San Giovanni V.no zona Stadio vendiamo, in villetta bifamiliare, appartamento posto al… Scopri di più",
+   "title": "Appartamento in villa in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2334/"
   },
   "9782112930fbd96b": {
    "also_on": [],
