@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-17T12:28:09+00:00",
+ "last_scrape": "2026-10-17T15:59:56+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1816,6 +1816,18 @@
    "title": "VENDITA Terratetto Reggello (FI)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=650"
   },
+  "3447dd97d80d6309": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-17T15:59:53+00:00",
+   "id": "3447dd97d80d6309",
+   "mq": null,
+   "price": 360000,
+   "source": "Valdarno Affari",
+   "text": "360.000 € Villa in vendita a Loro Ciuffenna Loro Ciuffenna / Terranuova B.ni zona Setteponti, vendiamo indipendente colonica leopoldina da… Scopri di più",
+   "title": "Villa in vendita a Loro Ciuffenna",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1980/"
+  },
   "34c00fea283be46b": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -2463,6 +2475,18 @@
    "text": "Appartamento in vendita a San Giovanni Valdarno 0 205.000 € Vendita",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2380/"
+  },
+  "47782b289a701204": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-17T15:56:28+00:00",
+   "id": "47782b289a701204",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Villa in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1866-vendita-villa-castelfranco-piandisco/"
   },
   "47deef544566bb59": {
    "also_on": [],
@@ -4505,6 +4529,18 @@
    "text": "9831 Appartamento Figline e Incisa Valdarno 100 m 2 con garage RIF. 9831 Incisa Valdarno – Ampio appartamento di 5 vani vicino alla stazione ferroviaria In posizione strategica, a pochi passi dalla stazione ferroviaria di Incisa 5 locali 3 camere 2 bagni 100 m 2 1 € 188.000 Novità",
    "title": "Appartamento Figline e Incisa Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9831-appartamento-figline-e-incisa-valdarno-centro-incisa-in-val-darno-100mq/"
+  },
+  "7b3e5f3e83451d7e": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-17T15:59:53+00:00",
+   "id": "7b3e5f3e83451d7e",
+   "mq": null,
+   "price": 250000,
+   "source": "Valdarno Affari",
+   "text": "250.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni V.no ,centro storico, in bellissimo palazzo d'epoca, vendiamo grazioso appartamento… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2328/"
   },
   "7b6be15602e51df9": {
    "also_on": [],
