@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-18T11:28:46+00:00",
+ "last_scrape": "2026-10-18T14:52:47+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -217,6 +217,18 @@
    "text": "Vendita 220.000 € Appartamento Reggello - Centro 3 Camere 2 Bagni 110 mq",
    "title": "Vendita 220.000 € Appartamento Reggello - Centro 3 Camere 2 Bagni 110 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-50642/"
+  },
+  "04fe545baf2b2f21": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-18T14:49:31+00:00",
+   "id": "04fe545baf2b2f21",
+   "mq": null,
+   "price": 235000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Capannone a 4Km da Figline Valdarno- Occasione Imperdibile! Castelfranco Piandiscò rif: 8652 260 € 235.000 dettagli",
+   "title": "Capannone a 4Km da Figline Valdarno- Occasione Imperdibile!",
+   "url": "https://centroimmobiliare.com/immobili/capannone-a-4km-da-figline-valdarno-occasione-imperdibile/"
   },
   "0521371002cb6405": {
    "also_on": [],
@@ -1718,6 +1730,18 @@
    "title": "Primo piano Montevarchi, Zona centrale Montevarchi Appartamenti 3 vani In zona centrale, vendiamo appartamento completam…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/montevarchi-828-1505"
   },
+  "310b7eaed9d4f91b": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-18T14:52:44+00:00",
+   "id": "310b7eaed9d4f91b",
+   "mq": null,
+   "price": 40000,
+   "source": "Valdarno Affari",
+   "text": "40.000 € Terreno in vendita a Loro Ciuffenna Loro Ciuffenna Loc Oliveto vendiamo panoramico terreno agricolo di circa 2 ettari… Scopri di più",
+   "title": "Terreno in vendita a Loro Ciuffenna",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1122/"
+  },
   "3136c3cacd43740b": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -1911,6 +1935,18 @@
    "text": "",
    "title": "dettaglio.php?id=342",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=342"
+  },
+  "37f843a65df9e24e": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-18T14:49:04+00:00",
+   "id": "37f843a65df9e24e",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villette a schiera in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1748-vendita-villette-a-schiera-figline-e-incisa-valdarno-centro/"
   },
   "38197dca8ebaf8b1": {
    "also_on": [],
@@ -4109,6 +4145,18 @@
    "text": "VENDUTO – Locale commerciale a reddito nel centro storico di Gaiole in Chianti – investimento esclusivo €",
    "title": "VENDUTO – Locale commerciale a reddito nel centro storico di Gaiole in Chianti – investimento esclusivo €",
    "url": "https://www.chiantipropertygroup.com/immobili/locale-commerciale-a-reddito-nel-centro-storico-di-gaiole-in-chianti-investimento-esclusivo/"
+  },
+  "6f903fe526ee17fd": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-18T14:52:44+00:00",
+   "id": "6f903fe526ee17fd",
+   "mq": null,
+   "price": 390000,
+   "source": "Valdarno Affari",
+   "text": "390.000 € Mansarda in vendita a San Giovanni Valdarno San Giovanni V.no a c.a. 5 km in Località Meleto, villa indipendente… Scopri di più",
+   "title": "Mansarda in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2021/"
   },
   "6f960c1e2f596f77": {
    "also_on": [],
@@ -7565,6 +7613,18 @@
    "text": "in Vendita",
    "title": "Appartamento in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1753-vendita-appartamento-reggello-san-donato-in-fronzano/"
+  },
+  "d61e1938c08d8276": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-18T14:52:44+00:00",
+   "id": "d61e1938c08d8276",
+   "mq": null,
+   "price": 440000,
+   "source": "Valdarno Affari",
+   "text": "440.000 € Casa di campagna in vendita a Cavriglia Cavriglia prima periferia, vendiamo porzione di colonica suddivisa in due appartamenti L'appartamento… Scopri di più",
+   "title": "Casa di campagna in vendita a Cavriglia",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2226/"
   },
   "d72e50508645c6af": {
    "also_on": [],
