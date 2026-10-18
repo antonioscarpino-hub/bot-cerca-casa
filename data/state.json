@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-18T14:52:47+00:00",
+ "last_scrape": "2026-10-18T18:00:42+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1057,6 +1057,18 @@
    "text": "VENDITA Colonica Cavriglia (AR)",
    "title": "VENDITA Colonica Cavriglia (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=35"
+  },
+  "1d7091b5636cc50d": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-18T17:56:59+00:00",
+   "id": "1d7091b5636cc50d",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1745-vendita-casa-colonica-reggello-donnini/"
   },
   "1e0bf7b0bc54c106": {
    "also_on": [],
@@ -2343,6 +2355,18 @@
    "text": "85.000 € Locale commerciale in vendita a Montevarchi Montevarchi, zona Levanella, vendiamo fondo commerciale di c.a. 80 mq piano terra… Scopri di più",
    "title": "Locale commerciale in vendita a Montevarchi",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1759/"
+  },
+  "4184e9e04a68ce97": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-18T18:00:39+00:00",
+   "id": "4184e9e04a68ce97",
+   "mq": null,
+   "price": 150000,
+   "source": "Valdarno Affari",
+   "text": "150.000 € Fondo Artigianale in vendita a Terranuova Bracciolini Terranuova Bracciolini, zona Poggilupi, facilmente raggiungibile da vari comuni del Valdarno e… Scopri di più",
+   "title": "Fondo Artigianale in vendita a Terranuova Bracciolini",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2224/"
   },
   "4295f21f907b31ca": {
    "also_on": [],
@@ -6990,6 +7014,18 @@
    "title": "Importante proprietà artigianale/commerciale con ampi spazi esterni Trattativa riservata €",
    "url": "https://www.chiantipropertygroup.com/immobili/importante-proprieta-artigianale-commerciale-con-ampi-spazi-esterni/"
   },
+  "c35c708b0f8311a0": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-18T17:56:59+00:00",
+   "id": "c35c708b0f8311a0",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Appartamento in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1751-vendita-appartamento-reggello-san-donato-in-fronzano/"
+  },
   "c3a0dc093ecf25c1": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -8417,6 +8453,18 @@
    "text": "in Vendita",
    "title": "appartamento con ingresso indipendente in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1863-vendita-appartamento-con-ingresso-indipendente-reggello-san-donato-in-fronzano/"
+  },
+  "f3f3cd247f4acf66": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-18T18:00:39+00:00",
+   "id": "f3f3cd247f4acf66",
+   "mq": null,
+   "price": 120000,
+   "source": "Valdarno Affari",
+   "text": "120.000 € Terratetto in vendita a San Giovanni Valdarno San Giovanni V.no Zona Bani, vendiamo terratetto con ingresso indipendente e resede… Scopri di più",
+   "title": "Terratetto in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1932/"
   },
   "f4885267651fd38b": {
    "also_on": [],
