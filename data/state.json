@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-18T01:16:45+00:00",
+ "last_scrape": "2026-10-18T06:08:06+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -6162,6 +6162,18 @@
    "title": "Appartamento ingresso indipendente con giardino",
    "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2583602&language=ita"
   },
+  "add85045b38647c2": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-18T06:04:05+00:00",
+   "id": "add85045b38647c2",
+   "mq": null,
+   "price": 148000,
+   "source": "Abita",
+   "text": "19 9825 Appartamento Montevarchi NOSTRA ESCLUSIVA 92 m 2 con posto auto RIF. 9825 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 APPARTAMENTO RISTRUTTURATO CON DUE TERRAZZI ABITABILI, GARAGE E POSTO AUTO – 3 locali 2 camere 1 bagno 92 m 2 € 148.000 Consigliato Novità",
+   "title": "Appartamento Montevarchi",
+   "url": "https://www.abitaimmobiliare.com/immobili/9825-appartamento-montevarchi-centro-92mq/"
+  },
   "ae303acc24bf4e0b": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -7782,6 +7794,18 @@
    "title": "€ 55.000 Terreno in vendita Figline E Incisa Valdarno, Figline valdarno - Figline Valdarno 12000 Mq",
    "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/figline-e-incisa-valdarno/terreno-in-vendita-61273842"
   },
+  "decba0070067c8ed": {
+   "also_on": [],
+   "comune": "Gaiole in Chianti",
+   "first_seen": "2026-10-18T06:04:10+00:00",
+   "id": "decba0070067c8ed",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Casa colonica in vendita a Gaiole in Chianti",
+   "url": "https://www.colli-toscani.com/i-1781-vendita-casa-colonica-gaiole-in-chianti/"
+  },
   "dfa12eae13304374": {
    "also_on": [],
    "comune": "Loro Ciuffenna",
@@ -8333,6 +8357,18 @@
    "text": "in Vendita",
    "title": "appartamento con ingresso indipendente in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1863-vendita-appartamento-con-ingresso-indipendente-reggello-san-donato-in-fronzano/"
+  },
+  "f4885267651fd38b": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-18T06:04:05+00:00",
+   "id": "f4885267651fd38b",
+   "mq": null,
+   "price": 335000,
+   "source": "Abita",
+   "text": "9836 Appartamento Montevarchi NOSTRA ESCLUSIVA 240 m 2 con giardino privato e garage RIF. 9836 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Montevarchi, Levane, vi proponiamo in vendita interessante proprietà composta da 10 locali 4 camere 3 bagni 240 m 2 3 € 335.000 Novità",
+   "title": "Appartamento Montevarchi",
+   "url": "https://www.abitaimmobiliare.com/immobili/9836-appartamento-montevarchi-levane-240mq/"
   },
   "f4f94356e3a9f721": {
    "also_on": [],
