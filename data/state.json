@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-18T18:00:42+00:00",
+ "last_scrape": "2026-10-18T22:40:43+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3687,6 +3687,18 @@
    "text": "Vendesi attività di Parrucchiera ampliabile Terranuova B.ni 1 4 40.000€",
    "title": "Vendesi attività di Parrucchiera ampliabile",
    "url": "https://tizianagentile.it/annunci/annuncio-test-7/"
+  },
+  "637509d0d89c49e9": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-18T22:40:39+00:00",
+   "id": "637509d0d89c49e9",
+   "mq": null,
+   "price": 69000,
+   "source": "Valdarno Affari",
+   "text": "69.000 € Locale commerciale in vendita a San Giovanni Valdarno San Giovanni Valdarno, zona Oltrarno vendiamo fondo commerciale-artigianale di mq 78, con… Scopri di più",
+   "title": "Locale commerciale in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2325/"
   },
   "638eb8ed07a9ecd7": {
    "also_on": [],
