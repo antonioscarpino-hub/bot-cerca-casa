@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-17T21:01:31+00:00",
+ "last_scrape": "2026-10-18T01:16:45+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -925,6 +925,18 @@
    "text": "VENDITA Terratetto Montevarchi (AR)",
    "title": "VENDITA Terratetto Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=895"
+  },
+  "1947caae5a75fe2c": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-18T01:12:47+00:00",
+   "id": "1947caae5a75fe2c",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Casa colonica in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1286-vendita-casa-colonica-reggello-donnini/"
   },
   "1996b49250d32f86": {
    "also_on": [],
@@ -8274,6 +8286,18 @@
    "title": "VENDITA Capannone San Giovanni Valdarno (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=864"
   },
+  "f180de42bdd116de": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-18T01:16:41+00:00",
+   "id": "f180de42bdd116de",
+   "mq": null,
+   "price": 275000,
+   "source": "Valdarno Affari",
+   "text": "275.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni V.no Centro Storico, vendiamo IN ESCLUSIVA CONDIVISA, bellissimo e caratteristico… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2363/"
+  },
   "f18d9a09466195d3": {
    "also_on": [],
    "comune": "Reggello",
@@ -8309,6 +8333,18 @@
    "text": "in Vendita",
    "title": "appartamento con ingresso indipendente in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1863-vendita-appartamento-con-ingresso-indipendente-reggello-san-donato-in-fronzano/"
+  },
+  "f4f94356e3a9f721": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-18T01:16:41+00:00",
+   "id": "f4f94356e3a9f721",
+   "mq": null,
+   "price": 160000,
+   "source": "Valdarno Affari",
+   "text": "160.000 € Colonica in vendita a Terranuova Bracciolini Terranuova Bracciolini, frazione La Penna, a 4 km dal paese, vendiamo grazioso… Scopri di più",
+   "title": "Colonica in vendita a Terranuova Bracciolini",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2343/"
   },
   "f4fb0fb185e2998b": {
    "also_on": [],
