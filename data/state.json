@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-19T17:38:01+00:00",
+ "last_scrape": "2026-10-19T21:48:31+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3759,6 +3759,18 @@
    "text": "248.000 € Appartamento in vendita a Figline e Incisa Valdarno annuncio rif. 2227 Figline Valdarno, zona Centro e facilmente raggiungibile da tutti… Scopri di più",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2227/"
+  },
+  "64995ba1b974ba44": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-19T21:48:28+00:00",
+   "id": "64995ba1b974ba44",
+   "mq": null,
+   "price": 110000,
+   "source": "Valdarno Affari",
+   "text": "110.000 € Appartamento in vendita a Terranuova Bracciolini Terranuova Bracciolini, zona centrale con ingresso da viale Europa, posto al piano… Scopri di più",
+   "title": "Appartamento in vendita a Terranuova Bracciolini",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2370/"
   },
   "64f9cfa78c33afac": {
    "also_on": [],
@@ -7637,6 +7649,18 @@
    "text": "Vendita 160.000 € Appartamento San Giovanni Valdarno - Centro 2 Camere 1 Bagno 75 mq",
    "title": "Vendita 160.000 € Appartamento San Giovanni Valdarno - Centro 2 Camere 1 Bagno 75 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-san-giovanni-valdarno-50669/"
+  },
+  "d1892b4729f80a44": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-19T21:47:22+00:00",
+   "id": "d1892b4729f80a44",
+   "mq": 262,
+   "price": 440000,
+   "source": "Europa 92 Immobiliare Centro Casa",
+   "text": "Vendita € 440.000 Figline e Incisa Valdarno 262 mq - 3 Camere - 3 Bagni Villetta bifamiliare Rif. E/2000 FIGLINE V. NO (Cesto) NOSTRA ESCLUSIVA: In zona tranquilla vendesi bellissimma villetta caposchiera mq. 225 circa calpestabili escluso aree scoperte, di recente costruzione, finita e rifinita in ogni sua...",
+   "title": "Villetta bifamiliare in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.europa92immobiliare.it/i-30745857-vendita-villetta-bifamiliare-figline-e-incisa-valdarno/"
   },
   "d22976e0e0213641": {
    "also_on": [],
