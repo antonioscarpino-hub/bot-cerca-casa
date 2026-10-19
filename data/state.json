@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-18T22:40:43+00:00",
+ "last_scrape": "2026-10-19T05:22:49+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1947,6 +1947,18 @@
    "text": "",
    "title": "dettaglio.php?id=342",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=342"
+  },
+  "37f7ff584e819019": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-19T05:19:26+00:00",
+   "id": "37f7ff584e819019",
+   "mq": 105,
+   "price": 70000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 362 Stabile/Palazzo in vendita a Cavriglia Cavriglia Cavriglia, nello storico Borgo di Montegonzi si vende un caratteristico terra-tetto così composto, al piano terreno due stanze uso cantina-magazzino e un ripostiglio, al primo piano ingresso, cucina con caminetto, soggiorno, ripostiglio sotto scala. Al secondo e ultimo piano ci sono tre camere, bagno e terrazza. Tetto e facciate…",
+   "title": "Stabile/Palazzo in vendita a Cavriglia",
+   "url": "https://www.colli-toscani.com/i-1447-vendita-stabilepalazzo-cavriglia/"
   },
   "37f843a65df9e24e": {
    "also_on": [],
@@ -4842,6 +4854,18 @@
    "title": "Splendida villa panoramica con ampio terreno a Loro Ciuffenna ESCLUSIVA",
    "url": "https://centroimmobiliare.com/immobili/splendida-villa-panoramica-con-ampio-terreno-a-loro-ciuffenna-esclusiva/"
   },
+  "84c47603cc877df2": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-19T05:22:46+00:00",
+   "id": "84c47603cc877df2",
+   "mq": null,
+   "price": 200000,
+   "source": "Valdarno Affari",
+   "text": "200.000 € Casa di campagna in vendita a San Giovanni Valdarno San Giovanni Valdarno a 3 km dal centro, immersa nel verde ,… Scopri di più",
+   "title": "Casa di campagna in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2213/"
+  },
   "84e290ffdfe7bb1f": {
    "also_on": [],
    "comune": "Castelfranco Piandiscò",
@@ -6677,6 +6701,18 @@
    "text": "Vendita € 680.000 Figline e Incisa Valdarno 1.000 mq - 4 Bagni Capannone Industriale Rif. M/1829 FIGLINE V. NO (Zona semicentrale) In posizione di grande sviluppo commerciale, vendesi ottimo locale fronte strada ad uso industriale mq. 1.000 con servizi. Lucernari apribili a vasistas. Piano primo ed...",
    "title": "Capannone Industriale in vendita a Figline e Incisa Valdarno",
    "url": "https://www.europa92immobiliare.it/i-24446690-vendita-capannone-industriale-figline-e-incisa-valdarno/"
+  },
+  "ba826976ae931f5b": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-19T05:22:46+00:00",
+   "id": "ba826976ae931f5b",
+   "mq": null,
+   "price": 65000,
+   "source": "Valdarno Affari",
+   "text": "65.000 € Terratetto in vendita a Terranuova Bracciolini Terranuova B.ni Loc Piantravigne, nel paese, vendiamo caratteristico terratetto con ingresso indipendente… Scopri di più",
+   "title": "Terratetto in vendita a Terranuova Bracciolini",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1538/"
   },
   "baadc451331bda28": {
    "also_on": [],
