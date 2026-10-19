@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-19T05:22:49+00:00",
+ "last_scrape": "2026-10-19T11:03:49+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -253,6 +253,18 @@
    "text": "Vendita 310.000 | Mq 110 | 7 Villa a schiera a Greve in Chianti",
    "title": "Vendita 310.000 | Mq 110 | 7 Villa a schiera a Greve in Chianti",
    "url": "https://www.immobiliarebecucci.it/dettaglio/Vendita_Villa_a_schiera_Greve_in_Chianti/956858"
+  },
+  "05497bf954bc4033": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-19T11:02:43+00:00",
+   "id": "05497bf954bc4033",
+   "mq": 450,
+   "price": 730000,
+   "source": "Immobiliare Case di Toscana (E. Martini)",
+   "text": "In vendita 450 mq CAMPOGIALLI - FAVOLOSA VILLA CON PARCO E PISCINA Campogialli (Terranova Bracciolini)- Immersa nelle campagne aretina dove negli anni 90' … Guarda la zona € 730.000,00",
+   "title": "CAMPOGIALLI - FAVOLOSA VILLA CON PARCO E PISCINA",
+   "url": "https://www.caseditoscana.com/ita/immobile/0-11/1159-campogialli---favolosa-villa-con-parco-e-piscina.html"
   },
   "054a08440d5d0966": {
    "also_on": [],
@@ -5562,6 +5574,18 @@
    "title": "cerca San Giovanni Valdarno CASA INDIPENDENTE VENDITA",
    "url": "https://www.studiocasauno.com/immobile-san-giovanni-valdarno-_vendita_casa-indipendente_2887518.html"
   },
+  "9448ffd10798e35e": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-19T11:01:50+00:00",
+   "id": "9448ffd10798e35e",
+   "mq": 110,
+   "price": 134000,
+   "source": "CA.DE.SO. Immobiliare",
+   "text": "Novità € 134.000 Appartamento in vendita a Figline e Incisa Valdarno - Restone RESTONE - 5 LOCALI CON TERRAZZO E RESEDENella periferia di Figline, situato in una tranquilla frazione del paese, proponiamo interessante appartamento... 110 mq 3 Camere 1 Bagni Cod. 150 Dettagli",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.cadesoimmobiliare.it/i-150-vendita-appartamento-figline-e-incisa-valdarno-restone/"
+  },
   "9475104406942448": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -5729,6 +5753,18 @@
    "text": "Riferimento 413 | Vendita Villetta indipendente con giardino a10 min da Bagno a Ripoli Comune: Bagno a Ripoli Zona: San Donato In Collina A SOLI 7 KM DA BAGNO A RIPOLI - nel centro del paese di SAN DONATO IN COLLINA, vicino a tutti i servizi principali (botteghe, parchi pubblici, fermata bus per Firenze) in strada interna, tranquilla e riservata, proponiamo in NOSTRA ESCLUSIVA questa stupenda VILL…",
    "title": "Villetta indipendente con giardino a10 min da Bagno a Ripoli",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=413"
+  },
+  "99bbdd489f0a52a5": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-19T11:01:50+00:00",
+   "id": "99bbdd489f0a52a5",
+   "mq": 137,
+   "price": 310000,
+   "source": "CA.DE.SO. Immobiliare",
+   "text": "Novità € 310.000 Appartamento in vendita a Figline e Incisa Valdarno - Via Petrarca FIGLINE - PIANO TERRA CON ANNESSO E GIARDINOIn zona semi centrale, con vicinanza a tutti i principali servizi, proponiamo soluzione abitativa al piano... 137 mq 3 Camere 1 Bagni Cod. 149 Dettagli",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.cadesoimmobiliare.it/i-149-vendita-appartamento-figline-e-incisa-valdarno-via-petrarca/"
   },
   "99d321974f8cab1a": {
    "also_on": [],
@@ -8273,6 +8309,18 @@
    "text": "Wine estate in the Ambra Valley Bucine € 2.700.000 8 10 540 m₂ 12.140.000 m₂",
    "title": "Wine estate in the Ambra Valley",
    "url": "https://prinstuscanproperties.com/properties/4365/"
+  },
+  "e9554cd7c72c5d7f": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-19T11:00:29+00:00",
+   "id": "e9554cd7c72c5d7f",
+   "mq": 400,
+   "price": 530000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 497 Cascina/Casale/Masseria in vendita a Reggello Reggello Setteponti Reggello setteponti in zona collinare ottima esposizione proponiamo in vendita porzione di casa colonica indipendente su tre lati divisa in due appartamenti con ingresso indipendente per un totale di mq 200. vendiamo inoltre adiacente un grande fienile di mq 200 circa da ristrutturare . La porzione di colonica: d…",
+   "title": "Cascina/Casale/Masseria in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1661-vendita-cascinacasalemasseria-reggello-setteponti/"
   },
   "e9ba616f771687ee": {
    "also_on": [],
