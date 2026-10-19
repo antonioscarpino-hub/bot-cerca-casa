@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-19T11:03:49+00:00",
+ "last_scrape": "2026-10-19T17:38:01+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3832,6 +3832,18 @@
    "title": "dettaglio.php?id=269",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=269"
   },
+  "66d9d6339cc9c802": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-19T17:34:47+00:00",
+   "id": "66d9d6339cc9c802",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villa in vendita a Cavriglia",
+   "url": "https://www.colli-toscani.com/i-1836-vendita-villa-cavriglia-campagna/"
+  },
   "671914d9615bcb7d": {
    "also_on": [],
    "comune": "Loro Ciuffenna",
@@ -4145,6 +4157,18 @@
    "text": "Primo piano Esclusiva Terranuova Bracciolini, Fraz. Cicogna Terranuova Bracciolini Case coloniche A 10 minuti da Terranuova, nei pressi della frazione Cicogna, vendiamo una bella colonica con giardino, annessi e terreno. La colonica si dispone su 2 livelli oltre alla mansarda; al piano terreno si trovano 8 locali ad uso cantina, garage e magazzino, oltre alla centrale termica dell'edificio, per un…",
    "title": "Primo piano Esclusiva Terranuova Bracciolini, Fraz. Cicogna Terranuova Bracciolini Case coloniche A 10 minuti da Terranu…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/terranuova-bracciolini-845-1522"
+  },
+  "6d97efec8d8a38b2": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-19T17:37:01+00:00",
+   "id": "6d97efec8d8a38b2",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Firenze e Dintorni (Becattini)",
+   "text": "",
+   "title": "dettaglio.php?id=418",
+   "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=418"
   },
   "6e41811a382d297f": {
    "also_on": [],
@@ -6114,6 +6138,18 @@
    "title": "Terratetto <span class=condizioni>ottime condizioni</span> a Figline e Incisa Valdarno",
    "url": "https://www.valdarnocasa.it/web/immobile_dettaglio.asp?cod_annuncio=2571786&language=ita"
   },
+  "a65a49da9556c4d1": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-19T17:37:58+00:00",
+   "id": "a65a49da9556c4d1",
+   "mq": null,
+   "price": 90000,
+   "source": "Valdarno Affari",
+   "text": "90.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni V.no Zona Fornaci affittiamo delizioso monolocale arradato posto al secondo… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1769/"
+  },
   "a66c79522679a70c": {
    "also_on": [],
    "comune": "Rignano sull'Arno",
@@ -7398,6 +7434,18 @@
    "title": "Vendita 129.000 € Villa Reggello - Vaggio 3 Camere 2 Bagni 120 mq",
    "url": "https://www.soges.it/prodotto/villa-in-vendita-a-reggello-50651/"
   },
+  "cc4e7ec1aaa08be6": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-19T17:34:47+00:00",
+   "id": "cc4e7ec1aaa08be6",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1728-vendita-appartamento-figline-e-incisa-valdarno-centro/"
+  },
   "cc6edaf5eef69040": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -8357,6 +8405,18 @@
    "text": "V 2211 Vendita 23 Appartamento ottime condizioni a San Giovanni Valdarno In vendita a San Giovanni Valdarno Zona Vacchereccia In vendita a San Giovanni Valdarno, ESCLUSIVA IMMOBILIARE PIU' nella tranquilla zona di Vacchereccia, proponiamo un delizioso appartamento di 80 mq situato al secondo e ultimo piano di un elegante complesso residenziale. L'immobile, in classe energetica F, si sviluppa su du…",
    "title": "Appartamento <span class=condizioni>ottime condizioni</span> a San Giovanni Valdarno",
    "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2590457&language=ita"
+  },
+  "eb667943ac1435ca": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-19T17:35:54+00:00",
+   "id": "eb667943ac1435ca",
+   "mq": null,
+   "price": null,
+   "source": "Armando Becattini Immobiliare",
+   "text": "Cavriglia (AR) loc Santa Barbara 4 vani Rif. 1641 € 120.000,00 Al piano terra rialzato di palazzina bifamiliare, vendesi appartamento in buone condizioni abitative composto da cucina abitabile … 49 minuti fa 19 Ottobre 2026 in 3/4 vani .",
+   "title": "Cavriglia (AR) loc Santa Barbara 4 vani Rif. 1641 € 120.000,00",
+   "url": "https://www.armandobecattiniimmobiliare.it/?p=6680"
   },
   "ec5464223cac0246": {
    "also_on": [],
