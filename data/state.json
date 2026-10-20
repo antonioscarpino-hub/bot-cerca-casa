@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-20T15:54:14+00:00",
+ "last_scrape": "2026-10-20T20:00:02+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4950,6 +4950,18 @@
    "title": "Locale Commerciale 2 in complesso di Prestigio con reddito",
    "url": "https://tizianagentile.it/annunci/annuncio-test-4/"
   },
+  "7feee17a8751e116": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-20T19:59:59+00:00",
+   "id": "7feee17a8751e116",
+   "mq": null,
+   "price": 89000,
+   "source": "Valdarno Affari",
+   "text": "89.000 € Terratetto in vendita a Montevarchi Montevarchi zona Levane, vendiamo, IN ESCLUSIVA VALDARNO AFFARI, delizioso terratetto con ingresso… Scopri di più",
+   "title": "Terratetto in vendita a Montevarchi",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2352/"
+  },
   "803c5fde4b543e34": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -5730,6 +5742,18 @@
    "title": "Unifamiliare Castelfranco Piandiscò",
    "url": "https://www.studio21immobiliare.it/immobile/2941-unifamiliare-castelfranco-piandisco-pian-di-sco-centro-170mq/"
   },
+  "92c25b760e2079fc": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-20T19:59:59+00:00",
+   "id": "92c25b760e2079fc",
+   "mq": null,
+   "price": 420000,
+   "source": "Valdarno Affari",
+   "text": "420.000 € Villa in vendita a Reggello nel comune di Reggello, a 3 km dal centro, in zona panoramica… Scopri di più",
+   "title": "Villa in vendita a Reggello",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2257/"
+  },
   "92c492aa429749b0": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -6318,6 +6342,18 @@
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 350.000 € Appartamento in vendita a Arezzo, Z…",
    "url": "https://ideale.remax.it/vendita-appartamento/arezzo/prima-periferia-31451060-38"
   },
+  "a54d77947d74605b": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-20T19:57:54+00:00",
+   "id": "a54d77947d74605b",
+   "mq": null,
+   "price": null,
+   "source": "Armando Becattini Immobiliare",
+   "text": "San Giovanni Valdarno (AR) zona Bani 5 vani Rif. 1642 € 210.000,00 Al primo piano di palazzina quadrifamiliare, con affacci aperti sul verde, vendesi spazioso appartamento composto da soggiorno d’ingresso, cucina abitabile con terrazza … 3 ore fa 20 Ottobre 2026 in 5 vani ed oltre .",
+   "title": "San Giovanni Valdarno (AR) zona Bani 5 vani Rif. 1642 € 210.000,00",
+   "url": "https://www.armandobecattiniimmobiliare.it/?p=6702"
+  },
   "a5e8de97df4e8bf6": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -6533,6 +6569,18 @@
    "text": "A1075 Vendita 21 Appartamento ingresso indipendente con giardino In vendita a Montevarchi Zona Levanella In vendita a Montevarchi, nella tranquilla zona di Levanella, proponiamo un accogliente appartamento di 75 mq situato al piano terra. Questa soluzione, ideale per famiglie o coppie, si compone di 4 vani ben distribuiti, comprendenti due camere da letto, un bagno e una cucina semi abitabile. 75…",
    "title": "Appartamento ingresso indipendente con giardino",
    "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2583602&language=ita"
+  },
+  "acfc544f604fe29b": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-20T19:56:35+00:00",
+   "id": "acfc544f604fe29b",
+   "mq": 90,
+   "price": 145000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1190 Appartamento in vendita a Reggello Reggello San Donato in Fronzano Appartamento panoramico con terrazza e giardino  Zona turistica tra Pietrapiana e Donnini In splendida zona panoramica e a forte vocazione turistica, apprezzata per il turismo rurale paesaggistico e storico, proponiamo in vendita luminoso appartamento posto al secondo e ultimo piano. L'immobile è composto da:…",
+   "title": "Appartamento in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1855-vendita-appartamento-reggello-san-donato-in-fronzano/"
   },
   "add85045b38647c2": {
    "also_on": [],
