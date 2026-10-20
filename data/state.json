@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-19T21:48:31+00:00",
+ "last_scrape": "2026-10-20T01:04:08+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4542,6 +4542,18 @@
    "title": "Casa colonica in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1730-vendita-casa-colonica-figline-e-incisa-valdarno-cesto/"
   },
+  "7781a5cd5d741338": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-20T01:00:22+00:00",
+   "id": "7781a5cd5d741338",
+   "mq": 85,
+   "price": 138000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1079 Appartamento in vendita a Cavriglia Cavriglia Neri Nostra Esclusiva. L'appartamento in vendita si trova nella zona residenziale di Neri, a Cavriglia, ed è libero subito. ha l'ingresso indipendente ed è ubicato al piano terreno di una villetta bifamiliare, La sua superficie totale è di 85 metri quadrati, di cui 80 calpestabili. Dispone di 4 locali, tra cui 2 camere da letto e 2…",
+   "title": "Appartamento in vendita a Cavriglia",
+   "url": "https://www.colli-toscani.com/i-1744-vendita-appartamento-cavriglia-neri/"
+  },
   "77ecdc411c71f5a2": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -4865,6 +4877,18 @@
    "text": "Casale chiantigiano con vista panoramica sul Castello di Meleto Trattativa riservata €",
    "title": "Casale chiantigiano con vista panoramica sul Castello di Meleto Trattativa riservata €",
    "url": "https://www.chiantipropertygroup.com/immobili/casale-chiantigiano-con-vista-panoramica-sul-castello-di-meleto/"
+  },
+  "824453f7b579896e": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-20T01:00:22+00:00",
+   "id": "824453f7b579896e",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1775-vendita-casa-colonica-figline-e-incisa-valdarno-restone/"
   },
   "825e45c5ef4a1570": {
    "also_on": [],
@@ -6882,6 +6906,18 @@
    "title": "Villa-in-vendita-Figline-Valdarno",
    "url": "https://www.blustudioimmobiliare.it/-Villa-in-vendita-Figline-Valdarno_2846.html"
   },
+  "bc8d4fac5dea0a78": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-20T01:04:04+00:00",
+   "id": "bc8d4fac5dea0a78",
+   "mq": null,
+   "price": 145000,
+   "source": "Valdarno Affari",
+   "text": "145.000 € Appartamento in vendita a San Giovanni Valdarno San giovani V.no, zona Oltrarno vendiamo, IN ESCLUSIVA VALDARNO AFFARI, delizioso appartamento… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2307/"
+  },
   "bca3981cb8dd47a5": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -7194,6 +7230,18 @@
    "title": "Colonica-in-vendita-Rignano-sullArno",
    "url": "https://www.blustudioimmobiliare.it/-Colonica-in-vendita-Rignano-sullArno_2852.html"
   },
+  "c52027eb89a92be4": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-20T01:00:22+00:00",
+   "id": "c52027eb89a92be4",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villa in vendita a Terranuova Bracciolini",
+   "url": "https://www.colli-toscani.com/i-1850-vendita-villa-terranuova-bracciolini-penna/"
+  },
   "c537b9664be7d1f6": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -7266,6 +7314,18 @@
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1630/"
   },
+  "c66f330db7706098": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-20T01:04:04+00:00",
+   "id": "c66f330db7706098",
+   "mq": null,
+   "price": 355000,
+   "source": "Valdarno Affari",
+   "text": "355.000 € Villa in vendita a San Giovanni Valdarno San Giovanni Valdarno, in Zona Gruccia, vendiamo IN ESCLUSIVA VALDARNO AFFARI, villetta… Scopri di più",
+   "title": "Villa in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2322/"
+  },
   "c68f3a3cb56b4709": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -7325,6 +7385,18 @@
    "text": "in Vendita",
    "title": "Castello in vendita a Greve in Chianti",
    "url": "https://www.colli-toscani.com/i-1712-vendita-castello-greve-in-chianti-la-panca-dudda/"
+  },
+  "c824deab9a204856": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-20T01:04:04+00:00",
+   "id": "c824deab9a204856",
+   "mq": null,
+   "price": 175000,
+   "source": "Valdarno Affari",
+   "text": "175.000 € Appartamento in villa in vendita a San Giovanni Valdarno San Giovanni Valdarno, prima periferia, zona residenziale in bifamiliare, vendiamo luminoso appartamento… Scopri di più",
+   "title": "Appartamento in villa in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2164/"
   },
   "c82fbec14afcbaf1": {
    "also_on": [],
