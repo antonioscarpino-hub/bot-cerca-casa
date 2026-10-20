@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-20T20:00:02+00:00",
+ "last_scrape": "2026-10-20T23:09:49+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -7998,6 +7998,18 @@
    "title": "VENDITA Colonica Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=159"
   },
+  "d39312f871347392": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-20T23:06:23+00:00",
+   "id": "d39312f871347392",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1801-vendita-casa-colonica-figline-e-incisa-valdarno-poggio-alla-croce/"
+  },
   "d3a906461582f337": {
    "also_on": [],
    "comune": "Rignano sull'Arno",
@@ -8621,6 +8633,18 @@
    "text": "San Giovanni Valdarno (AR) CentroStorico 6 vani Rif. 1634 € 170.000,00 Vendesi, la possibilità di organizzare grigliate con gli amici, ritrovi, cenette intime o soltanto bagni di sole, in meravigliosa Terrazza (condominiale) da riscoprire, che domina … 12 Maggio 2026 in 5 vani ed oltre .",
    "title": "San Giovanni Valdarno (AR) CentroStorico 6 vani Rif. 1634 € 170.000,00",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=6514"
+  },
+  "e76648514622af93": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-20T23:09:46+00:00",
+   "id": "e76648514622af93",
+   "mq": null,
+   "price": 355000,
+   "source": "Valdarno Affari",
+   "text": "355.000 € Villa in vendita a Castelfranco Piandiscò Pian di Scò 2/3 Km dal centro, vendiamo IN ESCLUSIVA VALDARNO AFFARI… Scopri di più",
+   "title": "Villa in vendita a Castelfranco Piandiscò",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1739/"
   },
   "e78566a25017adac": {
    "also_on": [],
