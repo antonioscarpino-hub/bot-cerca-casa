@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-20T01:04:08+00:00",
+ "last_scrape": "2026-10-20T06:00:41+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -2859,6 +2859,18 @@
    "text": "in Vendita",
    "title": "Villa in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1538-vendita-villa-reggello-pontifogno/"
+  },
+  "4d2d9fd94369f309": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-20T05:56:54+00:00",
+   "id": "4d2d9fd94369f309",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1715-vendita-casa-colonica-reggello-san-donato-in-fronzano/"
   },
   "4d6d8fda81eee63e": {
    "also_on": [],
@@ -5886,6 +5898,18 @@
    "title": "Villa in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2190/"
   },
+  "9bcc92a96e46b542": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-20T05:56:50+00:00",
+   "id": "9bcc92a96e46b542",
+   "mq": null,
+   "price": 123000,
+   "source": "Abita",
+   "text": "9842 Appartamento Laterina Pergine Valdarno NOSTRA ESCLUSIVA 90 m 2 con garage RIF. 9842 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 MONTALTO – APPARTAMENTO DI 5 VANI CON GARAGE E TERRAZZA – VICINO ALLA 4 locali 2 camere 1 bagno 90 m 2 1 € 123.000 Novità",
+   "title": "Appartamento Laterina Pergine Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9842-appartamento-laterina-pergine-valdarno-montalto-90mq/"
+  },
   "9ca32862bc90a1f5": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -6653,6 +6677,18 @@
    "text": "€ 390.000 Laboratorio in vendita Figline E Incisa Valdarno, Via R. Scotellaro - Massa 14 locali 900 Mq 3 bagni",
    "title": "€ 390.000 Laboratorio in vendita Figline E Incisa Valdarno, Via R. Scotellaro - Massa 14 locali 900 Mq 3 bagni",
    "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/figline-e-incisa-valdarno/laboratorio-in-vendita-61183532"
+  },
+  "b5a4a5f645784726": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-20T06:00:37+00:00",
+   "id": "b5a4a5f645784726",
+   "mq": 30,
+   "price": 18000,
+   "source": "Valdarno Affari",
+   "text": "18.000 € Magazzino in vendita a Montevarchi Montevarchi via Cennano vendiamo fondo al piano terra di c.a. 30 mq… Scopri di più",
+   "title": "Magazzino in vendita a Montevarchi",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-985/"
   },
   "b61ed00dd5482275": {
    "also_on": [],
@@ -8213,6 +8249,18 @@
    "text": "9829 Appartamento Montevarchi 75 m 2 con garage RIF. 9829 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 VENDIAMO ZONA PISCINA APPARTAMENTO COMPLETAMENTE RISTRUTTURATO CON PICCOLO GARAGE E 3 locali 2 camere 1 bagno 75 m 2 1 € 142.000 Novità",
    "title": "Appartamento Montevarchi",
    "url": "https://www.abitaimmobiliare.com/immobili/9829-appartamento-montevarchi-piscina-75mq/"
+  },
+  "e167628120bd0721": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-20T06:00:37+00:00",
+   "id": "e167628120bd0721",
+   "mq": null,
+   "price": 110000,
+   "source": "Valdarno Affari",
+   "text": "110.000 € Appartamento in vendita a Montevarchi Montevarchi, prima periferia, vendiamo delizioso appartamento completamente e finemente ristrutturato, TUTTI IMPIANTI… Scopri di più",
+   "title": "Appartamento in vendita a Montevarchi",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2355/"
   },
   "e20e89f94a10bac5": {
    "also_on": [],
