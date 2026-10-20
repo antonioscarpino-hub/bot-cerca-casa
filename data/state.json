@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-20T11:27:06+00:00",
+ "last_scrape": "2026-10-20T15:54:14+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -829,6 +829,18 @@
    "text": "Vendita 160.000 € Appartamento Piazza W.Tobagi Reggello APPARTAMENTO IN VENDITA situato ad Incisa Valdarno, di circa 80 mq. appartamento al primo piano, c... Vedi Dettagli",
    "title": "cerca Reggello APPARTAMENTO VENDITA",
    "url": "https://www.immobiliaresandonato.it/immobile-reggello-_vendita_appartamento_106949.html"
+  },
+  "14ea215b69c7b675": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-20T15:51:14+00:00",
+   "id": "14ea215b69c7b675",
+   "mq": 103,
+   "price": 200000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 200.000 Negozio in vendita Castelfranco Piandiscò, Via Europa - Castelfranco Di Sopra 3 locali 103 Mq 1 bagno",
+   "title": "€ 200.000 Negozio in vendita Castelfranco Piandiscò, Via Europa - Castelfranco Di Sopra 3 locali 103 Mq 1 bagno",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/castelfranco-piandisco/negozio-in-vendita-61288668"
   },
   "1574aab9b4ba2ac9": {
    "also_on": [],
@@ -1959,6 +1971,18 @@
    "text": "9826 Colonica Bucine 615 m 2 con giardino privato e piscina Nel cuore della più autentica campagna toscana, tra dolci colline, vigneti e paesaggi di straordinaria bellezza, proponiamo in vendita a Bucine, nei pressi del 20 locali 9 camere 10 bagni 615 m 2 2 € 1.980.000 Consigliato Novità",
    "title": "Colonica Bucine",
    "url": "https://www.abitaimmobiliare.com/immobili/9826-colonica-bucine-san-pancrazio-615mq/"
+  },
+  "35bc85465512ba8a": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-20T15:50:39+00:00",
+   "id": "35bc85465512ba8a",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa semi indipendente in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1864-vendita-casa-semi-indipendente-reggello-montanino-prulli/"
   },
   "35f17992702d6f89": {
    "also_on": [],
@@ -3399,6 +3423,18 @@
    "text": "VENDITA Appartamento Montevarchi (AR)",
    "title": "VENDITA Appartamento Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=630"
+  },
+  "57f1b330c7deac2b": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-20T15:54:10+00:00",
+   "id": "57f1b330c7deac2b",
+   "mq": null,
+   "price": 105000,
+   "source": "Valdarno Affari",
+   "text": "105.000 € Appartamento in vendita a San Giovanni Valdarno annuncio Rif. 2229 San Giovanni Valdarno, prima periferia immerso nel verde e circondato… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2229/"
   },
   "58107ef83ddb02f1": {
    "also_on": [],
@@ -4889,6 +4925,18 @@
    "text": "520.000 € Villa in vendita a Loro Ciuffenna Loro Ciuffenna, zona San Giustino Valdarno, in posizione panoramica immersa nel verde,… Scopri di più",
    "title": "Villa in vendita a Loro Ciuffenna",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2336/"
+  },
+  "7f336bf4788631f6": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-20T15:50:39+00:00",
+   "id": "7f336bf4788631f6",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Casa colonica in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1266-vendita-casa-colonica-castelfranco-piandisco/"
   },
   "7f84453ae05e816c": {
    "also_on": [],
