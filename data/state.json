@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-20T06:00:41+00:00",
+ "last_scrape": "2026-10-20T11:27:06+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1562,6 +1562,18 @@
    "title": "San Giovanni Valdarno (AR) Commerciale Rif. F80",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=733"
   },
+  "2b2aee546a624286": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-20T11:24:12+00:00",
+   "id": "2b2aee546a624286",
+   "mq": 500,
+   "price": 260000,
+   "source": "RE/MAX Ideale 2",
+   "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Rustico in vendita a Terranuova Bracciolini, Campagna STRADA PROVINCIALE VECCHIA ARETINA 131 7 loc. 7 locali 500 mq 1 bagno p. terra Piano terra",
+   "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Rustico in vendita a Terranuova Brac…",
+   "url": "https://ideale.remax.it/vendita-rustico/terranuova-bracciolini/campagna-31451005-252"
+  },
   "2bff64bd81acc548": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -1609,6 +1621,18 @@
    "text": "Vendita € 240.000 Reggello 130 mq - 3 Camere - 2 Bagni Villetta bifamiliare Rif. T/2062 REGGELLO (Vaggio), NOSTRA ESCLUSIVA: Vendesi villetta, posta al piano terreno rialzato e completamente ristrutturata, composta al piano terreno rialzato da ampio soggiorno, cucina, disimpegno, due camere...",
    "title": "Villetta bifamiliare in vendita a Reggello",
    "url": "https://www.europa92immobiliare.it/i-34142127-vendita-villetta-bifamiliare-reggello/"
+  },
+  "2d88e1e22972c8fe": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-20T11:24:59+00:00",
+   "id": "2d88e1e22972c8fe",
+   "mq": 114,
+   "price": 255000,
+   "source": "BluStudio Immobiliare",
+   "text": "VENDITA 255.000 € FIGLINE E INCISA VALDARNO APPARTAMENTO in VENDITA RIF: V-2470 Ultimo piano ristrutturato con terrazzo e posto auto. NOSTRA ESCLUSIVA!!!! - A Figline e Incisa Valdarno (zona Via del Giglio), in contesto residenzi... 114 Mq superficie 2 camere 2 bagni 4 locali Vedi l'immobile",
+   "title": "APPARTAMENTO in VENDITA",
+   "url": "https://www.blustudioimmobiliare.it/APPARTAMENTO-VENDITA-FIGLINE-E-INCISA-VALDARNO-PONTEROSSO_264800.html"
   },
   "2dcf1ee418775849": {
    "also_on": [],
@@ -2379,6 +2403,18 @@
    "text": "85.000 € Locale commerciale in vendita a Montevarchi Montevarchi, zona Levanella, vendiamo fondo commerciale di c.a. 80 mq piano terra… Scopri di più",
    "title": "Locale commerciale in vendita a Montevarchi",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1759/"
+  },
+  "40f530ecdda19cfb": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-20T11:23:43+00:00",
+   "id": "40f530ecdda19cfb",
+   "mq": null,
+   "price": 245000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Affascinante Casa a Schiera Terranuova Bracciolini zona Paperina Terranuova Bracciolini rif: 8648 110 3 4 2 € 245.000 dettagli",
+   "title": "Affascinante Casa a Schiera Terranuova Bracciolini zona Paperina",
+   "url": "https://centroimmobiliare.com/immobili/affascinante-casa-a-schiera-terranuova-bracciolini-zona-paperina/"
   },
   "4184e9e04a68ce97": {
    "also_on": [],
@@ -3184,6 +3220,18 @@
    "title": "TOSCANA | Chianti | Tenuta nel cuore del Chianti con casale, fienile e 14ha",
    "url": "https://www.real-estate-toscana.com/web/immobile_dettaglio.asp?cod_annuncio=2577246&language=ita"
   },
+  "54437b77fce26850": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-20T11:23:20+00:00",
+   "id": "54437b77fce26850",
+   "mq": 228,
+   "price": null,
+   "source": "Immobiliare Più",
+   "text": "v 2049 Vendita 20 Villino ristrutturato a Montevarchi In vendita a Montevarchi Zona Giglio In vendita a Montevarchi, nella tranquilla zona del Giglio, proponiamo un affascinante villino di 228 mq, disposto su tre livelli e recentemente ristrutturato. La proprietÃ , classificata in classe energetica G, offre ampi spazi interni con un totale di sette vani, tra cui quattro camere da letto e 228 Mq -…",
+   "title": "Villino <span class=condizioni>ristrutturato</span> a Montevarchi",
+   "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2553306&language=ita"
+  },
   "546c819f9481f0e7": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -3436,6 +3484,18 @@
    "title": "Vai alla scheda",
    "url": "https://www.toskana.it/proprieta_in_toscana/758/tipica-colonica-con-annesso-e-piscina-in-posizione-panoramica"
   },
+  "597d5cc69307e870": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-20T11:27:03+00:00",
+   "id": "597d5cc69307e870",
+   "mq": null,
+   "price": 830000,
+   "source": "Valdarno Affari",
+   "text": "830.000 € Locale in vendita a Cortona Comune di Cortona, frazione Tavarnelle In ottima posizione con MASSIMA visibilità e comodo… Scopri di più",
+   "title": "Locale in vendita a Cortona",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2331/"
+  },
   "59bd53c96e02d816": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -3591,6 +3651,18 @@
    "text": "VENDITA 330.000 € FIGLINE E INCISA VALDARNO APPARTAMENTO in VENDITA RIF: V-2351 Esclusivo appartamento Full Electric di nuova costruzione -- 94 mq con loggia di 28 mq e garage di 42 mq Nel cuore di Matassino, in posizione strateg... 126 Mq superficie 2 camere 2 bagni 4 locali Vedi l'immobile",
    "title": "APPARTAMENTO in VENDITA",
    "url": "https://www.blustudioimmobiliare.it/APPARTAMENTO-VENDITA-FIGLINE-E-INCISA-VALDARNO-MATASSINO_256477.html"
+  },
+  "5fc07e39a76e912b": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-20T11:23:17+00:00",
+   "id": "5fc07e39a76e912b",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Villa in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1113-vendita-villa-castelfranco-piandisco/"
   },
   "5fecadf9665ea905": {
    "also_on": [],
@@ -4145,6 +4217,18 @@
    "text": "in Vendita Visto ma aggiornato Cod. 909 Stabile/Palazzo in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Ponte agli Stolli Figline Valdarno periferia interessante porzione di colonica da restaurare posta in zona prestigiosa e collinare ottima esposizione .l'immobile e disposto su due livelli e composta da piano terreno composti da due ampi vani per un totale di mq 80 circa al piano…",
    "title": "Stabile/Palazzo in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1103-vendita-stabilepalazzo-figline-e-incisa-valdarno-ponte-agli-stolli/"
+  },
+  "6c1d0a2f6aace6ca": {
+   "also_on": [],
+   "comune": "Laterina Pergine Valdarno",
+   "first_seen": "2026-10-20T11:23:43+00:00",
+   "id": "6c1d0a2f6aace6ca",
+   "mq": null,
+   "price": 210000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Affascinante Casa Singola da Ristrutturare a Ponticino Laterina Pergine Valdarno rif: 8655 142 2 4 2 € 210.000 dettagli",
+   "title": "Affascinante Casa Singola da Ristrutturare a Ponticino",
+   "url": "https://centroimmobiliare.com/immobili/affascinante-casa-singola-da-ristrutturare-a-ponticino/"
   },
   "6c5012ab7b775791": {
    "also_on": [],
