@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-21T13:17:47+00:00",
+ "last_scrape": "2026-10-21T18:11:41+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -6354,6 +6354,18 @@
    "title": "In the heart of Chianti Classico",
    "url": "https://prinstuscanproperties.com/properties/in-the-heart-of-chianti-classico/"
   },
+  "a1ca9c9052cfd5da": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-21T18:11:37+00:00",
+   "id": "a1ca9c9052cfd5da",
+   "mq": null,
+   "price": 160000,
+   "source": "Valdarno Affari",
+   "text": "160.000 € Appartamento in vendita a Terranuova Bracciolini Terranuova Bracciolini, zona Campogialli, vendiamo, IN ESCLUSIVA VALDARNO AFFARI, grazioso appartamento di… Scopri di più",
+   "title": "Appartamento in vendita a Terranuova Bracciolini",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2361/"
+  },
   "a2269ad3bbfa61c5": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -8885,6 +8897,18 @@
    "text": "in Vendita Cod. 497 Cascina/Casale/Masseria in vendita a Reggello Reggello Setteponti Reggello setteponti in zona collinare ottima esposizione proponiamo in vendita porzione di casa colonica indipendente su tre lati divisa in due appartamenti con ingresso indipendente per un totale di mq 200. vendiamo inoltre adiacente un grande fienile di mq 200 circa da ristrutturare . La porzione di colonica: d…",
    "title": "Cascina/Casale/Masseria in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1661-vendita-cascinacasalemasseria-reggello-setteponti/"
+  },
+  "e977da2fc72fc869": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-21T18:11:37+00:00",
+   "id": "e977da2fc72fc869",
+   "mq": null,
+   "price": 320000,
+   "source": "Valdarno Affari",
+   "text": "320.000 € Appartamento in villa in vendita a Reggello Reggello (500mt dal centro ) in zona residenziale vendiamo terratetto in… Scopri di più",
+   "title": "Appartamento in villa in vendita a Reggello",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1262/"
   },
   "e9ba616f771687ee": {
    "also_on": [],
