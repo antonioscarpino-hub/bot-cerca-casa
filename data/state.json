@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-20T23:09:49+00:00",
+ "last_scrape": "2026-10-21T07:26:22+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1936,6 +1936,18 @@
    "title": "cerca Montevarchi APPARTAMENTO VENDITA",
    "url": "https://www.studiocasauno.com/immobile-montevarchi-_vendita_appartamento_2902591.html"
   },
+  "34c98b484bb77017": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-21T07:23:09+00:00",
+   "id": "34c98b484bb77017",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1829-vendita-villa-figline-e-incisa-valdarno-poggiolino/"
+  },
   "34fafe87a8ec2ebe": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -3159,6 +3171,18 @@
    "text": "villetta in vendita a San Giovanni Valdarno 0 318.000 € Vendita",
    "title": "villetta in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2165/"
+  },
+  "529d9d728dd5de58": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-21T07:26:01+00:00",
+   "id": "529d9d728dd5de58",
+   "mq": 50,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento Figline e Incisa Valdarno 50 mq Incisa Valdarno, centrale, appartamento posto al terzo piano composto da tre vani attualmente così disposti : ingresso-cucina, soggiorno, camera matrimoniale oltre bagno 50 mq 3 locali 1 camera 2946 € 90.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2946-appartamento-figline-e-incisa-valdarno-centro-incisa-in-val-darno-50mq/"
   },
   "52b40132f8e0466b": {
    "also_on": [],
@@ -4494,6 +4518,18 @@
    "title": "Rif 6118",
    "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2601609&language=ita"
   },
+  "720040697fd53b0e": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-21T07:26:01+00:00",
+   "id": "720040697fd53b0e",
+   "mq": 100,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Unifamiliare Figline e Incisa Valdarno 100 mq con giardino privato e garage Incisa Valdarno – Loppiano, zona panoramica, ex-fienile (ex-novo) di recente costruzione unifamiliare libero su 4 lati con giardino privato di circa 1000 mq. 100 mq 4 locali 2 camere 2943 € 440.000 Novità",
+   "title": "Unifamiliare Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2943-unifamiliare-figline-e-incisa-valdarno-loppiano-100mq/"
+  },
   "726cc3abe301f10f": {
    "also_on": [],
    "comune": "Castelfranco Piandiscò",
@@ -4853,6 +4889,18 @@
    "text": "in Vendita Cod. 1031 Villette a schiera in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Viale a Monte Figline Valdarno zona residenziale panoramica con visuale a 360 gradi su tutta la montagna. importante fabbricato disposto a terra tetto ,con ottima esposizione al sole Immobile ha una metratura di circa 360mq che permetterebbe dato gli accessi, la suddivisione in due unita abitat…",
    "title": "Villette a schiera in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1696-vendita-villette-a-schiera-figline-e-incisa-valdarno-viale-a-monte/"
+  },
+  "7c17204d2622fddd": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-21T07:26:01+00:00",
+   "id": "7c17204d2622fddd",
+   "mq": 200,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Villa Unifamiliare Reggello 200 mq con giardino privato e garage Reggello – San Donato in Fronzano : Design, panorama, indipendenza e spazi da vivere. Ci sono case che offrono semplicemente spazio. E poi ci sono proprietà 200 mq 5 locali 4 camere 2942 € 547.000 Novità",
+   "title": "Villa Unifamiliare Reggello",
+   "url": "https://www.studio21immobiliare.it/immobile/2942-villa-unifamiliare-reggello-san-donato-in-fronzano-200mq/"
   },
   "7c48dcb1c70e8096": {
    "also_on": [],
@@ -5550,6 +5598,30 @@
    "title": "Casa semi indipendente in vendita a Castelfranco Piandiscò",
    "url": "https://www.colli-toscani.com/i-1756-vendita-casa-semi-indipendente-castelfranco-piandisco/"
   },
+  "8ecfc68b314a7d00": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-21T07:23:27+00:00",
+   "id": "8ecfc68b314a7d00",
+   "mq": null,
+   "price": 170000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Montevarchi zona giglio esclusiva condivisa Montevarchi rif: 8646 100 2 4 € 170.000 dettagli",
+   "title": "Montevarchi zona giglio esclusiva condivisa",
+   "url": "https://centroimmobiliare.com/immobili/montevarchi-zona-giglio-esclusiva-condivisa/"
+  },
+  "8f7f97cc8d1d74c3": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-21T07:26:01+00:00",
+   "id": "8f7f97cc8d1d74c3",
+   "mq": 130,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento Montevarchi 130 mq con garage MONTEVARCHI – Luminoso ed ampio appartamento di 130 mq posto al primo piano. Ampio ingresso, salone, soggiorno, caminetto con vetro e bocchette per aria calda, 130 mq 5 locali 3 camere 2947 € 188.000 Novità",
+   "title": "Appartamento Montevarchi",
+   "url": "https://www.studio21immobiliare.it/immobile/2947-appartamento-montevarchi-130mq/"
+  },
   "8f849b74db6df2ee": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -5717,6 +5789,18 @@
    "text": "10 Colonica Figline e Incisa Valdarno 140 mq con giardino privato e posto auto Figline Valdarno, a pochi minuti dal centro del paese, in nuovo complesso colonico residenziale circondato dal verde, terratetto con possibilità di recupero fiscale in Immobile Classe A1 140 mq 5 locali 3 camere 2906 € 398.000",
    "title": "Colonica Figline e Incisa Valdarno",
    "url": "https://www.studio21immobiliare.it/immobile/2906-colonica-figline-e-incisa-valdarno-restone-140mq/"
+  },
+  "91f2700fe5da258e": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-21T07:23:05+00:00",
+   "id": "91f2700fe5da258e",
+   "mq": null,
+   "price": 300000,
+   "source": "Abita",
+   "text": "9843 Villetta a Schiera Reggello 130 m 2 con giardino privato e posto auto RIF. 9843 In località Vaggio, nel comune di Reggello, proponiamo in vendita una caratteristica porzione angolare di colonica, disposta su tre livelli e corredata da 5 locali 3 camere 3 bagni 130 m 2 2 € 300.000 Novità",
+   "title": "Villetta a Schiera Reggello",
+   "url": "https://www.abitaimmobiliare.com/immobili/9843-villetta-a-schiera-reggello-vaggio-130mq/"
   },
   "926a81964dd7a4a5": {
    "also_on": [],
@@ -6521,6 +6605,18 @@
    "text": "Colonica in vendita Reggello",
    "title": "Colonica-in-vendita-Reggello",
    "url": "https://www.blustudioimmobiliare.it/-Colonica-in-vendita-Reggello_2860.html"
+  },
+  "aba669d579eb858e": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-21T07:26:01+00:00",
+   "id": "aba669d579eb858e",
+   "mq": 15,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Garage-box Auto-posto Auto Figline e Incisa Valdarno 15 mq Figline e Incisa Valdarno – località Burchio, vendesi posto auto scoperto situato all’interno di un piazzale chiuso e illuminato di un residence. Accesso comodo 15 mq 2944 € 9.000 Novità",
+   "title": "Garage-box Auto-posto Auto Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2944-garage-box-auto-posto-auto-figline-e-incisa-valdarno-burchio-15mq/"
   },
   "abd827125c77759f": {
    "also_on": [],
