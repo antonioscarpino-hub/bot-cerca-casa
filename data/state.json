@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-21T18:11:41+00:00",
+ "last_scrape": "2026-10-21T21:54:17+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -181,6 +181,18 @@
    "text": "",
    "title": "dettaglio.php?id=391",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=391"
+  },
+  "03cb1666ac656e8a": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-21T21:53:15+00:00",
+   "id": "03cb1666ac656e8a",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Firenze e Dintorni (Becattini)",
+   "text": "",
+   "title": "dettaglio.php?id=394",
+   "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=394"
   },
   "03fb08aaea9a8a3f": {
    "also_on": [],
@@ -2655,6 +2667,18 @@
    "text": "200.000 € Fondo Artigianale in vendita a Pian di Sco PIAN DI SCO' Faella vendesi fondo artigianale di 320mq, recente costruzione, mai… Scopri di più",
    "title": "Fondo Artigianale in vendita a Pian di Sco",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1219/"
+  },
+  "46fa02854c8ac51c": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-21T21:54:14+00:00",
+   "id": "46fa02854c8ac51c",
+   "mq": null,
+   "price": 318000,
+   "source": "Valdarno Affari",
+   "text": "318.000 € Villa in vendita a San Giovanni Valdarno San Giovanni Valdarno, a circa 4Km dal centro, vendiamo IN ESCLUSIVA VALDARNO… Scopri di più",
+   "title": "Villa in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2364/"
   },
   "472dae5381ef1e63": {
    "also_on": [],
@@ -6954,6 +6978,18 @@
    "title": "Appartamento Figline e Incisa Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9810-appartamento-figline-e-incisa-valdarno-coop-71mq/"
   },
+  "b344177b997d89a7": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-21T21:54:14+00:00",
+   "id": "b344177b997d89a7",
+   "mq": null,
+   "price": 100000,
+   "source": "Valdarno Affari",
+   "text": "100.000 € Magazzino in vendita a San Giovanni Valdarno San Giovanni Valdarno, zona Centro, in posizione facilmente accessibile fronte strada, dotato… Scopri di più",
+   "title": "Magazzino in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2228/"
+  },
   "b38949d1d18cbddf": {
    "also_on": [],
    "comune": "Reggello",
@@ -9485,6 +9521,18 @@
    "text": "A1074 Vendita 25 Appartamento ultimo piano In vendita a Montevarchi Zona Ipercoop In vendita a Montevarchi, nella comoda e richiesta zona Ipercoop, proponiamo un accogliente appartamento situato al secondo e ultimo piano di un tranquillo contesto condominiale. L'immobile Ã¨ composto da quattro vani ben distribuiti, comprendenti due camere da letto spaziose, un bagno, una cucina 73 Mq - 4 Vani â¬…",
    "title": "Appartamento ultimo piano",
    "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2578827&language=ita"
+  },
+  "ffff0a8d04f11403": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-21T21:50:37+00:00",
+   "id": "ffff0a8d04f11403",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa singola in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1800-vendita-casa-singola-reggello-montanino-prulli/"
   }
  },
  "seeded_sources": [
