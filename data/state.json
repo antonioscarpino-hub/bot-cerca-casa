@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-21T07:26:22+00:00",
+ "last_scrape": "2026-10-21T13:17:47+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1046,6 +1046,18 @@
    "title": "Virtual tour € 150.000 Prezzo aggiornato Quadrilocale in vendita Laterina, Via Luigi Pirandello - Casanuova 4 locali 85…",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/laterina/appartamenti-in-vendita-61186297"
   },
+  "1bfe5a5a23af2cf6": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-21T13:17:44+00:00",
+   "id": "1bfe5a5a23af2cf6",
+   "mq": null,
+   "price": 420000,
+   "source": "Valdarno Affari",
+   "text": "420.000 € Villa in vendita a Reggello nel comune di Reggello, a 3 km dal centro, in zona panoramica… Scopri di più",
+   "title": "Villa in vendita a Reggello",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2262/"
+  },
   "1c5558ff242d7cf8": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -1900,6 +1912,18 @@
    "title": "Appartamento Figline e Incisa Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9760-appartamento-figline-e-incisa-valdarno-stazione-figline-valdarno-110mq/"
   },
+  "33c6631b659e5914": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-21T13:14:00+00:00",
+   "id": "33c6631b659e5914",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa singola in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1848-vendita-casa-singola-figline-e-incisa-valdarno-centro/"
+  },
   "342215296dfdca1e": {
    "also_on": [],
    "comune": "Reggello",
@@ -2619,6 +2643,18 @@
    "text": "VENDITA Casa indipendente San Giovanni Valdarno (AR)",
    "title": "VENDITA Casa indipendente San Giovanni Valdarno (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=841"
+  },
+  "468448e86e1ab77c": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-21T13:17:44+00:00",
+   "id": "468448e86e1ab77c",
+   "mq": 320,
+   "price": 200000,
+   "source": "Valdarno Affari",
+   "text": "200.000 € Fondo Artigianale in vendita a Pian di Sco PIAN DI SCO' Faella vendesi fondo artigianale di 320mq, recente costruzione, mai… Scopri di più",
+   "title": "Fondo Artigianale in vendita a Pian di Sco",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1219/"
   },
   "472dae5381ef1e63": {
    "also_on": [],
@@ -4661,6 +4697,18 @@
    "text": "",
    "title": "dettaglio.php?id=414",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=414"
+  },
+  "762d9135739b2322": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-21T13:17:17+00:00",
+   "id": "762d9135739b2322",
+   "mq": 60,
+   "price": 150000,
+   "source": "Soges",
+   "text": "Vendita 150.000 € Appartamento Figline e Incisa Valdarno - La Massa 2 Camere 1 Bagno 60 mq",
+   "title": "Vendita 150.000 € Appartamento Figline e Incisa Valdarno - La Massa 2 Camere 1 Bagno 60 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50673/"
   },
   "766259c6c791e41c": {
    "also_on": [],
@@ -7422,6 +7470,18 @@
    "title": "Terreno agricolo a 15 min da Bagno a Ripoli",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=235"
   },
+  "bfcc5c89b7753aea": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-21T13:14:00+00:00",
+   "id": "bfcc5c89b7753aea",
+   "mq": 50,
+   "price": 90000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1192 appartamento con ingresso indipendente in vendita a Reggello Reggello Pontifogno Reggello periferia grazioso appartamento bilocale di recente ristrutturazione per un totale di mq 50.l'immobile molto grazioso si trova a circa 600 metri sul livello del mare ed e molto indicato cole seconda casa in aperta campagna con una zona fresca tipica delle montagne vallombrosane .L'immobil…",
+   "title": "appartamento con ingresso indipendente in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1857-vendita-appartamento-con-ingresso-indipendente-reggello-pontifogno/"
+  },
   "bfdef8b282e5adb2": {
    "also_on": [],
    "comune": "Reggello",
@@ -8453,6 +8513,18 @@
    "text": "in Vendita Lusso",
    "title": "Casa colonica in vendita a Gaiole in Chianti",
    "url": "https://www.colli-toscani.com/i-1781-vendita-casa-colonica-gaiole-in-chianti/"
+  },
+  "df25d7c7edeac634": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-21T13:16:52+00:00",
+   "id": "df25d7c7edeac634",
+   "mq": 95,
+   "price": 140000,
+   "source": "Studio Immobiliare Balsimelli",
+   "text": "Primo piano Esclusiva Cavriglia, Fraz. Massa dei Sabbioni Cavriglia Appartamenti 4 vani NOSTRA ESCLUSIVA - Fraz. Massa dei Sabbioni, vendiamo appartamento al primo piano, con ingresso indipendente tramite scala esterna privata, libero su 3 lati e composto da cucina, soggiorno con balcone, 2 camere matrimoniali e 2 bagni. Ampio garage al piano seminterrato. Ottime condizioni. Immobile molto luminos…",
+   "title": "Primo piano Esclusiva Cavriglia, Fraz. Massa dei Sabbioni Cavriglia Appartamenti 4 vani NOSTRA ESCLUSIVA - Fraz. Massa d…",
+   "url": "https://www.immobiliarebalsimelli.net/immobili/cavriglia-853-1530"
   },
   "dfa12eae13304374": {
    "also_on": [],
