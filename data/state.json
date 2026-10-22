@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-22T15:44:01+00:00",
+ "last_scrape": "2026-10-22T19:57:51+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1573,6 +1573,18 @@
    "text": "9844 Appartamento Loro Ciuffenna NOSTRA ESCLUSIVA 60 m 2 ingresso indipendente con posto auto RIF. 9844 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Nel cuore di Loro Ciuffenna, tra i borghi più belli d’Italia, vendiamo elegante 2 locali 1 camera 2 bagni 60 m 2 € 128.000 Novità",
    "title": "Appartamento Loro Ciuffenna",
    "url": "https://www.abitaimmobiliare.com/immobili/9844-appartamento-loro-ciuffenna-centro-60mq/"
+  },
+  "28c163ceb31c9494": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-22T19:54:14+00:00",
+   "id": "28c163ceb31c9494",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1791-vendita-villa-figline-e-incisa-valdarno/"
   },
   "28d444b91f65cd89": {
    "also_on": [],
