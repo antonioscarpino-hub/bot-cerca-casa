@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-22T05:25:47+00:00",
+ "last_scrape": "2026-10-22T10:42:36+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -518,6 +518,18 @@
    "title": "Casolare a pochi passi dal centro",
    "url": "https://tizianagentile.it/annunci/annuncio-test-2/"
   },
+  "0b4d6dd604d42cb3": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-22T10:42:05+00:00",
+   "id": "0b4d6dd604d42cb3",
+   "mq": 110,
+   "price": 230000,
+   "source": "Soges",
+   "text": "Vendita 230.000 € Terratetto Rignano sull'Arno 2 Camere 2 Bagni 110 mq",
+   "title": "Vendita 230.000 € Terratetto Rignano sull'Arno 2 Camere 2 Bagni 110 mq",
+   "url": "https://www.soges.it/prodotto/terratetto-in-vendita-a-rignano-sull-arno-46394/"
+  },
   "0b642e943b817ca0": {
    "also_on": [],
    "comune": "Castelfranco Piandiscò",
@@ -709,6 +721,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 289.000 € Appartamento in vendita a Bagno a Ripoli, Grassina 7 loc. 7 locali 107 mq 2 bagni 1° p. 1° piano",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 289.000 € Appartamento in vendita a Bagno a R…",
    "url": "https://ideale.remax.it/vendita-appartamento/bagno-a-ripoli/grassina-31451065-6"
+  },
+  "10d1f75716dcf822": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-22T10:38:38+00:00",
+   "id": "10d1f75716dcf822",
+   "mq": null,
+   "price": 1200000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 198_1 Studio/Ufficio in vendita a Loro Ciuffenna Loro Ciuffenna Loro Ciuffenna Chiassaia interessante azienda agricola posta in zona panoramica ottima esposizione al sole con fabbricato posto centralmente alla intera proprietà per un totale di mq 950 circa, già ad uno stato avanzato di ristrutturazione con possibilità di acquisto di immobile già finito .La proprietà è composta da 1…",
+   "title": "Studio/Ufficio in vendita a Loro Ciuffenna",
+   "url": "https://www.colli-toscani.com/i-1407-vendita-studioufficio-loro-ciuffenna/"
   },
   "10f830f476b59cbb": {
    "also_on": [],
@@ -1225,6 +1249,18 @@
    "text": "Appartamento in vendita Reggello",
    "title": "Appartamento-in-vendita-Reggello",
    "url": "https://www.blustudioimmobiliare.it/-Appartamento-in-vendita-Reggello_2858.html"
+  },
+  "20717bacea8c6470": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-22T10:42:36+00:00",
+   "id": "20717bacea8c6470",
+   "mq": 95,
+   "price": null,
+   "source": "Valdarno Casa",
+   "text": "A/2730 Vendita 36 Appartamento ottime condizioni a Reggello In vendita a Reggello Zona Montanino Rif.A/2730 A cinque minuti dal casello dell'autostrada di Incisa Valdarno, in localitÃ Montanino, proponiamo ottimo appartamento con ingresso semindipendente, molto luminoso e panoramico, dotato di aria condizionata, composto da soggiorno con angolo cottura, camera da letto matrimoniale con cabina 95 M…",
+   "title": "Appartamento <span class=condizioni>ottime condizioni</span> a Reggello",
+   "url": "https://www.valdarnocasa.it/web/immobile_dettaglio.asp?cod_annuncio=2607694&language=ita"
   },
   "213599000dfd12b5": {
    "also_on": [],
@@ -2295,6 +2331,18 @@
    "text": "",
    "title": "dettaglio.php?id=408",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=408"
+  },
+  "3be4e343498db1a7": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-22T10:42:16+00:00",
+   "id": "3be4e343498db1a7",
+   "mq": 180,
+   "price": null,
+   "source": "Studio Ciccarelli & Partner",
+   "text": "Rif 6123 FONDO COMMERCIALE A PIANO TERRA Figline e Incisa Valdarno Zona Stazione Figline â¬ 150.000 FIGLINE - PIAZZA SALVO D'ACQUISTO AMPIO FONDO DI 180 MQ A PIANO TERRA COMPOSTO DA VANO PRINCIPALE, RIPOSTIGLIO, ANTIBAGNO E WC. IN BUONE CONDIZIONI. 190 Mq 1 Vani 1 Continua",
+   "title": "Rif 6123",
+   "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2608403&language=ita"
   },
   "3be527bc84dcaaa3": {
    "also_on": [],
@@ -4709,6 +4757,18 @@
    "text": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
    "title": "VENDITA Porzione di colonica Terranuova Bracciolini (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=352"
+  },
+  "7597898e9e899c59": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-22T10:42:05+00:00",
+   "id": "7597898e9e899c59",
+   "mq": 90,
+   "price": 170000,
+   "source": "Soges",
+   "text": "Vendita 170.000 € Appartamento Montevarchi 3 Camere 2 Bagni 90 mq",
+   "title": "Vendita 170.000 € Appartamento Montevarchi 3 Camere 2 Bagni 90 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-montevarchi-50662/"
   },
   "75d67c9f89048777": {
    "also_on": [],
@@ -7986,6 +8046,18 @@
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1728-vendita-appartamento-figline-e-incisa-valdarno-centro/"
   },
+  "cc6a5693b5f13243": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-22T10:42:33+00:00",
+   "id": "cc6a5693b5f13243",
+   "mq": null,
+   "price": 160000,
+   "source": "Valdarno Affari",
+   "text": "160.000 € Terratetto in vendita a Montevarchi Montevarchi, loc. Poggio San Marco, terratetto su due livelli allo stato grezzo,… Scopri di più",
+   "title": "Terratetto in vendita a Montevarchi",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-322/"
+  },
   "cc6edaf5eef69040": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -9005,6 +9077,18 @@
    "text": "V 2224 Vendita 31 Rustico casale a Figline e Incisa Valdarno In vendita a Figline e Incisa Valdarno Zona Restone In vendita a Figline e Incisa Valdarno, nella suggestiva zona di Restone, proponiamo un prestigioso rustico casale di 250 mq al primo piano, immerso in un ampio terreno di 10.000 mq. Questa affascinante proprietÃ , caratterizzata da un'architettura tipica della tradizione toscana, offre…",
    "title": "Rustico casale <span class=condizioni></span> a Figline e Incisa Valdarno",
    "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2583655&language=ita"
+  },
+  "e9dfb1fbd7edb819": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-22T10:38:38+00:00",
+   "id": "e9dfb1fbd7edb819",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-575-vendita-villa-figline-e-incisa-valdarno/"
   },
   "eae747340053955e": {
    "also_on": [],
