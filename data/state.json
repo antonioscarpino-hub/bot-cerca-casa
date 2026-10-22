@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-21T21:54:17+00:00",
+ "last_scrape": "2026-10-22T05:25:47+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1513,6 +1513,18 @@
    "text": "Appartamenti vendita Figline Valdarno",
    "title": "Appartamenti-vendita-Figline-Valdarno",
    "url": "https://www.blustudioimmobiliare.it/-Appartamenti-vendita-Figline-Valdarno_2843.html"
+  },
+  "28178f102e7611e5": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-22T05:21:53+00:00",
+   "id": "28178f102e7611e5",
+   "mq": null,
+   "price": 128000,
+   "source": "Abita",
+   "text": "9844 Appartamento Loro Ciuffenna NOSTRA ESCLUSIVA 60 m 2 ingresso indipendente con posto auto RIF. 9844 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Nel cuore di Loro Ciuffenna, tra i borghi più belli d’Italia, vendiamo elegante 2 locali 1 camera 2 bagni 60 m 2 € 128.000 Novità",
+   "title": "Appartamento Loro Ciuffenna",
+   "url": "https://www.abitaimmobiliare.com/immobili/9844-appartamento-loro-ciuffenna-centro-60mq/"
   },
   "28d444b91f65cd89": {
    "also_on": [],
@@ -5022,6 +5034,18 @@
    "title": "€ 92.400 Ufficio in vendita Loro Ciuffenna, Via Giorgio La Pira 6 locali 143 Mq 2 bagni",
    "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/loro-ciuffenna/ufficio-in-vendita-61168550"
   },
+  "7ea7542b712f9147": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-22T05:22:30+00:00",
+   "id": "7ea7542b712f9147",
+   "mq": null,
+   "price": 119000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Elegante Casa a Schiera con Vista e Spazio Esterno – Terranuova Bracciolini Terranuova Bracciolini rif: 7664 310 3 € 119.000 dettagli",
+   "title": "Elegante Casa a Schiera con Vista e Spazio Esterno – Terranuova Bracciolini",
+   "url": "https://centroimmobiliare.com/immobili/elegante-casa-a-schiera-con-vista-e-spazio-esterno-terranuova-bracciolini/"
+  },
   "7ec1fbfc18e3cc37": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -7434,6 +7458,18 @@
    "title": "Virtual tour € 325.000 Villa a schiera in vendita Figline E Incisa Valdarno, Via Papa Giovanni XXIII - Incisa In Val D'A…",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/ville-in-vendita-61177887"
   },
+  "be653374e912a9fb": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-22T05:21:57+00:00",
+   "id": "be653374e912a9fb",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Rignano sull'Arno",
+   "url": "https://www.colli-toscani.com/i-1741-vendita-casa-colonica-rignano-sullarno-san-donato/"
+  },
   "be6799ec56932678": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -8718,6 +8754,18 @@
    "title": "San Giovanni Valdarno (AR) centro storico Terra/Tetto Rif. 1630 € 250.000,00",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=6411"
   },
+  "e34b53eddf3e66e0": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-22T05:21:57+00:00",
+   "id": "e34b53eddf3e66e0",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villetta Bifamiliare in vendita a Montevarchi",
+   "url": "https://www.colli-toscani.com/i-1830-vendita-villetta-bifamiliare-montevarchi-centro/"
+  },
   "e41ec44ef0a763f5": {
    "also_on": [],
    "comune": "Castelfranco Piandiscò",
@@ -9125,6 +9173,18 @@
    "text": "158.500 € Appartamento in vendita a Laterina Pergine Valdarno Laterina, immerso nel verde, vendiamo appartamenti e terratetti in villette di nuova… Scopri di più",
    "title": "Appartamento in vendita a Laterina Pergine Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2309/"
+  },
+  "f0e629e882ef20af": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-22T05:25:44+00:00",
+   "id": "f0e629e882ef20af",
+   "mq": null,
+   "price": 365000,
+   "source": "Valdarno Affari",
+   "text": "365.000 € villetta in vendita a San Giovanni Valdarno San Giovanni Valdarno, prima periferia, in ottima zona residenziale e di recente… Scopri di più",
+   "title": "villetta in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2332/"
   },
   "f137a591de54c5ff": {
    "also_on": [],
