@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-22T19:57:51+00:00",
+ "last_scrape": "2026-10-22T23:12:00+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3316,6 +3316,18 @@
    "title": "Appartamento Loro Ciuffenna",
    "url": "https://www.abitaimmobiliare.com/immobili/9820-appartamento-loro-ciuffenna-poggio-di-loro-65mq/"
   },
+  "51f9c8bcf9e2f935": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-22T23:08:59+00:00",
+   "id": "51f9c8bcf9e2f935",
+   "mq": 70,
+   "price": 135000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità Cod. 1160 Terreno edificabile in vendita a Reggello Reggello Matassino-Viesca Reggello  Località Matassino In contesto collinare e panoramico, proponiamo interessante proprietà situata a Matassino, Proponiamo annesso agricolo di circa 70 mq con piano di recupero a civile abitazione già approvato , che consente la realizzazione di un villino indipendente libero su quattro lati pe…",
+   "title": "Terreno edificabile in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1826-vendita-terreno-edificabile-reggello-matassino-viesca/"
+  },
   "51fda69c838386b6": {
    "also_on": [],
    "comune": "Reggello",
@@ -5777,6 +5789,18 @@
    "text": "Virtual tour € 59.000 Prezzo aggiornato Rustico in vendita Terranuova Bracciolini, Frazione Campogialli - Campogialli 4 locali 90 Mq 1 bagno",
    "title": "Virtual tour € 59.000 Prezzo aggiornato Rustico in vendita Terranuova Bracciolini, Frazione Campogialli - Campogialli 4…",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/terranuova-bracciolini/rustici-cascine-case-in-vendita-61223663"
+  },
+  "8e39f516a099b78a": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-22T23:11:56+00:00",
+   "id": "8e39f516a099b78a",
+   "mq": null,
+   "price": 220000,
+   "source": "Valdarno Affari",
+   "text": "220.000 € villetta in vendita a Cavriglia Cavriglia, zona Meleto proponiamo in vendita APPARTAMENTO DUPLEX, di recente costruzione (2010),… Scopri di più",
+   "title": "villetta in vendita a Cavriglia",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2270/"
   },
   "8e3b770a0fdb6033": {
    "also_on": [],
