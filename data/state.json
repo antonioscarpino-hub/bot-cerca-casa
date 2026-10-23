@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-22T23:12:00+00:00",
+ "last_scrape": "2026-10-23T06:33:41+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1922,6 +1922,18 @@
    "title": "Primo piano Cavriglia, Campagna Cavriglia Case coloniche Campagna, a 5 minuti dal paese, in posizione tranquilla e riser…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/cavriglia-825-1502"
   },
+  "31421ace8ef4607b": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-23T06:33:14+00:00",
+   "id": "31421ace8ef4607b",
+   "mq": 200,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Villa Unifamiliare Figline e Incisa Valdarno 200 mq con giardino privato e garage Figline Valdarno – nei pressi della stazione, villa libera su quattro lati composta da soggiorno ampio con camino, cucina, disimpegno, due camere da letto e doppi 200 mq 7 locali 3 camere 2950 € 590.000 Novità",
+   "title": "Villa Unifamiliare Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2950-villa-unifamiliare-figline-e-incisa-valdarno-stazione-figline-valdarno-200mq/"
+  },
   "317d62baa1d3fb87": {
    "also_on": [],
    "comune": "Laterina Pergine Valdarno",
@@ -2079,6 +2091,18 @@
    "text": "8 9803 Appartamento Figline e Incisa Valdarno NOSTRA ESCLUSIVA Complesso La Gaglianella 71 m 2 con ascensore LA GAGLIANELLA – ESCLUSIVA – Nel centro di Figline Valdarno, in una posizione strategica a pochi passi dalla stazione ferroviaria, dal centro commerciale e da 3 locali 2 camere 1 bagno 71 m 2 1 € 145.000 Novità",
    "title": "Appartamento Figline e Incisa Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9803-appartamento-figline-e-incisa-valdarno-coop-71mq/"
+  },
+  "35038f725dae569a": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-23T06:30:50+00:00",
+   "id": "35038f725dae569a",
+   "mq": null,
+   "price": 155000,
+   "source": "Abita",
+   "text": "9846 Appartamento Terranuova Bracciolini NOSTRA ESCLUSIVA 95 m 2 con giardino privato e garage RIF. 9846 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Terranuova Bracciolini, zona Campogialli, in contesto residenziale, vi proponiamo 4 locali 2 camere 2 bagni 95 m 2 1 € 155.000 Novità",
+   "title": "Appartamento Terranuova Bracciolini",
+   "url": "https://www.abitaimmobiliare.com/immobili/9846-appartamento-terranuova-bracciolini-campogialli-95mq/"
   },
   "35440687b90e8c2c": {
    "also_on": [],
@@ -4096,6 +4120,18 @@
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2227/"
   },
+  "6469e24421c081ed": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-23T06:30:50+00:00",
+   "id": "6469e24421c081ed",
+   "mq": null,
+   "price": 215000,
+   "source": "Abita",
+   "text": "9848 Appartamento Figline e Incisa Valdarno NOSTRA ESCLUSIVA 95 m 2 con garage RIF. 9848 Figline V.no, San Biagio, NOSTRA ESCLUSIVA, in contesto residenziale tranquillo e silenzioso, proponiamo un luminoso appartamento al primo piano, caratterizzato 4 locali 2 camere 1 bagno 95 m 2 € 215.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9848-appartamento-figline-e-incisa-valdarno-san-biagio-95mq/"
+  },
   "64995ba1b974ba44": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -4348,6 +4384,18 @@
    "title": "Primo piano Terranuova Bracciolini, Campagna Terranuova Bracciolini Terratetti, Porzioni di colonica Nelle campagne dell…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/terranuova-bracciolini-843-1520"
   },
+  "69407e76f0ab3350": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-23T06:33:38+00:00",
+   "id": "69407e76f0ab3350",
+   "mq": null,
+   "price": 84000,
+   "source": "Valdarno Affari",
+   "text": "84.000 € Appartamento in vendita a Cavriglia nel comune di Cavriglia, frazione Meleto nel centro del paese, vendiamo IN… Scopri di più",
+   "title": "Appartamento in vendita a Cavriglia",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2320/"
+  },
   "695e54739c16c936": {
    "also_on": [],
    "comune": "Rignano sull'Arno",
@@ -4409,6 +4457,18 @@
    "text": "€ 245.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via Enrico Berlinguer - Incisa In Val D'Arno 4 locali 90 Mq 1 bagno",
    "title": "€ 245.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via Enrico Berlinguer - Incisa In Val D'Arno 4 locali 90 Mq…",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/appartamenti-in-vendita-61276312"
+  },
+  "6b09a7139012cec3": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-23T06:33:14+00:00",
+   "id": "6b09a7139012cec3",
+   "mq": 96,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento Montevarchi 96 mq MONTEVARCHI, centrale, in bel palazzo storico, posto al piano terzo, appartamento ristrutturato composto da cucina abitabile, soggiorno, ampio ripostiglio, due camere da 96 mq 4 locali 2 camere 2948 € 125.000 Novità",
+   "title": "Appartamento Montevarchi",
+   "url": "https://www.studio21immobiliare.it/immobile/2948-appartamento-montevarchi-centro-96mq/"
   },
   "6b3932740aeffcd8": {
    "also_on": [],
@@ -5081,6 +5141,18 @@
    "text": "9835 Villetta a Schiera Bucine NOSTRA ESCLUSIVA 100 m 2 ingresso indipendente Nel comune di Bucine, nella suggestiva zona di Ambra, proponiamo IN ESCLUSIVA un terratetto con ingresso indipendente, disposto su due livelli, ideale per chi desidera 5 locali 2 camere 1 bagno 100 m 2 1 € 130.000 Consigliato Novità",
    "title": "Villetta a Schiera Bucine",
    "url": "https://www.abitaimmobiliare.com/immobili/9835-villetta-a-schiera-bucine-ambra-100mq/"
+  },
+  "7ad6e45774d25b45": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-23T06:33:14+00:00",
+   "id": "7ad6e45774d25b45",
+   "mq": 90,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento Figline e Incisa Valdarno 90 mq Incisa Valdarno, zona comoda e vicina ai principali servizi, in piccola palazzina in buone condizioni di soli 4 condomini , appartamento posto al piano terra rialzato 90 mq 3 locali 2 camere 2951 € 100.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2951-appartamento-figline-e-incisa-valdarno-centro-incisa-in-val-darno-90mq/"
   },
   "7b3a4ee208a22d16": {
    "also_on": [],
@@ -6366,6 +6438,18 @@
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1345-vendita-appartamento-figline-e-incisa-valdarno-centro/"
   },
+  "9b35f551dad59bf3": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-10-23T06:33:14+00:00",
+   "id": "9b35f551dad59bf3",
+   "mq": 75,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento Bucine 75 mq Levane in zona residenziale appartamento in bella palazzina al piano primo composto da: ingresso, soggiorno con zona cottura, camera matrimoniale, cameretta oltre 75 mq 3 locali 2 camere 2952 € 118.000 Novità",
+   "title": "Appartamento Bucine",
+   "url": "https://www.studio21immobiliare.it/immobile/2952-appartamento-bucine-levane-75mq/"
+  },
   "9b494580efd6ab69": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -6882,6 +6966,18 @@
    "title": "Garage-box Auto-posto Auto Figline e Incisa Valdarno",
    "url": "https://www.studio21immobiliare.it/immobile/2944-garage-box-auto-posto-auto-figline-e-incisa-valdarno-burchio-15mq/"
   },
+  "abca0e914cd374ca": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-23T06:33:14+00:00",
+   "id": "abca0e914cd374ca",
+   "mq": 72,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento San Giovanni Valdarno 72 mq San Giovanni Valdarno, centro storico, appartamento di 3 vani posto al piano secondo e composto da soggiorno con cucina, due camere oltre bagno finestrato. Posizione 72 mq 3 locali 2 camere 2949 € 98.000 Novità",
+   "title": "Appartamento San Giovanni Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2949-appartamento-san-giovanni-valdarno-centro-72mq/"
+  },
   "abd827125c77759f": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -7265,6 +7361,18 @@
    "text": "Virtual tour € 149.000 Quadrilocale in vendita San Giovanni Valdarno, Via montecarlo 4 locali 70 Mq 1 bagno",
    "title": "Virtual tour € 149.000 Quadrilocale in vendita San Giovanni Valdarno, Via montecarlo 4 locali 70 Mq 1 bagno",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/san-giovanni-valdarno/appartamenti-in-vendita-61232748"
+  },
+  "b683a9ac35cb5035": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-23T06:33:38+00:00",
+   "id": "b683a9ac35cb5035",
+   "mq": null,
+   "price": 129000,
+   "source": "Valdarno Affari",
+   "text": "Appartamento in vendita a Montevarchi 0 129.000 € Vendita",
+   "title": "Appartamento in vendita a Montevarchi",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2397/"
   },
   "b729e718f182b527": {
    "also_on": [],
@@ -9258,6 +9366,18 @@
    "title": "Cavriglia (AR) loc Santa Barbara 4 vani Rif. 1641 € 120.000,00",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=6680"
   },
+  "eb6fa64d6bdd8a47": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-23T06:33:38+00:00",
+   "id": "eb6fa64d6bdd8a47",
+   "mq": null,
+   "price": 230000,
+   "source": "Valdarno Affari",
+   "text": "Appartamento in vendita a Figline e Incisa Valdarno 0 230.000 € Vendita",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2398/"
+  },
   "ec5464223cac0246": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -9533,6 +9653,18 @@
    "text": "480.000 € Capannone in vendita a Castelfranco Piandiscò Castelfranco , vicino al centro, vendiamo capannone artigianale di circa 1200 mq… Scopri di più",
    "title": "Capannone in vendita a Castelfranco Piandiscò",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2025/"
+  },
+  "f6e7662aad4ac612": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-23T06:30:50+00:00",
+   "id": "f6e7662aad4ac612",
+   "mq": null,
+   "price": 120000,
+   "source": "Abita",
+   "text": "9849 Appartamento San Giovanni Valdarno 52 m 2 Nel centro di San Giovanni Valdarno, in posizione strategica a pochi passi dalla stazione ferroviaria e comoda per raggiungere tutti i principali servizi, proponiamo in 2 locali 1 camera 1 bagno 52 m 2 1 € 120.000 Novità",
+   "title": "Appartamento San Giovanni Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9849-appartamento-san-giovanni-valdarno-centro-52mq/"
   },
   "f79135cbd23cd342": {
    "also_on": [],
