@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-23T17:20:32+00:00",
+ "last_scrape": "2026-10-23T20:34:25+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3292,6 +3292,18 @@
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.cadesoimmobiliare.it/i-151-vendita-villa-figline-e-incisa-valdarno-centro/"
   },
+  "4f7985e2c313eae4": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-23T20:33:57+00:00",
+   "id": "4f7985e2c313eae4",
+   "mq": 100,
+   "price": 139000,
+   "source": "Soges",
+   "text": "Vendita 139.000 € Appartamento Figline e Incisa Valdarno - Centro Figline Valdarno 3 Camere 1 Bagno 100 mq",
+   "title": "Vendita 139.000 € Appartamento Figline e Incisa Valdarno - Centro Figline Valdarno 3 Camere 1 Bagno 100 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50678/"
+  },
   "4fe9e07e3726c4c9": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -5441,6 +5453,18 @@
    "text": "Vendita Tratt. riservata MC 22124 AZIENDA PANZANO CHIANTI | PANZANO | Villa Panoramica con cantina e vigneto DOCG Greve in Chianti Zona Panzano in Chianti TOSCANA Villa panoramica con vigneto DOCG nel cuore del Chianti Classico A pochi chilometri dal borgo di Panzano in Chianti, in una delle zone piÃ¹ ... 314 Mq - 15 Vani 4 6",
    "title": "CHIANTI | PANZANO | Villa Panoramica con cantina e vigneto DOCG",
    "url": "https://www.real-estate-toscana.com/web/immobile_dettaglio.asp?cod_annuncio=2589536&language=ita"
+  },
+  "8106118acbcb0d38": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-23T20:34:22+00:00",
+   "id": "8106118acbcb0d38",
+   "mq": null,
+   "price": 310000,
+   "source": "Valdarno Affari",
+   "text": "310.000 € Porzione in vendita a Terranuova Bracciolini Terranuova Bracciolini, a circa 4 km dal paese circondato dalla campagna, vendiamo… Scopri di più",
+   "title": "Porzione in vendita a Terranuova Bracciolini",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2311/"
   },
   "814c19b649697723": {
    "also_on": [],
