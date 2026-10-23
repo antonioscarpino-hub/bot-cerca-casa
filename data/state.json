@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-23T20:34:25+00:00",
+ "last_scrape": "2026-10-23T23:32:48+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -6677,6 +6677,18 @@
    "text": "Appartamento in vendita a San Giovanni Valdarno 0 185.000 € Vendita",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2388/"
+  },
+  "9d9e2ec0e73b641f": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-23T23:29:58+00:00",
+   "id": "9d9e2ec0e73b641f",
+   "mq": 260,
+   "price": 165000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 360 Commerciale Altro in vendita a Greve in Chianti Greve in Chianti Greve in Chianti Lucolena interessante fondo artigianale disposto in un quattro locali , completo di bagno e antibagno per un totale di mq 260 ottimo come investimento per affitti o per attivita artigianale da vedere 260 mq 1 Bagni € 165.000 Dettagli",
+   "title": "Commerciale Altro in vendita a Greve in Chianti",
+   "url": "https://www.colli-toscani.com/i-1443-vendita-commerciale-altro-greve-in-chianti/"
   },
   "9dd4b92d6db74230": {
    "also_on": [],
