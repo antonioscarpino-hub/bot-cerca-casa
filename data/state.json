@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-23T12:09:32+00:00",
+ "last_scrape": "2026-10-23T17:20:32+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -2992,6 +2992,18 @@
    "title": "Virtual tour € 265.000 Trilocale in vendita Reggello, Piazza Silvano Ceccherelli - Cascia 3 locali 78 Mq 1 bagno",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/reggello/appartamenti-in-vendita-61203876"
   },
+  "4a157c704794c25a": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-23T17:20:00+00:00",
+   "id": "4a157c704794c25a",
+   "mq": 450,
+   "price": 790000,
+   "source": "Soges",
+   "text": "Vendita 790.000 € Villa Reggello 12 Camere 7 Bagni 450 mq",
+   "title": "Vendita 790.000 € Villa Reggello 12 Camere 7 Bagni 450 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-reggello-50196/"
+  },
   "4a3fb3304a819822": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -3592,6 +3604,18 @@
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-990-vendita-villa-figline-e-incisa-valdarno-gaville/"
   },
+  "55880bd66376ec67": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-23T17:20:28+00:00",
+   "id": "55880bd66376ec67",
+   "mq": null,
+   "price": 80000,
+   "source": "Valdarno Affari",
+   "text": "80.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni V.no via XI Febbraio, vendiamo appartamento posto al piano basso,… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2297/"
+  },
   "560e5b8b02a34968": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -3867,6 +3891,18 @@
    "text": "in Vendita Lusso",
    "title": "Casa colonica in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1729-vendita-casa-colonica-figline-e-incisa-valdarno-gaville/"
+  },
+  "5bce2ec6f2bbda1c": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-23T17:20:00+00:00",
+   "id": "5bce2ec6f2bbda1c",
+   "mq": 34,
+   "price": 25000,
+   "source": "Soges",
+   "text": "Vendita 25.000 € Box o garage Rignano sull'Arno 34 mq",
+   "title": "Vendita 25.000 € Box o garage Rignano sull'Arno 34 mq",
+   "url": "https://www.soges.it/prodotto/garage-in-vendita-a-rignano-sull-arno-50199/"
   },
   "5c1b0414ef486ce8": {
    "also_on": [],
@@ -5358,6 +5394,18 @@
    "title": "Terratetto in vendita a Montevarchi",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2352/"
   },
+  "80392727192cd992": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-23T17:20:00+00:00",
+   "id": "80392727192cd992",
+   "mq": 100,
+   "price": 260000,
+   "source": "Soges",
+   "text": "Vendita 260.000 € Appartamento Reggello 2 Camere 2 Bagni 100 mq",
+   "title": "Vendita 260.000 € Appartamento Reggello 2 Camere 2 Bagni 100 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-50202/"
+  },
   "803c5fde4b543e34": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -6030,6 +6078,18 @@
    "title": "Colonica-in-vendita-Figline-Valdarno",
    "url": "https://www.blustudioimmobiliare.it/-Colonica-in-vendita-Figline-Valdarno_2861.html"
   },
+  "8fc428f2be6c54f5": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-23T17:20:28+00:00",
+   "id": "8fc428f2be6c54f5",
+   "mq": 200,
+   "price": 350000,
+   "source": "Valdarno Affari",
+   "text": "350.000 € Attico in vendita a San Giovanni Valdarno San Giovanni V.no oggetto esclusivo, vendiamo attico di c.a 200 mq in… Scopri di più",
+   "title": "Attico in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1968/"
+  },
   "8ffd7eb52457553f": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -6137,6 +6197,18 @@
    "text": "Virtual tour € 79.000 Bilocale in vendita Figline E Incisa Valdarno, Via Roma - Incisa In Val D'Arno 50 Mq 1 bagno",
    "title": "Virtual tour € 79.000 Bilocale in vendita Figline E Incisa Valdarno, Via Roma - Incisa In Val D'Arno 50 Mq 1 bagno",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/appartamenti-in-vendita-61126563"
+  },
+  "915d3f83ed66b595": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-23T17:20:28+00:00",
+   "id": "915d3f83ed66b595",
+   "mq": null,
+   "price": 180000,
+   "source": "Valdarno Affari",
+   "text": "180.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni Valdarno, pressi Piazza Bologna, vicina al centro e a tutti… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2349/"
   },
   "916d7f673e9370e4": {
    "also_on": [],
@@ -8010,6 +8082,18 @@
    "title": "Colonica-in-vendita-Rignano-sullArno",
    "url": "https://www.blustudioimmobiliare.it/-Colonica-in-vendita-Rignano-sullArno_2852.html"
   },
+  "c4da1ccca3b22a2d": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-23T17:20:00+00:00",
+   "id": "c4da1ccca3b22a2d",
+   "mq": 198,
+   "price": 150000,
+   "source": "Soges",
+   "text": "Vendita 150.000 € Locale commerciale Rignano sull'Arno 2 Camere 1 Bagno 198 mq",
+   "title": "Vendita 150.000 € Locale commerciale Rignano sull'Arno 2 Camere 1 Bagno 198 mq",
+   "url": "https://www.soges.it/prodotto/locale-in-vendita-a-rignano-sull-arno-50201/"
+  },
   "c52027eb89a92be4": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -9077,6 +9161,18 @@
    "text": "9829 Appartamento Montevarchi 75 m 2 con garage RIF. 9829 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 VENDIAMO ZONA PISCINA APPARTAMENTO COMPLETAMENTE RISTRUTTURATO CON PICCOLO GARAGE E 3 locali 2 camere 1 bagno 75 m 2 1 € 142.000 Novità",
    "title": "Appartamento Montevarchi",
    "url": "https://www.abitaimmobiliare.com/immobili/9829-appartamento-montevarchi-piscina-75mq/"
+  },
+  "e15483c6fb88d4cd": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-23T17:17:36+00:00",
+   "id": "e15483c6fb88d4cd",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Visto ma aggiornato",
+   "title": "Azienda Agricola in vendita a Greve in Chianti",
+   "url": "https://www.colli-toscani.com/i-1287-vendita-azienda-agricola-greve-in-chianti/"
   },
   "e167628120bd0721": {
    "also_on": [],
