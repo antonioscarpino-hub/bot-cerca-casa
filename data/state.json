@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-23T06:33:41+00:00",
+ "last_scrape": "2026-10-23T12:09:32+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1802,6 +1802,18 @@
    "title": "Casa singola in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1808-vendita-casa-singola-figline-e-incisa-valdarno/"
   },
+  "2ee9be08d5852847": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-23T12:06:51+00:00",
+   "id": "2ee9be08d5852847",
+   "mq": 800,
+   "price": 2600000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità Cod. 1161 Capannone in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Industriale Figline Valdarno interessante capannone di mq 4800 circa con ampio piazzale privato e accesso diretto ai servizi indicato per qualsiasi tipo di attività possibilità di trasformazione in parte in commerciale parte del capannone e alto 9 metri e parte 6 metri maggiori informazioni su co…",
+   "title": "Capannone in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1827-vendita-capannone-figline-e-incisa-valdarno-industriale/"
+  },
   "2f4d1dbaea88bad3": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -3256,6 +3268,18 @@
    "title": "Cascina/Casale/Masseria in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1636-vendita-cascinacasalemasseria-figline-e-incisa-valdarno-gaville/"
   },
+  "4f058362559a554a": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-23T12:08:18+00:00",
+   "id": "4f058362559a554a",
+   "mq": 175,
+   "price": 340000,
+   "source": "CA.DE.SO. Immobiliare",
+   "text": "Novità € 340.000 Villa in vendita a Figline e Incisa Valdarno - centro FIGLINE CENTRO - VILLA INDIPENDENTE CON GIARDINOL'IMMAGINE DI COPERTINA HA IL SOLO SCOPO RAPPRESENTATIVO.Per privacy tutte le foto, video e ulteriori dettagli... 175 mq 3 Camere 2 Bagni Cod. 151 Dettagli",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.cadesoimmobiliare.it/i-151-vendita-villa-figline-e-incisa-valdarno-centro/"
+  },
   "4fe9e07e3726c4c9": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -3831,6 +3855,18 @@
    "text": "Vendita 169.000 € Appartamento Reggello - Tosi - Pian di Melosa 3 Camere 2 Bagni 120 mq",
    "title": "Vendita 169.000 € Appartamento Reggello - Tosi - Pian di Melosa 3 Camere 2 Bagni 120 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-50660/"
+  },
+  "5b6ae1310450db74": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-23T12:06:51+00:00",
+   "id": "5b6ae1310450db74",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Casa colonica in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1729-vendita-casa-colonica-figline-e-incisa-valdarno-gaville/"
   },
   "5c1b0414ef486ce8": {
    "also_on": [],
@@ -5441,6 +5477,18 @@
    "text": "Vendita Splendida villa panoramica con ampio terreno a Loro Ciuffenna ESCLUSIVA Loro Ciuffenna rif: 8635 280 + di 3 8 + di 3 € 750.000 dettagli",
    "title": "Splendida villa panoramica con ampio terreno a Loro Ciuffenna ESCLUSIVA",
    "url": "https://centroimmobiliare.com/immobili/splendida-villa-panoramica-con-ampio-terreno-a-loro-ciuffenna-esclusiva/"
+  },
+  "83fd3ad50338ab3e": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-23T12:09:29+00:00",
+   "id": "83fd3ad50338ab3e",
+   "mq": null,
+   "price": 160000,
+   "source": "Valdarno Affari",
+   "text": "160.000 € Colonica in vendita a Terranuova Bracciolini Terranuova Bracciolini, nella campagna di La Penna, vendiamo grazioso Terra-tetto circondato dalla… Scopri di più",
+   "title": "Colonica in vendita a Terranuova Bracciolini",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2376/"
   },
   "84c47603cc877df2": {
    "also_on": [],
@@ -8070,6 +8118,18 @@
    "title": "Casa colonica in vendita a Cavriglia",
    "url": "https://www.colli-toscani.com/i-1719-vendita-casa-colonica-cavriglia-chiantigiana/"
   },
+  "c75428e9fbeda135": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-23T12:08:59+00:00",
+   "id": "c75428e9fbeda135",
+   "mq": 304,
+   "price": 450000,
+   "source": "Soges",
+   "text": "Vendita 450.000 € Villa Reggello 4 Camere 3 Bagni 304 mq",
+   "title": "Vendita 450.000 € Villa Reggello 4 Camere 3 Bagni 304 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-reggello-50200/"
+  },
   "c75ce575d0c46be1": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -8213,6 +8273,18 @@
    "text": "in Vendita",
    "title": "Casa colonica in vendita a Loro Ciuffenna",
    "url": "https://www.colli-toscani.com/i-1735-vendita-casa-colonica-loro-ciuffenna-poggio-di-loro/"
+  },
+  "cb0c8db33b510e40": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-23T12:08:59+00:00",
+   "id": "cb0c8db33b510e40",
+   "mq": 130,
+   "price": 92000,
+   "source": "Soges",
+   "text": "Vendita 92.000 € Locale commerciale Reggello 2 Camere 1 Bagno 130 mq",
+   "title": "Vendita 92.000 € Locale commerciale Reggello 2 Camere 1 Bagno 130 mq",
+   "url": "https://www.soges.it/prodotto/locale-in-vendita-a-reggello-50197/"
   },
   "cb3d910321795405": {
    "also_on": [],
@@ -8477,6 +8549,18 @@
    "text": "Vendita € 440.000 Figline e Incisa Valdarno 262 mq - 3 Camere - 3 Bagni Villetta bifamiliare Rif. E/2000 FIGLINE V. NO (Cesto) NOSTRA ESCLUSIVA: In zona tranquilla vendesi bellissimma villetta caposchiera mq. 225 circa calpestabili escluso aree scoperte, di recente costruzione, finita e rifinita in ogni sua...",
    "title": "Villetta bifamiliare in vendita a Figline e Incisa Valdarno",
    "url": "https://www.europa92immobiliare.it/i-30745857-vendita-villetta-bifamiliare-figline-e-incisa-valdarno/"
+  },
+  "d21691a662d9aace": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-23T12:08:59+00:00",
+   "id": "d21691a662d9aace",
+   "mq": 210,
+   "price": 450000,
+   "source": "Soges",
+   "text": "Vendita 450.000 € Villa Rignano sull'Arno 4 Camere 2 Bagni 210 mq",
+   "title": "Vendita 450.000 € Villa Rignano sull'Arno 4 Camere 2 Bagni 210 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-rignano-sull-arno-50198/"
   },
   "d22976e0e0213641": {
    "also_on": [],
