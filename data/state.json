@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-24T07:14:05+00:00",
+ "last_scrape": "2026-10-24T12:07:47+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1633,6 +1633,18 @@
    "text": "Rif B6108 Appartamento a Figline e Incisa Valdarno Zona Matassino â¬ 215.000 In localitÃ MATASSINO al primo piano di villetta bifamiliare, in zona residenziale e vicina tutti i servizi, proponiamo in vendita appartamento di 6 120 Mq 6 Vani 1 4 Continua",
    "title": "Rif B6108",
    "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2585400&language=ita"
+  },
+  "29ba3b50d931b127": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-24T12:05:09+00:00",
+   "id": "29ba3b50d931b127",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa singola in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1213-vendita-casa-singola-figline-e-incisa-valdarno/"
   },
   "2a17e2b0bcf24d14": {
    "also_on": [],
