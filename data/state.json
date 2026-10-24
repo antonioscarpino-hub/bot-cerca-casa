@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-23T23:32:48+00:00",
+ "last_scrape": "2026-10-24T07:14:05+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -961,6 +961,18 @@
    "text": "30 9814 Villetta a Schiera Cavriglia NOSTRA ESCLUSIVA 145 m 2 con giardino privato e posto auto Zona Vacchereccia – Vendesi terratetto angolare con 13.000 mq di terreno Immerso in un contesto tranquillo e circondato dal verde, proponiamo in ESCLUSIVA un 6 locali 3 camere 2 bagni 145 m 2 1 € 350.000 Consigliato Novità",
    "title": "Villetta a Schiera Cavriglia",
    "url": "https://www.abitaimmobiliare.com/immobili/9814-villetta-a-schiera-cavriglia-vacchereccia-145mq/"
+  },
+  "16ffa85aaba1f440": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-24T07:14:02+00:00",
+   "id": "16ffa85aaba1f440",
+   "mq": null,
+   "price": 159000,
+   "source": "Valdarno Affari",
+   "text": "Appartamento in vendita a San Giovanni Valdarno 0 159.000 € Vendita",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2399/"
   },
   "1736bbc1fd27be74": {
    "also_on": [],
@@ -5058,6 +5070,18 @@
    "title": "Vendesi colonica nel Comune di Loro – Zona Gorgiti",
    "url": "https://centroimmobiliare.com/immobili/vendesi-colonica-nel-comune-di-loro-zona-gorgiti/"
   },
+  "76baa6d7e6268215": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-24T07:11:33+00:00",
+   "id": "76baa6d7e6268215",
+   "mq": 25,
+   "price": 60000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità Cod. 1214 Terreno Agricolo in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Pian delle Macchie Terreno agricolo per la maggior parte con olivi con ottima esposizione al sole presente nella superfice un piccolo annesso agricolo . 🏡 STIAMO CERCANDO IMMOBILI PER I NOSTRI CLIENTI REFERENZIATI! Vendere o comprare casa è uno dei passi più importanti nella vita. Per ques…",
+   "title": "Terreno Agricolo in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1879-vendita-terreno-agricolo-figline-e-incisa-valdarno-pian-delle-macchie/"
+  },
   "76f44459b86d9f49": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -8009,6 +8033,18 @@
    "text": "€ 160.000 Capannone in vendita Reggello, Via dante alighieri 4 locali 242 Mq 2 bagni",
    "title": "€ 160.000 Capannone in vendita Reggello, Via dante alighieri 4 locali 242 Mq 2 bagni",
    "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/reggello/capannone-in-vendita-61196556"
+  },
+  "c013cb55084f10d7": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-24T07:13:42+00:00",
+   "id": "c013cb55084f10d7",
+   "mq": 130,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento Figline e Incisa Valdarno 130 mq con garage Figline Valdarno, a due passi dal centro storico, ampio appartamento di 5 vani posto al secondo ed ultimo piano con soffitta. L’immobile di circa 130 mq è 130 mq 5 locali 3 camere 2953 € 240.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2953-appartamento-figline-e-incisa-valdarno-centro-figline-valdarno-130mq/"
   },
   "c04f8a0e55d36459": {
    "also_on": [],
