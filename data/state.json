@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-24T12:07:47+00:00",
+ "last_scrape": "2026-10-24T16:08:26+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -8225,6 +8225,18 @@
    "text": "400.000 € Fondo Artigianale in vendita a Castelfranco Piandiscò Castelfranco Piandiscò vendiamo capannone indipendente di c.a. 400 mq con ampio resede… Scopri di più",
    "title": "Fondo Artigianale in vendita a Castelfranco Piandiscò",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2373/"
+  },
+  "c59c1b00a48645f9": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-24T16:05:10+00:00",
+   "id": "c59c1b00a48645f9",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Castello in vendita a Campiglia Marittima",
+   "url": "https://www.colli-toscani.com/i-1825-vendita-castello-campiglia-marittima/"
   },
   "c5e730db14cd85ae": {
    "also_on": [],
