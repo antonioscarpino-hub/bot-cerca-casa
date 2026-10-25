@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-25T13:49:03+00:00",
+ "last_scrape": "2026-10-25T17:35:03+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -9425,6 +9425,18 @@
    "text": "VENDITA Appartamento Pian di Sco (AR)",
    "title": "VENDITA Appartamento Pian di Sco (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=427"
+  },
+  "e4908c583a889567": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-25T17:35:00+00:00",
+   "id": "e4908c583a889567",
+   "mq": null,
+   "price": 750000,
+   "source": "Valdarno Affari",
+   "text": "750.000 € Villa in vendita a Loro Ciuffenna Loro Ciuffenna, sulla Setteponti, vendiamo in posizione panoramica bellissima colonica in stile… Scopri di più",
+   "title": "Villa in vendita a Loro Ciuffenna",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1895/"
   },
   "e505bd20f18dc019": {
    "also_on": [],
