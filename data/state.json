@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-25T04:15:25+00:00",
+ "last_scrape": "2026-10-25T09:16:55+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3448,6 +3448,18 @@
    "title": "Casa colonica in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1831-vendita-casa-colonica-reggello-cancelli/"
   },
+  "5209f35aaa0341c0": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-25T09:16:51+00:00",
+   "id": "5209f35aaa0341c0",
+   "mq": null,
+   "price": 195000,
+   "source": "Valdarno Affari",
+   "text": "195.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni Valdarno, zona Centrale e vicina a tutti servizi, vendiamo bellissimo… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2365/"
+  },
   "520e9cc629479ad4": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -6834,6 +6846,18 @@
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 385.000 € Appartamento in vendita a Rignano s…",
    "url": "https://ideale.remax.it/vendita-appartamento/rignano-sull-arno/centro-31451015-398"
   },
+  "a157d22e0b93c642": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-25T09:16:51+00:00",
+   "id": "a157d22e0b93c642",
+   "mq": null,
+   "price": 118000,
+   "source": "Valdarno Affari",
+   "text": "118.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni Valdarno, in zona centrale vendiamo IN ESCLUSIVA appartamento posto al… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2326/"
+  },
   "a16911f6e160fb35": {
    "also_on": [],
    "comune": "Bucine",
@@ -8993,6 +9017,18 @@
    "text": "Appartamento in vendita a San Giovanni Valdarno 0 165.000 € Vendita",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2387/"
+  },
+  "d9a098a81d78463e": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-25T09:14:13+00:00",
+   "id": "d9a098a81d78463e",
+   "mq": null,
+   "price": 26000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1102 Terreno Agricolo in vendita a Reggello Reggello Montanino-Prulli Questo terreno agricolo in vendita si trova nella pittoresca zona di Montanino-Prulli, nel comune di Reggello. Si estende su una superficie totale di 11.000 metri quadrati, interamente destinati ad attività agricole.Il terreno è caratterizzato da una conformazione pianeggiante, ideale per coltivazioni di vario ge…",
+   "title": "Terreno Agricolo in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1767-vendita-terreno-agricolo-reggello-montanino-prulli/"
   },
   "da90e1e4a8c2b876": {
    "also_on": [],
