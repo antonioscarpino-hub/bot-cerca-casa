@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-25T09:16:55+00:00",
+ "last_scrape": "2026-10-25T13:49:03+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -6918,6 +6918,18 @@
    "title": "Primo piano Esclusiva Terranuova Bracciolini, Fraz. Penna Terranuova Bracciolini Terratetti, Porzioni di colonica Fraz.…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/terranuova-bracciolini-847-1524"
   },
+  "a2b00c735b8648d3": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-25T13:48:59+00:00",
+   "id": "a2b00c735b8648d3",
+   "mq": null,
+   "price": 125000,
+   "source": "Valdarno Affari",
+   "text": "125.000 € Appartamento in vendita a Terranuova Bracciolini Terranuova Bracciolini, zona centrale con ingresso da viale Europa, posto al piano… Scopri di più",
+   "title": "Appartamento in vendita a Terranuova Bracciolini",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2371/"
+  },
   "a2cb027840061d35": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -8129,6 +8141,18 @@
    "text": "225.000 € Villa in vendita a San Giovanni Valdarno San Giovanni Valdarno, prima periferia ( catastalmente nel comune di Terranuova), circondato… Scopri di più",
    "title": "Villa in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2340/"
+  },
+  "c1cf5954cbbb86ed": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-25T13:46:28+00:00",
+   "id": "c1cf5954cbbb86ed",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Casa colonica in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1718-vendita-casa-colonica-reggello-pontifogno/"
   },
   "c1ef6e009300e2d3": {
    "also_on": [],
