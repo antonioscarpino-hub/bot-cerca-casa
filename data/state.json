@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-25T17:35:03+00:00",
+ "last_scrape": "2026-10-25T22:29:31+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -109,6 +109,18 @@
    "text": "San Giovanni Valdarno (AR) viale Gramsci 5 vani Rif. 1633 € 175.000,00 In bella zona, al secondo ed ultimo piano di palazzina bifamiliare, vendesi luminoso appartamento di 5 vani con una superficie di 105 mq. …. 27 Aprile 2026 in 5 vani ed oltre .",
    "title": "San Giovanni Valdarno (AR) viale Gramsci 5 vani Rif. 1633 € 175.000,00",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=6464"
+  },
+  "01b662611182e199": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-25T22:27:05+00:00",
+   "id": "01b662611182e199",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Cascina/Casale/Masseria in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1623-vendita-cascinacasalemasseria-castelfranco-piandisco/"
   },
   "022f41411b4ae52f": {
    "also_on": [],
@@ -5489,6 +5501,18 @@
    "text": "20.000 € Terreno in vendita a Cavriglia Cavriglia Loc. Meleto, vicino ai servizi, vendiamo terreno agricolo di c.a. 6000… Scopri di più",
    "title": "Terreno in vendita a Cavriglia",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2351/"
+  },
+  "80a0dd590c4be216": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-25T22:27:05+00:00",
+   "id": "80a0dd590c4be216",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa semi indipendente in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1859-vendita-casa-semi-indipendente-reggello-pontifogno/"
   },
   "80adede4e2c50fa2": {
    "also_on": [],
