@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-24T21:31:12+00:00",
+ "last_scrape": "2026-10-25T04:15:25+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -517,6 +517,18 @@
    "text": "Casolare a pochi passi dal centro San Giovanni Valdarno 240 mq 9 1 130.000€",
    "title": "Casolare a pochi passi dal centro",
    "url": "https://tizianagentile.it/annunci/annuncio-test-2/"
+  },
+  "0b29142adfec4f33": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-25T04:15:21+00:00",
+   "id": "0b29142adfec4f33",
+   "mq": null,
+   "price": 130000,
+   "source": "Valdarno Affari",
+   "text": "130.000 € Casa di campagna in vendita a Loro Ciuffenna Loro Ciuffenna zona Anciolina vendiamo, IN ESCLUSIVA VALDARNO AFFARI, caratteristica casa in… Scopri di più",
+   "title": "Casa di campagna in vendita a Loro Ciuffenna",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2240/"
   },
   "0b4d6dd604d42cb3": {
    "also_on": [],
