@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-26T05:57:21+00:00",
+ "last_scrape": "2026-10-26T12:42:24+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -2079,6 +2079,18 @@
    "text": "10 9760 Appartamento Figline e Incisa Valdarno 110 m 2 con garage RIF. 9760 Figline Valdarno, a due passi dalla stazione ferroviaria e dai principali servizi, in palazzina bifamiliare con tetto e facciate ristrutturati, proponiamo in 5 locali 3 camere 1 bagno 110 m 2 2 € 220.000",
    "title": "Appartamento Figline e Incisa Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9760-appartamento-figline-e-incisa-valdarno-stazione-figline-valdarno-110mq/"
+  },
+  "3336f0dde32ab186": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-10-26T12:40:07+00:00",
+   "id": "3336f0dde32ab186",
+   "mq": 100,
+   "price": 180000,
+   "source": "Studio Casa Uno",
+   "text": "2040 Vendita Riferimento 2040 5 Locali 2 Camere 1 Servizi 100 Mq Appartamento (Bucine) Bucine (CENTRO) // StudioCasaUno propone immobile con vista panoramica sito al secondo piano di picc... € 180.000 Vedi Dettagli",
+   "title": "cerca Bucine APPARTAMENTO VENDITA",
+   "url": "https://www.studiocasauno.com/immobile-bucine-_vendita_appartamento_2906813.html"
   },
   "33c6631b659e5914": {
    "also_on": [],
@@ -7997,6 +8009,18 @@
    "text": "Virtual tour € 325.000 Villa a schiera in vendita Figline E Incisa Valdarno, Via Papa Giovanni XXIII - Incisa In Val D'Arno 5 locali 200 Mq 3 bagni",
    "title": "Virtual tour € 325.000 Villa a schiera in vendita Figline E Incisa Valdarno, Via Papa Giovanni XXIII - Incisa In Val D'A…",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/ville-in-vendita-61177887"
+  },
+  "be5631a741b1becc": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-26T12:39:59+00:00",
+   "id": "be5631a741b1becc",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa colonica in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1843-vendita-casa-colonica-reggello-donnini/"
   },
   "be653374e912a9fb": {
    "also_on": [],
