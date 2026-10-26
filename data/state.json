@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-26T12:42:24+00:00",
+ "last_scrape": "2026-10-26T18:56:27+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -878,6 +878,18 @@
    "title": "Villetta a Schiera Cavriglia",
    "url": "https://www.studio21immobiliare.it/immobile/2939-villetta-a-schiera-cavriglia-vacchereccia-200mq/"
   },
+  "145d158f6377d87d": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-26T18:53:22+00:00",
+   "id": "145d158f6377d87d",
+   "mq": 205,
+   "price": 118000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 118.000 Negozio in vendita Montevarchi, Via Ammiraglio Burzagli 8 locali 205 Mq 2 bagni",
+   "title": "€ 118.000 Negozio in vendita Montevarchi, Via Ammiraglio Burzagli 8 locali 205 Mq 2 bagni",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/montevarchi/negozio-in-vendita-61146290"
+  },
   "147a2e43d99b0f95": {
    "also_on": [],
    "comune": "Reggello",
@@ -1274,6 +1286,18 @@
    "title": "VENDITA Appartamento Figline Valdarno (FI)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=459"
   },
+  "1fea075745292694": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-26T18:53:09+00:00",
+   "id": "1fea075745292694",
+   "mq": null,
+   "price": 280000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Spazioso semindipedente in vendita Montevarchi piazza della Repubblica Montevarchi rif: 8201 150 3 5 2 € 280.000 dettagli",
+   "title": "Spazioso semindipedente in vendita Montevarchi piazza della Repubblica",
+   "url": "https://centroimmobiliare.com/immobili/spazioso-semindipedente-in-vendita-montevarchi-piazza-della-repubblica/"
+  },
   "2040c42f639a654b": {
    "also_on": [],
    "comune": "Reggello",
@@ -1502,6 +1526,18 @@
    "title": "villetta in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2384/"
   },
+  "24b32dac3e1f95a4": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-26T18:53:22+00:00",
+   "id": "24b32dac3e1f95a4",
+   "mq": 358,
+   "price": 165000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 165.000 Laboratorio in vendita Terranuova Bracciolini, Via della penna 358 Mq 2 bagni",
+   "title": "€ 165.000 Laboratorio in vendita Terranuova Bracciolini, Via della penna 358 Mq 2 bagni",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/terranuova-bracciolini/laboratorio-in-vendita-61216457"
+  },
   "24f16b1f70a16ff9": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -1537,6 +1573,18 @@
    "text": "",
    "title": "dettaglio.php?id=405",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=405"
+  },
+  "2602e294251f1399": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-26T18:53:09+00:00",
+   "id": "2602e294251f1399",
+   "mq": null,
+   "price": 340000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Prestigiosa villetta di testa in vendita a Levane, Montevarchi Montevarchi rif: 8653 222 4 6 € 340.000 dettagli",
+   "title": "Prestigiosa villetta di testa in vendita a Levane, Montevarchi",
+   "url": "https://centroimmobiliare.com/immobili/prestigiosa-villetta-di-testa-in-vendita-a-levane-montevarchi/"
   },
   "26670743e15e1a54": {
    "also_on": [],
@@ -1729,6 +1777,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Rustico in vendita a Terranuova Bracciolini, Campagna STRADA PROVINCIALE VECCHIA ARETINA 131 7 loc. 7 locali 500 mq 1 bagno p. terra Piano terra",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Rustico in vendita a Terranuova Brac…",
    "url": "https://ideale.remax.it/vendita-rustico/terranuova-bracciolini/campagna-31451005-252"
+  },
+  "2b964ac3d1cca2d2": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-26T18:53:09+00:00",
+   "id": "2b964ac3d1cca2d2",
+   "mq": null,
+   "price": 270000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Ottimo appartamento in bifamiliare Loro Ciuffenna rif: 7596 100 2 5 2 € 270.000 dettagli",
+   "title": "Ottimo appartamento in bifamiliare",
+   "url": "https://centroimmobiliare.com/immobili/ottimo-appartamento-in-bifamiliare/"
   },
   "2bff64bd81acc548": {
    "also_on": [],
@@ -4132,6 +4192,18 @@
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1878-vendita-villa-figline-e-incisa-valdarno-centro/"
   },
+  "60718c75cae76b6e": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-26T18:53:09+00:00",
+   "id": "60718c75cae76b6e",
+   "mq": null,
+   "price": 145000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Ampio Appartamento Pentalocale in Vendita a Montevarchi – Zona Stadio Montevarchi rif: 8659 126 3 5 2 € 145.000 dettagli",
+   "title": "Ampio Appartamento Pentalocale in Vendita a Montevarchi – Zona Stadio",
+   "url": "https://centroimmobiliare.com/immobili/ampio-appartamento-pentalocale-in-vendita-a-montevarchi-zona-stadio/"
+  },
   "60f94a4635d7ab6b": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -4155,6 +4227,18 @@
    "text": "VENDITA Appartamento Reggello (FI)",
    "title": "VENDITA Appartamento Reggello (FI)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=612"
+  },
+  "62112836e74b655a": {
+   "also_on": [],
+   "comune": "Laterina Pergine Valdarno",
+   "first_seen": "2026-10-26T18:53:09+00:00",
+   "id": "62112836e74b655a",
+   "mq": null,
+   "price": 140000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Attico di nuova costruzione classe A Laterina Pergine Valdarno rif: 8350 103 2 3 1 € 140.000 dettagli",
+   "title": "Attico di nuova costruzione classe A",
+   "url": "https://centroimmobiliare.com/immobili/attico-di-nuova-costruzione-classe-a/"
   },
   "623dc725b7ca3a7a": {
    "also_on": [],
@@ -4587,6 +4671,18 @@
    "text": "in Vendita",
    "title": "Casa singola in vendita a Castelfranco Piandiscò",
    "url": "https://www.colli-toscani.com/i-1792-vendita-casa-singola-castelfranco-piandisco/"
+  },
+  "6a904c4a33e29257": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-26T18:53:09+00:00",
+   "id": "6a904c4a33e29257",
+   "mq": null,
+   "price": 120000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Terranuova BRacciolini frazione Grazioso Monolocale Terranuova Bracciolini rif: 7933 39 1 2 1 € 120.000 dettagli",
+   "title": "Terranuova BRacciolini frazione Grazioso Monolocale",
+   "url": "https://centroimmobiliare.com/immobili/terranuova-bracciolini-frazione-grazioso-monolocale/"
   },
   "6aa2131e057e24bc": {
    "also_on": [],
@@ -5237,6 +5333,18 @@
    "text": "Vendita 25.000 € Capannone Rignano sull'Arno - Centro 40 mq 1 Locale",
    "title": "Vendita 25.000 € Capannone Rignano sull'Arno - Centro 40 mq 1 Locale",
    "url": "https://www.soges.it/prodotto/capannone-in-vendita-a-rignano-sull-arno-50646/"
+  },
+  "78cc2b8434c8adfd": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-10-26T18:53:09+00:00",
+   "id": "78cc2b8434c8adfd",
+   "mq": null,
+   "price": 120000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Incantevole Bilocale con Giardino Esclusivo in Vendita a Terranuova Bracciolini Terranuova Bracciolini rif: 8650 50 1 3 1 € 120.000 dettagli",
+   "title": "Incantevole Bilocale con Giardino Esclusivo in Vendita a Terranuova Bracciolini",
+   "url": "https://centroimmobiliare.com/immobili/incantevole-bilocale-con-giardino-esclusivo-in-vendita-a-terranuova-bracciolini/"
   },
   "78f46ba52810b6f0": {
    "also_on": [],
@@ -6643,7 +6751,9 @@
    "url": "https://www.cadesoimmobiliare.it/i-149-vendita-appartamento-figline-e-incisa-valdarno-via-petrarca/"
   },
   "99d321974f8cab1a": {
-   "also_on": [],
+   "also_on": [
+    "Tecnocasa Impresa Valdarno: https://figlineeincisavaldarno1.tecnocasaimpresa.it/san-giovanni-valdarno/negozio-in-vendita-61236342"
+   ],
    "comune": "San Giovanni Valdarno",
    "first_seen": "2026-10-11T19:43:48+00:00",
    "id": "99d321974f8cab1a",
@@ -9234,6 +9344,18 @@
    "title": "Primo piano Terranuova Bracciolini, Viale Europa Terranuova Bracciolini Appartamenti 5 vani Viale Europa, in ottima posi…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/terranuova-bracciolini-840-1517"
   },
+  "de9b773252233b2d": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-26T18:55:38+00:00",
+   "id": "de9b773252233b2d",
+   "mq": null,
+   "price": null,
+   "source": "Studio Immobiliare Becucci Bechelli",
+   "text": "Vendita 195 | Mq 60 | Appartamento a Greve in Chianti Panzano In Chianti",
+   "title": "Vendita 195 | Mq 60 | Appartamento a Greve in Chianti Panzano In Chianti",
+   "url": "https://www.immobiliarebecucci.it/dettaglio/Vendita_Appartamento_Greve_in_Chianti/962240"
+  },
   "de9e6e244e90d474": {
    "also_on": [],
    "comune": "Reggello",
@@ -9857,6 +9979,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 570.000 € Appartamento in vendita a Scandicci, Badia a Settimo 7 loc. 7 locali 165 mq 4 bagni 2 livelli Su due livelli",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 570.000 € Appartamento in vendita a Scandicci…",
    "url": "https://ideale.remax.it/vendita-appartamento/scandicci/badia-a-settimo-san-colombano-31451054-73"
+  },
+  "eed850d917380505": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-26T18:56:00+00:00",
+   "id": "eed850d917380505",
+   "mq": 1500,
+   "price": 85000,
+   "source": "Soges",
+   "text": "Vendita 85.000 € Terreno Agricolo Reggello - Centro 1500 mq",
+   "title": "Vendita 85.000 € Terreno Agricolo Reggello - Centro 1500 mq",
+   "url": "https://www.soges.it/prodotto/terreno-in-vendita-a-reggello-50679/"
   },
   "eee82a66a3ab8884": {
    "also_on": [],
