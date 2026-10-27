@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-27T14:43:08+00:00",
+ "last_scrape": "2026-10-27T20:02:49+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1321,6 +1321,18 @@
    "text": "Vendita Spazioso semindipedente in vendita Montevarchi piazza della Repubblica Montevarchi rif: 8201 150 3 5 2 € 280.000 dettagli",
    "title": "Spazioso semindipedente in vendita Montevarchi piazza della Repubblica",
    "url": "https://centroimmobiliare.com/immobili/spazioso-semindipedente-in-vendita-montevarchi-piazza-della-repubblica/"
+  },
+  "203d42e1a3eecc4b": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-10-27T19:59:13+00:00",
+   "id": "203d42e1a3eecc4b",
+   "mq": null,
+   "price": 72000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Trilocale in Vendita nel Cuore di Montevarchi Montevarchi rif: 8658 66 1 3 1 € 72.000 dettagli",
+   "title": "Trilocale in Vendita nel Cuore di Montevarchi",
+   "url": "https://centroimmobiliare.com/immobili/trilocale-in-vendita-nel-cuore-di-montevarchi/"
   },
   "2040c42f639a654b": {
    "also_on": [],
@@ -4612,6 +4624,18 @@
    "title": "VENDITA Appartamento Bucine (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=755"
   },
+  "675f17cb5a86b813": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-27T20:02:45+00:00",
+   "id": "675f17cb5a86b813",
+   "mq": null,
+   "price": 30000,
+   "source": "Valdarno Affari",
+   "text": "30.000 € Terreno in vendita a San Giovanni Valdarno San Giovanni V.no a 2 Km dal centro, vendiamo terreno agricolo pianeggiante… Scopri di più",
+   "title": "Terreno in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2260/"
+  },
   "67a37b06994b12a6": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -6378,6 +6402,18 @@
    "title": "Montevarchi zona giglio esclusiva condivisa",
    "url": "https://centroimmobiliare.com/immobili/montevarchi-zona-giglio-esclusiva-condivisa/"
   },
+  "8eec017cdeb40e2f": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-27T19:59:13+00:00",
+   "id": "8eec017cdeb40e2f",
+   "mq": null,
+   "price": 115000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Affascinante terratetto panoramica Loro Ciuffenna 10 minuti Loro Ciuffenna rif: 8656 60 2 3 € 115.000 dettagli",
+   "title": "Affascinante terratetto panoramica Loro Ciuffenna 10 minuti",
+   "url": "https://centroimmobiliare.com/immobili/affascinante-terratetto-panoramica-loro-ciuffenna-10-minuti/"
+  },
   "8f7f97cc8d1d74c3": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -6497,6 +6533,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 340.000 € Porzione di casa in vendita a San Giovanni Valdarno, Ponte alle Forche 9 loc. 9 locali 234 mq 3 bagni 2 livelli Su due livelli",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 340.000 € Porzione di casa in vendita a San G…",
    "url": "https://ideale.remax.it/vendita-porzione-di-casa/san-giovanni-valdarno/ponte-alle-forche-31451015-414"
+  },
+  "909c4b018c756e6e": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-27T19:58:58+00:00",
+   "id": "909c4b018c756e6e",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Lusso",
+   "title": "Casa colonica in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1817-vendita-casa-colonica-castelfranco-piandisco/"
   },
   "90a60fadbd3af3aa": {
    "also_on": [],
@@ -9247,6 +9295,18 @@
    "text": "in Vendita",
    "title": "Appartamento in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1753-vendita-appartamento-reggello-san-donato-in-fronzano/"
+  },
+  "d61b7ad2db8e6670": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-27T20:02:19+00:00",
+   "id": "d61b7ad2db8e6670",
+   "mq": 220,
+   "price": 300000,
+   "source": "Soges",
+   "text": "Vendita 300.000 € Villa Reggello - Leccio 6 Camere 4 Bagni 220 mq",
+   "title": "Vendita 300.000 € Villa Reggello - Leccio 6 Camere 4 Bagni 220 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-reggello-50676/"
   },
   "d61e1938c08d8276": {
    "also_on": [],
