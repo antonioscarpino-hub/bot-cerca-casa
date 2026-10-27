@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-27T20:02:49+00:00",
+ "last_scrape": "2026-10-27T23:45:40+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -145,6 +145,18 @@
    "text": "San Giovanni Valdarno (AR) zona Porcellino 4 vani € 150.000,00 Rif. 1577 Al secondo ed ultimo piano di condominio di medie dimensioni, vendesi arioso appartamento composto da … 28 Marzo 2022 in 3/4 vani .",
    "title": "San Giovanni Valdarno (AR) zona Porcellino 4 vani € 150.000,00 Rif. 1577",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=5022"
+  },
+  "0363a9af60cc60e8": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-10-27T23:43:24+00:00",
+   "id": "0363a9af60cc60e8",
+   "mq": null,
+   "price": 155000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita NOSTRA ESCLUSIVA – Spazio e Comfort nel Verde Bucine rif: 8662 129 3 4 1 € 155.000 dettagli",
+   "title": "NOSTRA ESCLUSIVA – Spazio e Comfort nel Verde",
+   "url": "https://centroimmobiliare.com/immobili/nostra-esclusiva-spazio-e-comfort-nel-verde/"
   },
   "037070b06e224052": {
    "also_on": [],
