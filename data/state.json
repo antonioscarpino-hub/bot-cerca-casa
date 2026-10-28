@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-28T05:11:09+00:00",
+ "last_scrape": "2026-10-28T11:28:34+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -5430,6 +5430,18 @@
    "title": "Appartamento in vendita a Cavriglia",
    "url": "https://www.colli-toscani.com/i-1744-vendita-appartamento-cavriglia-neri/"
   },
+  "77a0af5329433d9e": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-10-28T11:26:23+00:00",
+   "id": "77a0af5329433d9e",
+   "mq": null,
+   "price": 150000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Loro Ciuffenna 10 minuti terratetto con giardino Loro Ciuffenna rif: 7297 80 2 4 2 € 150.000 dettagli",
+   "title": "Loro Ciuffenna 10 minuti terratetto con giardino",
+   "url": "https://centroimmobiliare.com/immobili/loro-ciuffenna-10-minuti-terratetto-con-giardino/"
+  },
   "77ecdc411c71f5a2": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -6930,6 +6942,18 @@
    "title": "Rif 6101",
    "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2573976&language=ita"
   },
+  "9916037c37479238": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-28T11:28:17+00:00",
+   "id": "9916037c37479238",
+   "mq": 95,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento Greve in Chianti 95 mq ingresso indipendente e garage Nel comune di Greve in Chianti, LUCOLENA, appartamento con ingresso indipendente, posti auto e due ampie terrazze attrezzate. L’immobile è composto da ampio 95 mq 4 locali 2 camere 2954 € 153.000 Novità",
+   "title": "Appartamento Greve in Chianti",
+   "url": "https://www.studio21immobiliare.it/immobile/2954-appartamento-greve-in-chianti-lucolena-95mq/"
+  },
   "997afbf868f49e8f": {
    "also_on": [],
    "comune": "Rignano sull'Arno",
@@ -7591,6 +7615,18 @@
    "text": "Appartamento in vendita a San Giovanni Valdarno 0 159.000 € Vendita",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2378/"
+  },
+  "abe5d441c98da056": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-28T11:28:17+00:00",
+   "id": "abe5d441c98da056",
+   "mq": 60,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "14 Appartamento Figline e Incisa Valdarno 60 mq Incisa Valdarno, centrale, appartamento posto al terzo piano composto da tre vani attualmente così disposti : ingresso-cucina, soggiorno, camera matrimoniale oltre bagno 60 mq 3 locali 1 camera 2946 € 90.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2946-appartamento-figline-e-incisa-valdarno-centro-incisa-in-val-darno-60mq/"
   },
   "ac197819d693af3f": {
    "also_on": [],
