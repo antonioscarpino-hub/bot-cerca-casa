@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-27T23:45:40+00:00",
+ "last_scrape": "2026-10-28T05:11:09+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3004,6 +3004,18 @@
    "title": "Cascina/Casale/Masseria in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1046-vendita-cascinacasalemasseria-reggello-donnini/"
   },
+  "461617d79a11a043": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-28T05:08:24+00:00",
+   "id": "461617d79a11a043",
+   "mq": null,
+   "price": 189000,
+   "source": "Abita",
+   "text": "9853 Appartamento Figline e Incisa Valdarno NOSTRA ESCLUSIVA 85 m 2 con giardino privato e garage RIF. 9853 FIGLINE VALDARNO – LOCALITÀ RESTONE In zona residenziale, proponiamo in vendita appartamento di recente costruzione, posto al piano terreno con ingresso 5 locali 3 camere 1 bagno 85 m 2 1 € 189.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9853-appartamento-figline-e-incisa-valdarno-restone-85mq/"
+  },
   "46650cc8e71aae8e": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -3651,6 +3663,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 259.000 € Villa in vendita a Bucine, Badia Agnano VIA SAN PANCRAZIO 75 7 loc. 7 locali 220 mq 2 bagni 2 livelli Su due livelli",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 259.000 € Villa in vendita a Bucine, Badia Ag…",
    "url": "https://ideale.remax.it/vendita-villa-o-villino/bucine/badia-agnano-31451042-126"
+  },
+  "522d5f75aa644e16": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-28T05:08:24+00:00",
+   "id": "522d5f75aa644e16",
+   "mq": null,
+   "price": 124000,
+   "source": "Abita",
+   "text": "9851 Appartamento San Giovanni Valdarno NOSTRA ESCLUSIVA 150 m 2 con giardino privato San Giovanni Valdarno – Zona Oltrarno | Nostra esclusiva In tranquilla zona residenziale, proponiamo in vendita appartamento in palazzina bifamiliare, dotato di 6 locali 3 camere 1 bagno 150 m 2 1 € 124.000 Consigliato Novità",
+   "title": "Appartamento San Giovanni Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9851-appartamento-san-giovanni-valdarno-oltrarno-150mq/"
   },
   "529b4dcab7f8bab9": {
    "also_on": [],
@@ -9283,6 +9307,18 @@
    "text": "Appartamento tipo 3 con Giardino e Piscina San Giovanni Valdarno 123 mq 5 2 4 124.000€",
    "title": "Appartamento tipo 3 con Giardino e Piscina",
    "url": "https://tizianagentile.it/annunci/annuncio-test-8/"
+  },
+  "d59a4cc75c667a49": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-28T05:11:05+00:00",
+   "id": "d59a4cc75c667a49",
+   "mq": null,
+   "price": null,
+   "source": "Valdarno Affari",
+   "text": "Prezzo Colonica in vendita a San Giovanni Valdarno San Giovanni V.no 3 km circa in piena campagna vendiamo casa colonica… Scopri di più",
+   "title": "Colonica in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-889/"
   },
   "d5e4e557ac4d47be": {
    "also_on": [],
