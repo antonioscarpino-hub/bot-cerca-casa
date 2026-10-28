@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-28T17:27:05+00:00",
+ "last_scrape": "2026-10-28T21:56:48+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -829,6 +829,18 @@
    "text": "In vendita 85 mq MONTANINO - DELIZIOSA PORZIONE DI COLONICA RISTRUTTURATA A 5 minuti dal casello A1 di Incisa/Reggello, proponiamo in vendita delizioso … Guarda la zona € 250.000,00",
    "title": "MONTANINO - DELIZIOSA PORZIONE DI COLONICA RISTRUTTURATA",
    "url": "https://www.caseditoscana.com/ita/immobile/0-10/1154-montanino---deliziosa-porzione-di-colonica-ristrutturata.html"
+  },
+  "11aec632b89315de": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-10-28T21:56:15+00:00",
+   "id": "11aec632b89315de",
+   "mq": null,
+   "price": null,
+   "source": "Next Immobiliare",
+   "text": "Rif.: 1/0255 0 media APPARTAMENTI - INGRESSO INDIPENDENTE RIGNANO SULL'ARNO - RIGNANO SULL'ARNO (FI) in posizione tranquilla ad 1 km da rignano proponiamo appartamento disposto su due livelli con ingresso indipendente composto da ingresso soggiorno-pranzo con camino, angolo cottura, due camere, studio, ... Vani: 4 Mq: 80 Prezzo vendita: â¬ 120.000",
+   "title": "RIGNANO SULL'ARNO - RIGNANO SULL'ARNO (FI)",
+   "url": "https://www.nextimmobiliare.it/0002/it/dettaglio.asp?idm=0002-1-025546322&pag=1&ID_A004=0&ID_A012=0&ID_A016=0&ID_A006=0&ID_A007=0&ID_A008=0&ID_A009=0&ID_A011=0&ID_A056=0&cifra1=0&cifra2=999999999&vani1=0&vani2=9999&superficie1=0&superficie2=99999999"
   },
   "1258cec198f519e1": {
    "also_on": [],
@@ -2113,6 +2125,18 @@
    "text": "Villa Unifamiliare Figline e Incisa Valdarno 200 mq con giardino privato e garage Figline Valdarno – nei pressi della stazione, villa libera su quattro lati composta da soggiorno ampio con camino, cucina, disimpegno, due camere da letto e doppi 200 mq 7 locali 3 camere 2950 € 590.000 Novità",
    "title": "Villa Unifamiliare Figline e Incisa Valdarno",
    "url": "https://www.studio21immobiliare.it/immobile/2950-villa-unifamiliare-figline-e-incisa-valdarno-stazione-figline-valdarno-200mq/"
+  },
+  "31716eeb97391e56": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-28T21:54:09+00:00",
+   "id": "31716eeb97391e56",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa singola in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1732-vendita-casa-singola-figline-e-incisa-valdarno-gaville/"
   },
   "317d62baa1d3fb87": {
    "also_on": [],
@@ -4961,6 +4985,18 @@
    "text": "Figline e Incisa Valdarno, FI, Italia Locale commerciale di particolare bellezza con soffitti in mattoni e volte a vista; completamente ristrutturato dispone di due bagni con .. VENDESI FIGLINE E INCISA VALDARNO (FI) [Classe G] 82 m2 3 Rooms 2 Bathrooms €95.000",
    "title": "Figline e Incisa Valdarno, FI, Italia Locale commerciale di particolare bellezza con soffitti in mattoni e volte a vista…",
    "url": "https://www.cambrigroup.it/property/figline-e-incusa-valdarno-fi-classe-g/"
+  },
+  "6c7df708f57978fa": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-10-28T21:56:24+00:00",
+   "id": "6c7df708f57978fa",
+   "mq": 68,
+   "price": 75000,
+   "source": "Soges",
+   "text": "Vendita 75.000 € Appartamento Reggello 2 Camere 1 Bagno 68 mq",
+   "title": "Vendita 75.000 € Appartamento Reggello 2 Camere 1 Bagno 68 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-47063/"
   },
   "6cc733b2325eab08": {
    "also_on": [],
