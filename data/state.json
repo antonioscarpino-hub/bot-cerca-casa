@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-28T11:28:34+00:00",
+ "last_scrape": "2026-10-28T17:27:05+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -8215,6 +8215,18 @@
    "text": "Vendita â¬ 420.000 22131 Villino La Rondine Splendido Terratetto Indipendente con Giardino Privato, Terrazza e Garage Greve in Chianti Zona San Polo in Chianti Chianti |San Polo | Terratetto indipendente con giardino, terrazza e garage Nel cuore di San Polo in Chianti, proponiamo in vendita un interessante ... 227 Mq - 9 Vani 3 3",
    "title": "Splendido Terratetto Indipendente con Giardino Privato, Terrazza e Garage",
    "url": "https://www.real-estate-toscana.com/web/immobile_dettaglio.asp?cod_annuncio=2596552&language=ita"
+  },
+  "bbf19080d0cfad43": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-28T17:26:33+00:00",
+   "id": "bbf19080d0cfad43",
+   "mq": 142,
+   "price": 279000,
+   "source": "Soges",
+   "text": "Vendita 279.000 € Terratetto Figline e Incisa Valdarno - Poggiolino 3 Camere 3 Bagni 142 mq",
+   "title": "Vendita 279.000 € Terratetto Figline e Incisa Valdarno - Poggiolino 3 Camere 3 Bagni 142 mq",
+   "url": "https://www.soges.it/prodotto/terratetto-in-vendita-a-figline-e-incisa-valdarno-50682/"
   },
   "bc12307dcd65241f": {
    "also_on": [],
