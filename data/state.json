@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-29T15:21:35+00:00",
+ "last_scrape": "2026-10-29T20:26:10+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -2992,6 +2992,18 @@
    "title": "Casa colonica in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1875-vendita-casa-colonica-reggello-centro/"
   },
+  "442d43fda3a5df86": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-29T20:23:58+00:00",
+   "id": "442d43fda3a5df86",
+   "mq": 75,
+   "price": 145000,
+   "source": "Tecnocasa Studio Valdarno",
+   "text": "€ 145.000 Trilocale in vendita Figline E Incisa Valdarno, Via enrico berlinguer figline - Incisa In Val D'Arno 4 locali 75 Mq 1 bagno",
+   "title": "€ 145.000 Trilocale in vendita Figline E Incisa Valdarno, Via enrico berlinguer figline - Incisa In Val D'Arno 4 locali…",
+   "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/appartamenti-in-vendita-61292964"
+  },
   "449a012599791794": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -3603,6 +3615,18 @@
    "text": "Rif.: 2/0023 24 media VILLE VILLETTE TERRATETTI - VILLETTA BIFAMILIARE CASTEL SAN NICCOLO' - STAZIONE (AR) in posizione tranquilla e soleggiata vicino a tutti servizi proponiamo villetta bifamiliare di mq.85 diposta al piano terreno e composta da ingresso, tinello con angolo cottura, ampio soggiorno, due camere ... Vani: 4 Mq: 85 Prezzo vendita: â¬ 110.000",
    "title": "CASTEL SAN NICCOLO' - STAZIONE (AR)",
    "url": "https://www.nextimmobiliare.it/0002/it/dettaglio.asp?idm=0002-2-002346122&pag=1&ID_A004=0&ID_A012=0&ID_A016=0&ID_A006=0&ID_A007=0&ID_A008=0&ID_A009=0&ID_A011=0&ID_A056=0&cifra1=0&cifra2=999999999&vani1=0&vani2=9999&superficie1=0&superficie2=99999999"
+  },
+  "50474ea708ff0283": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-29T20:25:19+00:00",
+   "id": "50474ea708ff0283",
+   "mq": null,
+   "price": null,
+   "source": "Studio Immobiliare Becucci Bechelli",
+   "text": "Vendita 125.000 | Mq 60 | 2 Appartamento a Greve in Chianti Chiocchio",
+   "title": "Vendita 125.000 | Mq 60 | 2 Appartamento a Greve in Chianti Chiocchio",
+   "url": "https://www.immobiliarebecucci.it/dettaglio/Vendita_Appartamento_Greve_in_Chianti/962621"
   },
   "509dcf3802a62fda": {
    "also_on": [],
