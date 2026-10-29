@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-29T01:43:30+00:00",
+ "last_scrape": "2026-10-29T08:20:23+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -5370,6 +5370,18 @@
    "title": "dettaglio.php?id=414",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=414"
   },
+  "7618e8cd28252285": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-10-29T08:20:19+00:00",
+   "id": "7618e8cd28252285",
+   "mq": null,
+   "price": 285000,
+   "source": "Valdarno Affari",
+   "text": "285.000 € Villa in vendita a Cavriglia Cavriglia, prima periferia frazione Cetinale, vendiamo IN ESCLUSIVA VALDARNO AFFARI, villetta libera… Scopri di più",
+   "title": "Villa in vendita a Cavriglia",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2321/"
+  },
   "762d9135739b2322": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -8180,6 +8192,18 @@
    "title": "Capannone Industriale in vendita a Figline e Incisa Valdarno",
    "url": "https://www.europa92immobiliare.it/i-24446690-vendita-capannone-industriale-figline-e-incisa-valdarno/"
   },
+  "ba3eff657e9f43b6": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-29T08:17:50+00:00",
+   "id": "ba3eff657e9f43b6",
+   "mq": null,
+   "price": 57000,
+   "source": "Abita",
+   "text": "9854 Colonica San Giovanni Valdarno 20 m 2 con giardino privato e posto auto San Giovanni Valdarno, in zona di campagna a pochi minuti dal centro e dai principali servizi, vendiamo locale rimessa attrezzi finemente e completamente ristrutturato 1 locale 20 m 2 € 57.000 Novità",
+   "title": "Colonica San Giovanni Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9854-colonica-san-giovanni-valdarno-fornaci-20mq/"
+  },
   "ba826976ae931f5b": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -10267,6 +10291,18 @@
    "text": "Villa con Piscina Castelnuovo dei Sabbioni - Cavriglia 519 mq 23 4 6 620.000€",
    "title": "Villa con Piscina",
    "url": "https://tizianagentile.it/annunci/villa-con-piscina/"
+  },
+  "ecd10447e73c1f4a": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-29T08:20:19+00:00",
+   "id": "ecd10447e73c1f4a",
+   "mq": null,
+   "price": 25000,
+   "source": "Valdarno Affari",
+   "text": "25.000 € Terreno in vendita a San Giovanni Valdarno San Giovanni Valdarno, zona Oltrarno, in posizione facilmente raggiungibile dal paese, vendiamo… Scopri di più",
+   "title": "Terreno in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2318/"
   },
   "ece14e617cde1919": {
    "also_on": [],
