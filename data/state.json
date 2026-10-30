@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-30T06:29:03+00:00",
+ "last_scrape": "2026-10-30T13:36:49+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4419,6 +4419,18 @@
    "text": "San Giovanni Valdarno (AR) Commerciale Rif. F80 Zona oltrarno, VENDESI bel fondo commerciale con una metratura di 80 mq adatto anche come ufficio o studio professionale, composto da due ambienti…….. 5 Aprile 2014 in Immobli commerciali .",
    "title": "San Giovanni Valdarno (AR) Commerciale Rif. F80",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=763"
+  },
+  "611010eb871535e3": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-30T13:36:46+00:00",
+   "id": "611010eb871535e3",
+   "mq": null,
+   "price": 65000,
+   "source": "Valdarno Affari",
+   "text": "65.000 € Magazzino in vendita a San Giovanni Valdarno San Giovanni Valdarno, edificio facente parte del centro storico del paese, vendiamo… Scopri di più",
+   "title": "Magazzino in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2051/"
   },
   "620262187305c8e0": {
    "also_on": [],
@@ -9859,6 +9871,18 @@
    "text": "Primo piano Esclusiva Cavriglia, Fraz. Massa dei Sabbioni Cavriglia Appartamenti 4 vani NOSTRA ESCLUSIVA - Fraz. Massa dei Sabbioni, vendiamo appartamento al primo piano, con ingresso indipendente tramite scala esterna privata, libero su 3 lati e composto da cucina, soggiorno con balcone, 2 camere matrimoniali e 2 bagni. Ampio garage al piano seminterrato. Ottime condizioni. Immobile molto luminos…",
    "title": "Primo piano Esclusiva Cavriglia, Fraz. Massa dei Sabbioni Cavriglia Appartamenti 4 vani NOSTRA ESCLUSIVA - Fraz. Massa d…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/cavriglia-853-1530"
+  },
+  "df446f92bc3c2334": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-30T13:36:38+00:00",
+   "id": "df446f92bc3c2334",
+   "mq": null,
+   "price": 10000000,
+   "source": "Toskana.it by Studio Montagliari",
+   "text": "RIF. 3270 Azienda vinicola con villa storica nel Chianti Classico Vai alla scheda € 10.000.000 Azienda vinicola con villa storica nel Chianti Classico close € 10.000.000",
+   "title": "Vai alla scheda",
+   "url": "https://www.toskana.it/proprieta_in_toscana/760/azienda-vinicola-con-villa-storica-nel-chianti-classico"
   },
   "dfa12eae13304374": {
    "also_on": [],
