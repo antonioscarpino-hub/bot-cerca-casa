@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-30T13:36:49+00:00",
+ "last_scrape": "2026-10-30T18:54:32+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -7639,6 +7639,18 @@
    "text": "Rif 6109 Appartamento abitabile a Reggello Zona Leccio â¬ 199.000 REGGELLO - ZONA LECCIO A pochi min. dal casello autostradale, vicino alla localitÃ di Leccio proponiamo appartamento a pianto terra con ingresso 105 Mq 4 Vani 1 2 Continua",
    "title": "Rif 6109",
    "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2588752&language=ita"
+  },
+  "a916960d8b0ce291": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-10-30T18:54:22+00:00",
+   "id": "a916960d8b0ce291",
+   "mq": null,
+   "price": 2600000,
+   "source": "Toskana.it by Studio Montagliari",
+   "text": "RIF. 2582 Tenuta storica nel Chianti Vai alla scheda € 2.600.000 Tenuta storica nel Chianti close € 2.600.000",
+   "title": "Vai alla scheda",
+   "url": "https://www.toskana.it/proprieta_in_toscana/657/tenuta-storica-nel-chianti"
   },
   "a9597e84048b05b5": {
    "also_on": [],
