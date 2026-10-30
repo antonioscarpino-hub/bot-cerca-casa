@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-29T20:26:10+00:00",
+ "last_scrape": "2026-10-30T00:24:29+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -7591,6 +7591,18 @@
    "text": "in Vendita",
    "title": "Appartamento in vendita a Montevarchi",
    "url": "https://www.colli-toscani.com/i-1833-vendita-appartamento-montevarchi-centro/"
+  },
+  "a7eb1cebc458ab2c": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-10-30T00:22:09+00:00",
+   "id": "a7eb1cebc458ab2c",
+   "mq": 140,
+   "price": 125000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 1129 Stabile/Palazzo in vendita a Castelfranco Piandiscò Castelfranco Piandiscò Pian di scò Campagna interessante terratetto libero su tre lati e disposto su tre piani per un totale di mq 170 circa ,l'immobile si presenta da ristrutturare ed è composto da garage ,due ampi locali al piano terreno, si accede ai piani superiori a mezzo di scala esterna con pianerottolo a comune con un…",
+   "title": "Stabile/Palazzo in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-1794-vendita-stabilepalazzo-castelfranco-piandisco/"
   },
   "a9079ff7ddf0b6b6": {
    "also_on": [],
