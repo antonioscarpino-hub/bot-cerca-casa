@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-31T02:14:48+00:00",
+ "last_scrape": "2026-10-31T08:35:58+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1861,6 +1861,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Rustico in vendita a Terranuova Bracciolini, Campagna STRADA PROVINCIALE VECCHIA ARETINA 131 7 loc. 7 locali 500 mq 1 bagno p. terra Piano terra",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Rustico in vendita a Terranuova Brac…",
    "url": "https://ideale.remax.it/vendita-rustico/terranuova-bracciolini/campagna-31451005-252"
+  },
+  "2b5f5a62dccb5bea": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-31T08:35:54+00:00",
+   "id": "2b5f5a62dccb5bea",
+   "mq": null,
+   "price": 850000,
+   "source": "Valdarno Affari",
+   "text": "850.000 € Villa in vendita a San Giovanni Valdarno SAN GIOVANNI V.NO immediata periferia, vendesi villa indipendente si recente edificazione, composta… Scopri di più",
+   "title": "Villa in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2201/"
   },
   "2b964ac3d1cca2d2": {
    "also_on": [],
@@ -5850,6 +5862,18 @@
    "title": "VENDITA Terratetto Cavriglia (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=893"
   },
+  "7ee04c935120abed": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-10-31T08:33:21+00:00",
+   "id": "7ee04c935120abed",
+   "mq": null,
+   "price": 160000,
+   "source": "Abita",
+   "text": "9860 Appartamento San Giovanni Valdarno 85 m 2 con posto auto A San Giovanni Valdarno, in una posizione centrale e comoda a tutti i principali servizi, proponiamo in vendita un grazioso e accogliente appartamento posto al primo 4 locali 1 camera 1 bagno 85 m 2 1 € 160.000 Novità",
+   "title": "Appartamento San Giovanni Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9860-appartamento-san-giovanni-valdarno-centro-85mq/"
+  },
   "7f1ee3a7ce65fa14": {
    "also_on": [],
    "comune": "Loro Ciuffenna",
@@ -9499,6 +9523,18 @@
    "text": "2004 Vendita Riferimento 2004 3 Locali 2 Camere 1 Servizi 85 Mq Appartamento (Montevarchi) MONTEVARCHI - ZONA LEVANELLA StudioCasaUno propone a LEVANELLA (MONTEVARCHI) appartamento INDIPENDEN... € 85.000 Vedi Dettagli",
    "title": "cerca Montevarchi APPARTAMENTO VENDITA",
    "url": "https://www.studiocasauno.com/immobile-montevarchi-_vendita_appartamento_2890873.html"
+  },
+  "d4d0e844726ec3a5": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-10-31T08:33:21+00:00",
+   "id": "d4d0e844726ec3a5",
+   "mq": null,
+   "price": 430000,
+   "source": "Abita",
+   "text": "9859 Unifamiliare Figline e Incisa Valdarno 160 m 2 con giardino privato RIF. 9859 Villetta indipendente con ampio giardino e terreno – Loppiano, Figline e Incisa Valdarno In posizione collinare tranquilla e immersa nel verde, nella 7 locali 4 camere 2 bagni 160 m 2 1 € 430.000 Novità",
+   "title": "Unifamiliare Figline e Incisa Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9859-unifamiliare-figline-e-incisa-valdarno-loppiano-160mq/"
   },
   "d51f3d3190ccbff7": {
    "also_on": [],
