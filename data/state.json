@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-01T15:21:12+00:00",
+ "last_scrape": "2026-11-01T19:51:56+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1681,6 +1681,18 @@
    "text": "Vendita 260.000 € Villa Castelfranco Piandiscò - Vaggio 3 Camere 3 Bagni 150 mq",
    "title": "Vendita 260.000 € Villa Castelfranco Piandiscò - Vaggio 3 Camere 3 Bagni 150 mq",
    "url": "https://www.soges.it/prodotto/villa-in-vendita-a-castelfranco-piandisco-50665/"
+  },
+  "26713232139440a1": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-01T19:49:17+00:00",
+   "id": "26713232139440a1",
+   "mq": 50,
+   "price": 18000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità Cod. 1215 Locale commerciale in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno centro Attività storica di rivendita e affilatura coltelli al proprietario ormai fuori età piacerebbe tramandare l'attività avviata dal suo nonno continuata da suo padre e da lui ,ottima clientela :macellerie ,Pelletterie , privati attività ,inesistente a Figline e dintorni ottimo fattur…",
+   "title": "Locale commerciale in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1880-vendita-locale-commerciale-figline-e-incisa-valdarno-centro/"
   },
   "27238ee3e1a69d6a": {
    "also_on": [],
