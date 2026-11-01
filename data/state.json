@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-10-31T22:39:08+00:00",
+ "last_scrape": "2026-11-01T08:11:21+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -7074,6 +7074,18 @@
    "title": "Appartamento tipo 1 con Giardino e Piscina",
    "url": "https://tizianagentile.it/annunci/annuncio-test-5/"
   },
+  "9834923aed89abad": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-01T08:09:21+00:00",
+   "id": "9834923aed89abad",
+   "mq": 248,
+   "price": 290000,
+   "source": "RE/MAX Ideale 2",
+   "text": "Commercial REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 290.000 € Locale commerciale in vendita a Arezzo, San Clemente VIA PIETRO BENVENUTI 31 4 loc. 4 locali 248 mq 2 bagni p. terra Piano terra",
+   "title": "Commercial REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 290.000 € Locale commerciale in ve…",
+   "url": "https://ideale.remax.it/vendita-locale-commerciale/arezzo/prima-periferia-31451060-35"
+  },
   "986e372f1a3934f5": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -8491,6 +8503,18 @@
    "text": "Virtual tour € 200.000 Quadrilocale in vendita San Giovanni Valdarno, Via Pier della Francesca - Oltrarno 4 locali 70 Mq 2 bagni",
    "title": "Virtual tour € 200.000 Quadrilocale in vendita San Giovanni Valdarno, Via Pier della Francesca - Oltrarno 4 locali 70 Mq…",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/san-giovanni-valdarno/appartamenti-in-vendita-61184678"
+  },
+  "bce40cee693b5eef": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-01T08:08:51+00:00",
+   "id": "bce40cee693b5eef",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1821-vendita-appartamento-figline-e-incisa-valdarno-matassino/"
   },
   "bcefb480d1ec6655": {
    "also_on": [],
