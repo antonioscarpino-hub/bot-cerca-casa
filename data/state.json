@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-01T23:29:38+00:00",
+ "last_scrape": "2026-11-02T02:47:08+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3915,6 +3915,18 @@
    "text": "in Vendita Cod. 20150 Villa in vendita a Montevarchi Montevarchi VILLA STORICA IN BELLISSIMA POSIZIONE PANORAMICA DISPOSTA SU DUE LIVELLI TRE LATI LIBERA CON CIRCA 10.360 TERRENO LIMITROFO ENTRATA INDIPENDENTE CON VIALETTO ALBERATO CON CANCELLO CARRABILE LA VILA SI PRESENTA CON LE SUE CARATTERISTICHE STORICHE IMMOBILE DI 12 STANZE SI COMPONE: PIANO TERRA SALA CON MOSAICO E STUDIO CHE AFFACCIA SU G…",
    "title": "Villa in vendita a Montevarchi",
    "url": "https://www.colli-toscani.com/i-584-vendita-villa-montevarchi/"
+  },
+  "5488d0a9d3f647a8": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-02T02:44:23+00:00",
+   "id": "5488d0a9d3f647a8",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1883-vendita-villa-figline-e-incisa-valdarno-poggiolino/"
   },
   "54d427c1e12f8a4c": {
    "also_on": [],
