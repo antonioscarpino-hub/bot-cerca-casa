@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-02T02:47:08+00:00",
+ "last_scrape": "2026-11-02T10:52:42+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -7448,6 +7448,18 @@
    "title": "In the heart of Chianti Classico",
    "url": "https://prinstuscanproperties.com/properties/in-the-heart-of-chianti-classico/"
   },
+  "a1b386aa7e3acad7": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-02T10:52:14+00:00",
+   "id": "a1b386aa7e3acad7",
+   "mq": 142,
+   "price": 279000,
+   "source": "Soges",
+   "text": "Vendita 279.000 € Immobili Figline e Incisa Valdarno - Poggiolino 3 Camere 3 Bagni 142 mq",
+   "title": "Vendita 279.000 € Immobili Figline e Incisa Valdarno - Poggiolino 3 Camere 3 Bagni 142 mq",
+   "url": "https://www.soges.it/prodotto/townhouse-terracielo-terratetto-in-vendita-a-figline-e-incisa-valdarno-50682/"
+  },
   "a1ca9c9052cfd5da": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -8383,6 +8395,18 @@
    "text": "9854 Colonica San Giovanni Valdarno 20 m 2 con giardino privato e posto auto San Giovanni Valdarno, in zona di campagna a pochi minuti dal centro e dai principali servizi, vendiamo locale rimessa attrezzi finemente e completamente ristrutturato 1 locale 20 m 2 € 57.000 Novità",
    "title": "Colonica San Giovanni Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9854-colonica-san-giovanni-valdarno-fornaci-20mq/"
+  },
+  "ba6f58594e1e946a": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-11-02T10:52:14+00:00",
+   "id": "ba6f58594e1e946a",
+   "mq": 110,
+   "price": 230000,
+   "source": "Soges",
+   "text": "Vendita 230.000 € Immobili Rignano sull'Arno 2 Camere 2 Bagni 110 mq",
+   "title": "Vendita 230.000 € Immobili Rignano sull'Arno 2 Camere 2 Bagni 110 mq",
+   "url": "https://www.soges.it/prodotto/townhouse-terracielo-terratetto-in-vendita-a-rignano-sull-arno-46394/"
   },
   "ba826976ae931f5b": {
    "also_on": [],
