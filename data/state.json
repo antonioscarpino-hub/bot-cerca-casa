@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-02T10:52:42+00:00",
+ "last_scrape": "2026-11-02T20:44:59+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4816,6 +4816,18 @@
    "title": "cerca Terranuova Bracciolini CAPANNONE VENDITA",
    "url": "https://www.studiocasauno.com/immobile-terranuova-bracciolini-_vendita_capannone_2892830.html"
   },
+  "67a63139aefba93b": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-02T20:44:55+00:00",
+   "id": "67a63139aefba93b",
+   "mq": null,
+   "price": 285000,
+   "source": "Valdarno Affari",
+   "text": "285.000 € Villa in vendita a San Giovanni Valdarno San Giovanni Valdarno, prima periferia frazione Cetinale, vendiamo IN ESCLUSIVA VALDARNO AFFARI,… Scopri di più",
+   "title": "Villa in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2375/"
+  },
   "67c388ffdb9fe226": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -6641,6 +6653,18 @@
    "text": "Vendita Affascinante terratetto panoramica Loro Ciuffenna 10 minuti Loro Ciuffenna rif: 8656 60 2 3 € 115.000 dettagli",
    "title": "Affascinante terratetto panoramica Loro Ciuffenna 10 minuti",
    "url": "https://centroimmobiliare.com/immobili/affascinante-terratetto-panoramica-loro-ciuffenna-10-minuti/"
+  },
+  "8f771a798e35f4ac": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-02T20:42:15+00:00",
+   "id": "8f771a798e35f4ac",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Villa in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1789-vendita-villa-figline-e-incisa-valdarno/"
   },
   "8f7f97cc8d1d74c3": {
    "also_on": [],
