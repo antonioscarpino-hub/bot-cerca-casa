@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-03T10:42:57+00:00",
+ "last_scrape": "2026-11-03T18:23:30+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -661,6 +661,18 @@
    "text": "Vendita 155.000 € Appartamento Reggello - Matassino 2 Camere 1 Bagno 87 mq",
    "title": "Vendita 155.000 € Appartamento Reggello - Matassino 2 Camere 1 Bagno 87 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-50641/"
+  },
+  "0cddd3823481edca": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-11-03T18:22:34+00:00",
+   "id": "0cddd3823481edca",
+   "mq": 82,
+   "price": 138000,
+   "source": "Studio Immobiliare Balsimelli",
+   "text": "Primo piano Esclusiva Bucine, Fraz. Levane Bucine Appartamenti 4 vani NOSTRA ESCLUSIVA - Zona residenziale di Levane, vendesi appartamento in condominio posto al secondo ed ultimo piano, composto da cucina abitabile, zona giorno, 2 camere, bagno, 2 balconi e ripostiglio/lavanderia. Garage al piano terra, ampio giardino condominiale. Ottime condizioni, molto luminosa. Classe G. Euro 138.000 trattab…",
+   "title": "Primo piano Esclusiva Bucine, Fraz. Levane Bucine Appartamenti 4 vani NOSTRA ESCLUSIVA - Zona residenziale di Levane, ve…",
+   "url": "https://www.immobiliarebalsimelli.net/immobili/bucine-854-1531"
   },
   "0db08ed3207a9bd0": {
    "also_on": [],
@@ -10387,6 +10399,18 @@
    "text": "Vendita Villa panoramica con piscina e agriturismo in vendita a Cavriglia Cavriglia rif: 8639 300 5 11 9 € 620.000 dettagli",
    "title": "Villa panoramica con piscina e agriturismo in vendita a Cavriglia",
    "url": "https://centroimmobiliare.com/immobili/villa-panoramica-con-piscina-e-agriturismo-in-vendita-a-cavriglia/"
+  },
+  "e6d6b1e8c267e432": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-03T18:23:00+00:00",
+   "id": "e6d6b1e8c267e432",
+   "mq": 115,
+   "price": 160000,
+   "source": "Soges",
+   "text": "Vendita 160.000 € Villa Reggello - Pontifogno 3 Camere 1 Bagno 115 mq",
+   "title": "Vendita 160.000 € Villa Reggello - Pontifogno 3 Camere 1 Bagno 115 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-reggello-50685/"
   },
   "e735261d44f6d0e7": {
    "also_on": [],
