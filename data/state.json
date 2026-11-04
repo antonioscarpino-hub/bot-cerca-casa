@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-04T05:51:55+00:00",
+ "last_scrape": "2026-11-04T14:14:19+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1525,6 +1525,18 @@
    "text": "in Vendita Lusso",
    "title": "Casa colonica in vendita a Cavriglia",
    "url": "https://www.colli-toscani.com/i-1869-vendita-casa-colonica-cavriglia-grimoli/"
+  },
+  "22e967093f9d06f8": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-04T14:11:49+00:00",
+   "id": "22e967093f9d06f8",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Visto ma aggiornato",
+   "title": "Cascina/Casale/Masseria in vendita a Reggello",
+   "url": "https://www.colli-toscani.com/i-1489-vendita-cascinacasalemasseria-reggello/"
   },
   "23478a57850a3ad2": {
    "also_on": [],
@@ -5958,6 +5970,18 @@
    "title": "Studio in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2039/"
   },
+  "7ca4715c1ba1f412": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-04T14:11:49+00:00",
+   "id": "7ca4715c1ba1f412",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "appartamento con ingresso indipendente in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1798-vendita-appartamento-con-ingresso-indipendente-figline-e-incisa-valdarno-centro/"
+  },
   "7cdd16532cb2f58a": {
    "also_on": [],
    "comune": "Loro Ciuffenna",
@@ -8059,6 +8083,18 @@
    "text": "in Vendita Cod. 1190 Appartamento in vendita a Reggello Reggello San Donato in Fronzano Appartamento panoramico con terrazza e giardino  Zona turistica tra Pietrapiana e Donnini In splendida zona panoramica e a forte vocazione turistica, apprezzata per il turismo rurale paesaggistico e storico, proponiamo in vendita luminoso appartamento posto al secondo e ultimo piano. L'immobile è composto da:…",
    "title": "Appartamento in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1855-vendita-appartamento-reggello-san-donato-in-fronzano/"
+  },
+  "ad8b4b6bf796e320": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-11-04T14:13:52+00:00",
+   "id": "ad8b4b6bf796e320",
+   "mq": 77,
+   "price": 185000,
+   "source": "Soges",
+   "text": "Vendita 185.000 € Appartamento Levane - Levane 2 Camere 1 Bagno 77 mq",
+   "title": "Vendita 185.000 € Appartamento Levane - Levane 2 Camere 1 Bagno 77 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-levane-50687/"
   },
   "add85045b38647c2": {
    "also_on": [],
