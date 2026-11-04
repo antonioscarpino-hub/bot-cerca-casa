@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-03T23:43:27+00:00",
+ "last_scrape": "2026-11-04T05:51:55+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -421,6 +421,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 310.000 € Casa indipendente in vendita a Figline e Incisa Valdarno, Ponte agli Stolli via Del Valico 1 9 loc. 9 locali 247 mq 2 bagni multipiano Multipiano",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 310.000 € Casa indipendente in vendita a Figl…",
    "url": "https://ideale.remax.it/vendita-casa-indipendente/figline-e-incisa-valdarno/ponte-agli-stolli-31451015-413"
+  },
+  "0814d213ef40640c": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-11-04T05:49:12+00:00",
+   "id": "0814d213ef40640c",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Visto ma aggiornato",
+   "title": "Cascina/Casale/Masseria in vendita a Castelfranco Piandiscò",
+   "url": "https://www.colli-toscani.com/i-993-vendita-cascinacasalemasseria-castelfranco-piandisco/"
   },
   "0821df87a1d451a3": {
    "also_on": [],
@@ -1801,6 +1813,18 @@
    "text": "9844 Appartamento Loro Ciuffenna NOSTRA ESCLUSIVA 60 m 2 ingresso indipendente con posto auto RIF. 9844 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Nel cuore di Loro Ciuffenna, tra i borghi più belli d’Italia, vendiamo elegante 2 locali 1 camera 2 bagni 60 m 2 € 128.000 Novità",
    "title": "Appartamento Loro Ciuffenna",
    "url": "https://www.abitaimmobiliare.com/immobili/9844-appartamento-loro-ciuffenna-centro-60mq/"
+  },
+  "286ae3f7683ff630": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-04T05:51:34+00:00",
+   "id": "286ae3f7683ff630",
+   "mq": 145,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Villetta a Schiera Reggello IN EVIDENZA 145 mq con giardino privato e garage NOSTRA ESCLUSIVA – Reggello, in zona panoramica e tranquilla, terratetto angolare in piccola schiera con ingresso indipendente, giardino privato di circa 200mq in 145 mq 5 locali 3 camere 2955 € 285.000 Novità",
+   "title": "Villetta a Schiera Reggello",
+   "url": "https://www.studio21immobiliare.it/immobile/2955-villetta-a-schiera-reggello-pietrapiana-145mq/"
   },
   "28c163ceb31c9494": {
    "also_on": [],
@@ -11096,6 +11120,18 @@
    "title": "Villa o villino in vendita a Figline e Incisa Valdarno",
    "url": "https://www.europa92immobiliare.it/i-24446608-vendita-villa-o-villino-figline-e-incisa-valdarno/"
   },
+  "f95224a16169218a": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-04T05:49:26+00:00",
+   "id": "f95224a16169218a",
+   "mq": null,
+   "price": 155000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Montevarchi ottima zona di passaggio ESCLUSIVA Montevarchi rif: 8676 102 2 € 155.000 dettagli",
+   "title": "Montevarchi ottima zona di passaggio ESCLUSIVA",
+   "url": "https://centroimmobiliare.com/immobili/montevarchi-ottima-zona-di-passaggio-esclusiva/"
+  },
   "f9dda5af5c7e39db": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -11227,6 +11263,18 @@
    "text": "",
    "title": "dettaglio.php?id=315",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=315"
+  },
+  "ff54643889b73028": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-04T05:49:07+00:00",
+   "id": "ff54643889b73028",
+   "mq": null,
+   "price": 105000,
+   "source": "Abita",
+   "text": "9868 Appartamento Montevarchi NOSTRA ESCLUSIVA 55 m 2 con posto auto RIF. 9868 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Montevarchi – Appartamento vicino ai principali servizi In zona comoda e ben 3 locali 2 camere 2 bagni 55 m 2 € 105.000 Novità",
+   "title": "Appartamento Montevarchi",
+   "url": "https://www.abitaimmobiliare.com/immobili/9868-appartamento-montevarchi-semicentrale-55mq/"
   },
   "ff9c0f437882eaa2": {
    "also_on": [],
