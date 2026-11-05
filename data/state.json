@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-05T01:27:01+00:00",
+ "last_scrape": "2026-11-05T08:33:19+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -9056,6 +9056,18 @@
    "title": "VENDITA Terratetto Bucine (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=702"
   },
+  "c0b7c35ed73160cf": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-05T08:30:55+00:00",
+   "id": "c0b7c35ed73160cf",
+   "mq": null,
+   "price": 238000,
+   "source": "Abita",
+   "text": "9870 Unifamiliare Montevarchi 105 m 2 con giardino privato e posto auto RIF. 9870 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 MONTEVARCHI – CHIANTIGIANA | INDIPENDENZA E COMFORT NEL VERDE In un contesto 5 locali 2 camere 2 bagni 105 m 2 1 € 238.000 Novità",
+   "title": "Unifamiliare Montevarchi",
+   "url": "https://www.abitaimmobiliare.com/immobili/9870-unifamiliare-montevarchi-chiantigiana-105mq/"
+  },
   "c0fd226802ddb558": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -11083,6 +11095,18 @@
    "text": "480.000 € Capannone in vendita a Castelfranco Piandiscò Castelfranco , vicino al centro, vendiamo capannone artigianale di circa 1200 mq… Scopri di più",
    "title": "Capannone in vendita a Castelfranco Piandiscò",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2025/"
+  },
+  "f69989de539d2f4d": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-11-05T08:31:11+00:00",
+   "id": "f69989de539d2f4d",
+   "mq": 82,
+   "price": 163000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Appartamento luminoso di 82 mq con loggia e garage a Cavriglia Cavriglia rif: 8673 82 2 3 2 € 163.000 dettagli",
+   "title": "Appartamento luminoso di 82 mq con loggia e garage a Cavriglia",
+   "url": "https://centroimmobiliare.com/immobili/appartamento-luminoso-di-82-mq-con-loggia-e-garage-a-cavriglia/"
   },
   "f6e7662aad4ac612": {
    "also_on": [],
