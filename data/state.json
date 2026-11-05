@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-05T16:53:03+00:00",
+ "last_scrape": "2026-11-05T22:40:10+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -5957,6 +5957,18 @@
    "text": "Appartamento Figline e Incisa Valdarno 90 mq Incisa Valdarno, zona comoda e vicina ai principali servizi, in piccola palazzina in buone condizioni di soli 4 condomini , appartamento posto al piano terra rialzato 90 mq 3 locali 2 camere 2951 € 100.000 Novità",
    "title": "Appartamento Figline e Incisa Valdarno",
    "url": "https://www.studio21immobiliare.it/immobile/2951-appartamento-figline-e-incisa-valdarno-centro-incisa-in-val-darno-90mq/"
+  },
+  "7b192c5406583ab8": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-05T22:38:14+00:00",
+   "id": "7b192c5406583ab8",
+   "mq": 330,
+   "price": 390000,
+   "source": "RE/MAX Ideale 2",
+   "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Marianna Calosci 390.000 € Villa singola in vendita a Loro Ciuffenna, Centro 6 loc. 6 locali 330 mq 3 bagni edificio Edificio",
+   "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Marianna Calosci 390.000 € Villa singola in vendita a Loro Ciu…",
+   "url": "https://ideale.remax.it/vendita-villa-singola/loro-ciuffenna/centro-31451004-407"
   },
   "7b3a4ee208a22d16": {
    "also_on": [],
