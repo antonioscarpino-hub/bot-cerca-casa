@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-05T08:33:19+00:00",
+ "last_scrape": "2026-11-05T16:53:03+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1909,6 +1909,18 @@
    "text": "Rif B6108 Appartamento a Figline e Incisa Valdarno Zona Matassino â¬ 215.000 In localitÃ MATASSINO al primo piano di villetta bifamiliare, in zona residenziale e vicina tutti i servizi, proponiamo in vendita appartamento di 6 120 Mq 6 Vani 1 4 Continua",
    "title": "Rif B6108",
    "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2585400&language=ita"
+  },
+  "2967c3e88e1149f4": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-05T16:52:03+00:00",
+   "id": "2967c3e88e1149f4",
+   "mq": 60,
+   "price": 105000,
+   "source": "Immobiliare Case di Toscana (E. Martini)",
+   "text": "In vendita 60 mq BURCHIO - DELIZIOSO TRE VANI IN PALAZZINA QUADRIFAMILIARE Inserito in piccola palazzina quadrifamiliare, al primo ed ultimo piano senza alcuna … Guarda la zona € 105.000,00",
+   "title": "BURCHIO - DELIZIOSO TRE VANI IN PALAZZINA QUADRIFAMILIARE",
+   "url": "https://www.caseditoscana.com/ita/immobile/0-4/1160-burchio---delizioso-tre-vani-in-palazzina-quadrifamiliare.html"
   },
   "29ba3b50d931b127": {
    "also_on": [],
@@ -3807,6 +3819,18 @@
    "text": "In vendita 60 mq INCISA ALTA - AMPIO E LUMINOSO 3 VANI Nella zona alta e soleggiata di Incisa in val d'Arno, proponiamo in vendita interessante … Guarda la zona € 78.000,00",
    "title": "INCISA ALTA - AMPIO E LUMINOSO 3 VANI",
    "url": "https://www.caseditoscana.com/ita/immobile/0-4/1149-incisa-alta---ampio-e-luminoso-3-vani.html"
+  },
+  "51b45df03110e877": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-05T16:52:49+00:00",
+   "id": "51b45df03110e877",
+   "mq": 60,
+   "price": null,
+   "source": "Studio Ciccarelli & Partner",
+   "text": "Rif 6124 Appartamento abitabile a Figline e Incisa Valdarno Zona Centro Figline â¬ 125.000 FIGLINE - ZONA CENTRALE Vicinissimo alla piazza Marsilio Ficino, proponiamo appartamento a piano terra con ingresso indipendente e piccola corte 60 Mq 3 Vani 2 2 Continua",
+   "title": "Rif 6124",
+   "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2612498&language=ita"
   },
   "51b686b7e9b6c40c": {
    "also_on": [],
@@ -9512,6 +9536,18 @@
    "title": "VENDITA Appartamento Castelfranco di Sopra (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=474"
   },
+  "cb91c5ad38548339": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-11-05T16:52:15+00:00",
+   "id": "cb91c5ad38548339",
+   "mq": 400,
+   "price": null,
+   "source": "Studio Immobiliare Balsimelli",
+   "text": "Primo piano Esclusiva Loro Ciuffenna, via Firenze Loro Ciuffenna Appartamenti oltre 5 vani NOSTRA ESCLUSIVA - In via Firenze, in ottima zona residenziale, vendiamo bell'appartamento in bifamiliare posto ai piano terreno e primo, con ingresso indipendente e dotato di taverna al piano terreno. L'abitazione è così composta: al primo piano, con accesso da scala esterna, si trovano una zona giorno con…",
+   "title": "Primo piano Esclusiva Loro Ciuffenna, via Firenze Loro Ciuffenna Appartamenti oltre 5 vani NOSTRA ESCLUSIVA - In via Fir…",
+   "url": "https://www.immobiliarebalsimelli.net/immobili/loro-ciuffenna-855-1532"
+  },
   "cbcb072b2fc91591": {
    "also_on": [],
    "comune": "Reggello",
@@ -10243,6 +10279,18 @@
    "text": "in Vendita Lusso",
    "title": "Casa colonica in vendita a Gaiole in Chianti",
    "url": "https://www.colli-toscani.com/i-1781-vendita-casa-colonica-gaiole-in-chianti/"
+  },
+  "defe57fa80eb7556": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-05T16:50:37+00:00",
+   "id": "defe57fa80eb7556",
+   "mq": 270,
+   "price": 435000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 455 Casa singola in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Figline Valdarno, prima periferia , vendiamo villetta indipendente libera su tre lati per un totale di mq 265 circa con ottime finiture e giardino privato l'immobile si dispone su tre livelli , e si compone al piano seminterrato ampio garage, con grande taverna luminosa con caminetto, bagno , lavander…",
+   "title": "Casa singola in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1622-vendita-casa-singola-figline-e-incisa-valdarno/"
   },
   "df25d7c7edeac634": {
    "also_on": [],
