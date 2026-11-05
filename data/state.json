@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-04T20:53:52+00:00",
+ "last_scrape": "2026-11-05T01:27:01+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4587,6 +4587,18 @@
    "text": "65.000 € Magazzino in vendita a San Giovanni Valdarno San Giovanni Valdarno, edificio facente parte del centro storico del paese, vendiamo… Scopri di più",
    "title": "Magazzino in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2051/"
+  },
+  "61294cd2ba19b807": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-05T01:26:02+00:00",
+   "id": "61294cd2ba19b807",
+   "mq": 127,
+   "price": 105000,
+   "source": "Europa 92 Immobiliare Centro Casa",
+   "text": "Vendita € 105.000 Figline e Incisa Valdarno 127 mq - 2 Bagni Locale Commerciale Rif. I/1792 FIGLINE V. NO (Matassino) Vendesi fondo per investimento, attualmente locato ad Euro 700 mensili, ad uso artigianale mq. 127 composto da un unico ampio vano, antibagno e doppi servizi oltre resede adiacente...",
+   "title": "Locale Commerciale in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.europa92immobiliare.it/i-30964024-vendita-locale-commerciale-figline-e-incisa-valdarno/"
   },
   "620262187305c8e0": {
    "also_on": [],
