@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-06T17:43:55+00:00",
+ "last_scrape": "2026-11-06T22:58:37+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -7495,6 +7495,18 @@
    "text": "Vendita 165.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 2 Camere 1 Bagno 65 mq",
    "title": "Vendita 165.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 2 Camere 1 Bagno 65 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50656/"
+  },
+  "9a5401f9633ea61c": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-06T22:58:13+00:00",
+   "id": "9a5401f9633ea61c",
+   "mq": 120,
+   "price": 215000,
+   "source": "Soges",
+   "text": "Vendita 215.000 € Appartamento Reggello - Matassino 4 Camere 1 Bagno 120 mq",
+   "title": "Vendita 215.000 € Appartamento Reggello - Matassino 4 Camere 1 Bagno 120 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-50695/"
   },
   "9a5d0c563a339632": {
    "also_on": [],
