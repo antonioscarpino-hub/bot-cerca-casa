@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-05T22:40:10+00:00",
+ "last_scrape": "2026-11-06T02:53:25+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -8588,6 +8588,18 @@
    "title": "VENDITA Villa Reggello (FI)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=867"
   },
+  "b773c3abca158bf6": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-06T02:53:21+00:00",
+   "id": "b773c3abca158bf6",
+   "mq": null,
+   "price": 159000,
+   "source": "Valdarno Affari",
+   "text": "Appartamento in vendita a San Giovanni Valdarno 0 159.000 € Vendita",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2401/"
+  },
   "b85104c2fa9bfb2b": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -9787,6 +9799,18 @@
    "text": "Vendita 160.000 € Appartamento San Giovanni Valdarno - Centro 2 Camere 1 Bagno 75 mq",
    "title": "Vendita 160.000 € Appartamento San Giovanni Valdarno - Centro 2 Camere 1 Bagno 75 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-san-giovanni-valdarno-50669/"
+  },
+  "d091671ab0d28bfe": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-06T02:53:21+00:00",
+   "id": "d091671ab0d28bfe",
+   "mq": null,
+   "price": 80000,
+   "source": "Valdarno Affari",
+   "text": "Locale commerciale in vendita a San Giovanni Valdarno 0 80.000 € Vendita",
+   "title": "Locale commerciale in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2400/"
   },
   "d1892b4729f80a44": {
    "also_on": [],
