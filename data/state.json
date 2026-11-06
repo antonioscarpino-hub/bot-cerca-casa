@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-06T02:53:25+00:00",
+ "last_scrape": "2026-11-06T10:42:00+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -5274,6 +5274,18 @@
    "title": "Vendita 75.000 € Appartamento Reggello 2 Camere 1 Bagno 68 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-47063/"
   },
+  "6cb521e212d57a6f": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-06T10:41:40+00:00",
+   "id": "6cb521e212d57a6f",
+   "mq": 130,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Villetta a Schiera Reggello 130 mq con giardino privato e posto auto Nel comune di Reggello, località Cancelli, in zona residenziale di recente urbanizzazione, terratetto in bifamiliare libero su tre lati con ingresso indipendente e 130 mq 5 locali 3 camere 2958 € 299.000 Novità",
+   "title": "Villetta a Schiera Reggello",
+   "url": "https://www.studio21immobiliare.it/immobile/2958-villetta-a-schiera-reggello-cancelli-130mq/"
+  },
   "6cc733b2325eab08": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -6965,6 +6977,18 @@
    "text": "Comodissimo appartamento posto al piano terreno in complesso residenziale di recente costruzione, luminoso accogliente; ingresso a disimpegno zona relax sala .. VENDESI CAVRIGLIA (AR) [CLASSE F] 90 m2 3 Rooms 1 ‘Camera’ 1 ‘Bagno’ €95.000",
    "title": "Comodissimo appartamento posto al piano terreno in complesso residenziale di recente costruzione, luminoso accogliente;…",
    "url": "https://www.cambrigroup.it/property/figline-e-incisa-valdarno-fi-gaville-classe-g/"
+  },
+  "9008401f6e89fa5b": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-06T10:39:28+00:00",
+   "id": "9008401f6e89fa5b",
+   "mq": null,
+   "price": 238000,
+   "source": "Abita",
+   "text": "9867 Appartamento Terranuova Bracciolini NOSTRA ESCLUSIVA 110 m 2 con ascensore e garage RIF. 9867 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 AMPIO APPARTAMENTO 5 VANI CON TERRAZZE ABITABILI, GARAGE E CANTINA – ZONA CENTRALE 5 locali 3 camere 2 bagni 110 m 2 € 238.000 Novità",
+   "title": "Appartamento Terranuova Bracciolini",
+   "url": "https://www.abitaimmobiliare.com/immobili/9867-appartamento-terranuova-bracciolini-centro-110mq/"
   },
   "902784c04271e739": {
    "also_on": [],
@@ -11419,6 +11443,18 @@
    "text": "VENDITA Terratetto Pian di Sco (AR)",
    "title": "VENDITA Terratetto Pian di Sco (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=368"
+  },
+  "fcb1a9e426fca37d": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-06T10:41:40+00:00",
+   "id": "fcb1a9e426fca37d",
+   "mq": 115,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Appartamento Figline e Incisa Valdarno 115 mq con garage Figline Valdarno, nel centro storico, ampio appartamento di circa 100 mq finemente ristrutturato posto al primo piano accessoriato di due terrazze, garage e cantina. 115 mq 4 locali 2 camere 2956 € 248.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2956-appartamento-figline-e-incisa-valdarno-centro-figline-valdarno-115mq/"
   },
   "fd2b13e9b2e890c9": {
    "also_on": [],
