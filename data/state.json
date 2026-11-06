@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-06T10:42:00+00:00",
+ "last_scrape": "2026-11-06T17:43:55+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3772,6 +3772,18 @@
    "title": "Vendita 125.000 | Mq 60 | 2 Appartamento a Greve in Chianti Chiocchio",
    "url": "https://www.immobiliarebecucci.it/dettaglio/Vendita_Appartamento_Greve_in_Chianti/962621"
   },
+  "508a2b4093eb9409": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-06T17:43:32+00:00",
+   "id": "508a2b4093eb9409",
+   "mq": 25,
+   "price": 35000,
+   "source": "Soges",
+   "text": "Vendita 35.000 € Immobili Reggello - Cascia 25 mq 1 Locale",
+   "title": "Vendita 35.000 € Immobili Reggello - Cascia 25 mq 1 Locale",
+   "url": "https://www.soges.it/prodotto/immobile-commerciale-in-vendita-a-reggello-50677/"
+  },
   "509dcf3802a62fda": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -7373,6 +7385,18 @@
    "text": "Appartamento tipo 1 con Giardino e Piscina San Giovanni Valdarno 78.50 mq 4 1 2 196.000€",
    "title": "Appartamento tipo 1 con Giardino e Piscina",
    "url": "https://tizianagentile.it/annunci/annuncio-test-5/"
+  },
+  "97c9f2666a7b49c8": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-06T17:41:58+00:00",
+   "id": "97c9f2666a7b49c8",
+   "mq": 580,
+   "price": 373000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 373.000 Complesso in vendita San Giovanni Valdarno, Via dell'energia 2 locali 580 Mq 1 bagno",
+   "title": "€ 373.000 Complesso in vendita San Giovanni Valdarno, Via dell'energia 2 locali 580 Mq 1 bagno",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/san-giovanni-valdarno/complesso-in-vendita-61254782"
   },
   "9834923aed89abad": {
    "also_on": [],
@@ -11215,6 +11239,18 @@
    "text": "Vendita Appartamento luminoso di 82 mq con loggia e garage a Cavriglia Cavriglia rif: 8673 82 2 3 2 € 163.000 dettagli",
    "title": "Appartamento luminoso di 82 mq con loggia e garage a Cavriglia",
    "url": "https://centroimmobiliare.com/immobili/appartamento-luminoso-di-82-mq-con-loggia-e-garage-a-cavriglia/"
+  },
+  "f6e74298d2668ff2": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-06T17:41:58+00:00",
+   "id": "f6e74298d2668ff2",
+   "mq": 160,
+   "price": 180000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 180.000 Laboratorio in vendita Figline E Incisa Valdarno, Viale Vittorio Locchi - Figline Valdarno 6 locali 160 Mq 1 bagno",
+   "title": "€ 180.000 Laboratorio in vendita Figline E Incisa Valdarno, Viale Vittorio Locchi - Figline Valdarno 6 locali 160 Mq 1 b…",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/figline-e-incisa-valdarno/laboratorio-in-vendita-61204223"
   },
   "f6e7662aad4ac612": {
    "also_on": [],
