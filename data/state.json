@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-06T22:58:37+00:00",
+ "last_scrape": "2026-11-07T02:42:24+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -7735,6 +7735,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 385.000 € Appartamento in vendita a Rignano sull'Arno viale Vittorio Veneto 14 10 loc. 10 locali 219 mq 3 bagni multipiano Multipiano",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 385.000 € Appartamento in vendita a Rignano s…",
    "url": "https://ideale.remax.it/vendita-appartamento/rignano-sull-arno/centro-31451015-398"
+  },
+  "a11899cd3500c815": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-11-07T02:42:21+00:00",
+   "id": "a11899cd3500c815",
+   "mq": null,
+   "price": 90000,
+   "source": "Valdarno Affari",
+   "text": "Casa singola in vendita a Castelfranco Piandiscò 0 90.000 € Vendita",
+   "title": "Casa singola in vendita a Castelfranco Piandiscò",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2402/"
   },
   "a157d22e0b93c642": {
    "also_on": [],
