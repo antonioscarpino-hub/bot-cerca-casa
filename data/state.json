@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-07T02:42:24+00:00",
+ "last_scrape": "2026-11-07T09:18:38+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4084,6 +4084,18 @@
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1883-vendita-villa-figline-e-incisa-valdarno-poggiolino/"
   },
+  "54ada1ee170ea98c": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-07T09:16:36+00:00",
+   "id": "54ada1ee170ea98c",
+   "mq": null,
+   "price": 25000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Ampio Garage Singolo in Vendita a Montevarchi – pressi stazione Montevarchi rif: 8682 28 1 € 25.000 dettagli",
+   "title": "Ampio Garage Singolo in Vendita a Montevarchi – pressi stazione",
+   "url": "https://centroimmobiliare.com/immobili/ampio-garage-singolo-in-vendita-a-montevarchi-pressi-stazione/"
+  },
   "54d427c1e12f8a4c": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -4312,6 +4324,18 @@
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Claudia Baldi 440.000 € Casa indipendente in vendita a Radda i…",
    "url": "https://ideale.remax.it/vendita-casa-indipendente/radda-in-chianti/villa-31451034-127"
   },
+  "58fae28018ff90a5": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-07T09:18:22+00:00",
+   "id": "58fae28018ff90a5",
+   "mq": 180,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "21 Villetta a Schiera Reggello IN EVIDENZA 180 mq con giardino privato e garage 5NOSTRA ESCLUSIVA – Reggello, in zona panoramica e tranquilla, terratetto angolare in piccola schiera con ingresso indipendente, giardino privato di circa 250 mq in 180 mq 5 locali 3 camere 2955 € 285.000 Novità",
+   "title": "Villetta a Schiera Reggello",
+   "url": "https://www.studio21immobiliare.it/immobile/2955-villetta-a-schiera-reggello-pietrapiana-180mq/"
+  },
   "593b8a0b0d21867b": {
    "also_on": [],
    "comune": "Castelfranco Piandiscò",
@@ -4515,6 +4539,18 @@
    "text": "VENDITA Appartamento Figline Valdarno (FI)",
    "title": "VENDITA Appartamento Figline Valdarno (FI)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=343"
+  },
+  "5ed7954c54b70de2": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-07T09:16:36+00:00",
+   "id": "5ed7954c54b70de2",
+   "mq": null,
+   "price": 390000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Casa indipendente panoramica con terreno privato a Ricasoli, Montevarchi Montevarchi rif: 8681 210 4 8 2 € 390.000 dettagli",
+   "title": "Casa indipendente panoramica con terreno privato a Ricasoli, Montevarchi",
+   "url": "https://centroimmobiliare.com/immobili/casa-indipendente-panoramica-con-terreno-privato-a-ricasoli-montevarchi/"
   },
   "5f8c76eb0ea26b4f": {
    "also_on": [],
@@ -11059,6 +11095,18 @@
    "text": "€ 150.000 Laboratorio in vendita San Giovanni Valdarno, Via Carlo Emilio Gadda - Vacchereccia Fattoria 2 locali 236 Mq 4 bagni",
    "title": "€ 150.000 Laboratorio in vendita San Giovanni Valdarno, Via Carlo Emilio Gadda - Vacchereccia Fattoria 2 locali 236 Mq 4…",
    "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/san-giovanni-valdarno/laboratorio-in-vendita-61280162"
+  },
+  "eeecfcdc88a0a2b8": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-07T09:16:24+00:00",
+   "id": "eeecfcdc88a0a2b8",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità",
+   "title": "Villetta Bifamiliare in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1882-vendita-villetta-bifamiliare-figline-e-incisa-valdarno-brollo/"
   },
   "ef1649019d1c6ab9": {
    "also_on": [],
