@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-09T08:44:13+00:00",
+ "last_scrape": "2026-11-09T19:43:29+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -5152,6 +5152,18 @@
    "title": "Primo piano Terranuova Bracciolini, Campagna Terranuova Bracciolini Terratetti, Porzioni di colonica Nelle campagne dell…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/terranuova-bracciolini-843-1520"
   },
+  "691cd605387f56cd": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-09T19:43:02+00:00",
+   "id": "691cd605387f56cd",
+   "mq": 120,
+   "price": 269000,
+   "source": "Soges",
+   "text": "Vendita 269.000 € Villa Figline e Incisa Valdarno - Burchio-Palazzolo 3 Camere 3 Bagni 120 mq",
+   "title": "Vendita 269.000 € Villa Figline e Incisa Valdarno - Burchio-Palazzolo 3 Camere 3 Bagni 120 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-figline-e-incisa-valdarno-50696/"
+  },
   "69407e76f0ab3350": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -6281,6 +6293,18 @@
    "text": "20.000 € Terreno in vendita a Cavriglia Cavriglia Loc. Meleto, vicino ai servizi, vendiamo terreno agricolo di c.a. 6000… Scopri di più",
    "title": "Terreno in vendita a Cavriglia",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2351/"
+  },
+  "805104d910be9feb": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-11-09T19:41:22+00:00",
+   "id": "805104d910be9feb",
+   "mq": 3300,
+   "price": 1400000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 1.400.000 Capannone in vendita Rignano Sull'Arno, Via castellonchio 10 locali 3300 Mq 7 bagni",
+   "title": "€ 1.400.000 Capannone in vendita Rignano Sull'Arno, Via castellonchio 10 locali 3300 Mq 7 bagni",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/rignano-sull-arno/capannone-in-vendita-61297586"
   },
   "80a0dd590c4be216": {
    "also_on": [],
