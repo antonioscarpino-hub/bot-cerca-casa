@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-10T18:17:49+00:00",
+ "last_scrape": "2026-11-10T23:35:35+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3363,6 +3363,18 @@
    "text": "Virtual tour € 149.000 5 locali in vendita Cavriglia, Via M. Girolami - San Cipriano-Santa Barbara-Centinale 5 locali 100 Mq 1 bagno",
    "title": "Virtual tour € 149.000 5 locali in vendita Cavriglia, Via M. Girolami - San Cipriano-Santa Barbara-Centinale 5 locali 10…",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/cavriglia/appartamenti-in-vendita-61212044"
+  },
+  "4838eaa085bb8703": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-10T23:35:10+00:00",
+   "id": "4838eaa085bb8703",
+   "mq": 80,
+   "price": 260000,
+   "source": "Soges",
+   "text": "Vendita 260.000 € Villa Reggello - Poggio Ai Giubbiani 2 Camere 2 Bagni 80 mq",
+   "title": "Vendita 260.000 € Villa Reggello - Poggio Ai Giubbiani 2 Camere 2 Bagni 80 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-reggello-50262-2/"
   },
   "489ca2268ca5ccdb": {
    "also_on": [],
