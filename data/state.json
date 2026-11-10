@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-09T19:43:29+00:00",
+ "last_scrape": "2026-11-10T02:40:12+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -5898,6 +5898,18 @@
    "title": "Loro Ciuffenna 10 minuti terratetto con giardino",
    "url": "https://centroimmobiliare.com/immobili/loro-ciuffenna-10-minuti-terratetto-con-giardino/"
   },
+  "77adba8a29bf1a7c": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-11-10T02:37:48+00:00",
+   "id": "77adba8a29bf1a7c",
+   "mq": 130,
+   "price": 240000,
+   "source": "Studio Casa Uno",
+   "text": "2042 Vendita Riferimento 2042 6 Locali 3 Camere 2 Servizi 130 Mq Appartamento (Bucine) Bucine (CENTRO) // StudioCasaUno propone immobile con ingresso indipendente posto al piano primo fac... € 240.000 Vedi Dettagli",
+   "title": "cerca Bucine APPARTAMENTO VENDITA",
+   "url": "https://www.studiocasauno.com/immobile-bucine-_vendita_appartamento_2907647.html"
+  },
   "77ecdc411c71f5a2": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -7603,6 +7615,18 @@
    "text": "Vendita 165.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 2 Camere 1 Bagno 65 mq",
    "title": "Vendita 165.000 € Appartamento Figline e Incisa Valdarno - Ponte agli Stolli 2 Camere 1 Bagno 65 mq",
    "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50656/"
+  },
+  "99f5c780241e9c9c": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-11-10T02:37:48+00:00",
+   "id": "99f5c780241e9c9c",
+   "mq": 100,
+   "price": 210000,
+   "source": "Studio Casa Uno",
+   "text": "2041 Vendita Riferimento 2041 5 Locali 2 Camere 1 Servizi 100 Mq Appartamento (Bucine) Bucine (CENTRO) // StudioCasaUno propone immobile con ingresso indipendente e giardino facente parte... € 210.000 Vedi Dettagli",
+   "title": "cerca Bucine APPARTAMENTO VENDITA",
+   "url": "https://www.studiocasauno.com/immobile-bucine-_vendita_appartamento_2907646.html"
   },
   "9a5401f9633ea61c": {
    "also_on": [],
