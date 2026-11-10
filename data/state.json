@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-10T02:40:12+00:00",
+ "last_scrape": "2026-11-10T10:29:42+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3496,6 +3496,18 @@
    "title": "Ref. TR 99, Property to restore in dominant position",
    "url": "https://prinstuscanproperties.com/properties/ref-tr-99-property-to-restore-in-dominant-position/"
   },
+  "4aaa6c67754a1ef1": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-11-10T10:29:12+00:00",
+   "id": "4aaa6c67754a1ef1",
+   "mq": 74,
+   "price": 250000,
+   "source": "Soges",
+   "text": "Vendita 250.000 € Villa Castelfranco Piandiscò - Faella 2 Camere 2 Bagni 74 mq",
+   "title": "Vendita 250.000 € Villa Castelfranco Piandiscò - Faella 2 Camere 2 Bagni 74 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-castelfranco-piandisco-50684/"
+  },
   "4aad75fd816ec7b4": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -4791,6 +4803,18 @@
    "text": "V 2221 Vendita 31 APPARTAMENTO RISTRUTTURATO IN PICCOLA PALAZZINA In vendita a San Giovanni Valdarno Zona Centro IN ZONA CENTRALE , COMODA PER TUTTI I SERVIZ E A DUE PASSI DALLA STAZIONE VENDIAMO IN PALAZZINA COMPLETAMENTE RISTRUTTURATA.( TETTO, FACCIATA , VANO SCALE), APPARTAMENTO TOTALMENTE RINNOVATO, COMPOSTO DA : INGRESSO- SOGGIORNO, CUCINA, CAMERA MATRIMONIALE, BAGNO FINESTRATO E RIPOSTIGLIO.…",
    "title": "APPARTAMENTO RISTRUTTURATO IN PICCOLA PALAZZINA",
    "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2577500&language=ita"
+  },
+  "63024bd87386b955": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-11-10T10:27:31+00:00",
+   "id": "63024bd87386b955",
+   "mq": null,
+   "price": 55000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Rustico Ruderale in Vendita a Castelfranco Piandiscò – Un’Occasione da Non Perdere! Castelfranco Piandiscò rif: 8680 200 2 3 1 € 55.000 dettagli",
+   "title": "Rustico Ruderale in Vendita a Castelfranco Piandiscò – Un’Occasione da Non Perdere!",
+   "url": "https://centroimmobiliare.com/immobili/rustico-ruderale-in-vendita-a-castelfranco-piandisco-unoccasione-da-non-perdere/"
   },
   "63679169154ae6d1": {
    "also_on": [],
@@ -7434,6 +7458,18 @@
    "title": "Terreno Agricolo in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-831-vendita-terreno-agricolo-figline-e-incisa-valdarno/"
   },
+  "96c9e2a88581732b": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-11-10T10:27:41+00:00",
+   "id": "96c9e2a88581732b",
+   "mq": 11120,
+   "price": 25000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 25.000 Terreno in vendita Rignano Sull'Arno, Via Rignano sull'Arno 11120 Mq",
+   "title": "€ 25.000 Terreno in vendita Rignano Sull'Arno, Via Rignano sull'Arno 11120 Mq",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/rignano-sull-arno/terreno-in-vendita-61265434"
+  },
   "96f838951f64a7bc": {
    "also_on": [],
    "comune": "Terranuova Bracciolini",
@@ -7711,6 +7747,18 @@
    "text": "9842 Appartamento Laterina Pergine Valdarno NOSTRA ESCLUSIVA 90 m 2 con garage RIF. 9842 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 MONTALTO – APPARTAMENTO DI 5 VANI CON GARAGE E TERRAZZA – VICINO ALLA 4 locali 2 camere 1 bagno 90 m 2 1 € 123.000 Novità",
    "title": "Appartamento Laterina Pergine Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9842-appartamento-laterina-pergine-valdarno-montalto-90mq/"
+  },
+  "9c5586d5e6902255": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-10T10:27:15+00:00",
+   "id": "9c5586d5e6902255",
+   "mq": null,
+   "price": 105000,
+   "source": "Abita",
+   "text": "9872 Appartamento Figline e Incisa Valdarno RIF.9872 Figline Valdarno, NOSTRA ESCLUSIVA, in posizione comoda e strategica, a pochi passi dai principali servizi, proponiamo in vendita spazioso appartamento situato 4 locali 2 camere 1 bagno 1 € 105.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9872-appartamento-figline-e-incisa-valdarno-centro-0mq/"
   },
   "9ca32862bc90a1f5": {
    "also_on": [],
