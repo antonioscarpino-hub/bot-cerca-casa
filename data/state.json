@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-10T10:29:42+00:00",
+ "last_scrape": "2026-11-10T18:17:49+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -193,6 +193,18 @@
    "text": "Riferimento 419 | Vendita Fienile indipendente e ristrutturato a 20 min da Firenze Sud Comune: Bagno a Ripoli Zona: San Donato In Collina A 15 MIN DA BAGNO A RIPOLI (10 KM CIRCA) - ZONA SAN DONATO IN COLLINA (CELLAI) - Vendesi, IN NOSTRA ESCLUSIVA, questo meraviglioso fienile libero su quattro lati e completamente ristrutturato con ottime rifiniture rustiche toscane. Il fienile è stato predisposto…",
    "title": "Fienile indipendente e ristrutturato a 20 min da Firenze Sud",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=419"
+  },
+  "03b7e2ac5191022f": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-11-10T18:15:29+00:00",
+   "id": "03b7e2ac5191022f",
+   "mq": 85,
+   "price": null,
+   "source": "Immobiliare Più",
+   "text": "V 2355 Vendita 34 Rustico casale ottime condizioni a Terranuova Bracciolini In vendita a Terranuova Bracciolini Zona Setteponti NELLA ZONA COLLINARE DELLA SETTEPONTI VENDIAMO UN'ESCLUSIVA IMMOBILAIRE PIU' CARATTERISTICO FIENILE TOSCANO COMPOSTO DA AMPIA LOGGIA D'INGRESSO, SOGGIORNO CON CAMINO, CUCINA ABITABILE, AL PIANO SUPERIORE TROVIAMO UN BAGNO UNO STUDIO E LA CAMERA PADRONALE. L'IMMOBIILE E' C…",
+   "title": "Rustico casale <span class=condizioni>ottime condizioni</span> a Terranuova Bracciolini",
+   "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2613831&language=ita"
   },
   "03bba80f5ce0fc31": {
    "also_on": [],
@@ -2464,6 +2476,18 @@
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1829-vendita-villa-figline-e-incisa-valdarno-poggiolino/"
   },
+  "34d57508c6ee0923": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-10T18:15:54+00:00",
+   "id": "34d57508c6ee0923",
+   "mq": 261,
+   "price": 425000,
+   "source": "RE/MAX Ideale 2",
+   "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 425.000 € Villa singola in vendita a Cavriglia 10 loc. 10 locali 261 mq 3 bagni 2 livelli Su due livelli",
+   "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 425.000 € Villa singola in vendita a Cavrigli…",
+   "url": "https://ideale.remax.it/vendita-villa-singola/cavriglia/cavriglia-31451049-91"
+  },
   "34fafe87a8ec2ebe": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -3771,6 +3795,18 @@
    "text": "Novità € 340.000 Villa in vendita a Figline e Incisa Valdarno - centro FIGLINE CENTRO - VILLA INDIPENDENTE CON GIARDINOL'IMMAGINE DI COPERTINA HA IL SOLO SCOPO RAPPRESENTATIVO.Per privacy tutte le foto, video e ulteriori dettagli... 175 mq 3 Camere 2 Bagni Cod. 151 Dettagli",
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.cadesoimmobiliare.it/i-151-vendita-villa-figline-e-incisa-valdarno-centro/"
+  },
+  "4f0a29bfe07cbc1c": {
+   "also_on": [],
+   "comune": null,
+   "first_seen": "2026-11-10T18:17:22+00:00",
+   "id": "4f0a29bfe07cbc1c",
+   "mq": 70,
+   "price": 130000,
+   "source": "Soges",
+   "text": "Vendita 130.000 € Appartamento Dicomano - Centro 2 Camere 1 Bagno 70 mq",
+   "title": "Vendita 130.000 € Appartamento Dicomano - Centro 2 Camere 1 Bagno 70 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-dicomano-50699/"
   },
   "4f7985e2c313eae4": {
    "also_on": [],
@@ -5526,6 +5562,18 @@
    "title": "Virtual tour € 430.000 Casa indipendente in vendita Reggello, Via Ciro Menotti - Leccio 5 locali 145 Mq 2 bagni",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/reggello/rustici-cascine-case-in-vendita-60819625"
   },
+  "700075bf4d47ad78": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-10T18:17:22+00:00",
+   "id": "700075bf4d47ad78",
+   "mq": 118,
+   "price": 599000,
+   "source": "Soges",
+   "text": "Vendita 599.000 € Villa Reggello - Poggio Ai Giubbiani 3 Camere 2 Bagni 118 mq",
+   "title": "Vendita 599.000 € Villa Reggello - Poggio Ai Giubbiani 3 Camere 2 Bagni 118 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-reggello-50262-1/"
+  },
   "7009739239c7ebaa": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -6221,6 +6269,18 @@
    "text": "€ 92.400 Ufficio in vendita Loro Ciuffenna, Via Giorgio La Pira 6 locali 143 Mq 2 bagni",
    "title": "€ 92.400 Ufficio in vendita Loro Ciuffenna, Via Giorgio La Pira 6 locali 143 Mq 2 bagni",
    "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/loro-ciuffenna/ufficio-in-vendita-61168550"
+  },
+  "7e3d1aee7cecae0d": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-10T18:17:22+00:00",
+   "id": "7e3d1aee7cecae0d",
+   "mq": 120,
+   "price": 215000,
+   "source": "Soges",
+   "text": "Vendita 215.000 € Appartamento Figline e Incisa Valdarno - Matassino 4 Camere 1 Bagno 120 mq",
+   "title": "Vendita 215.000 € Appartamento Figline e Incisa Valdarno - Matassino 4 Camere 1 Bagno 120 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50695/"
   },
   "7ea7542b712f9147": {
    "also_on": [],
@@ -8923,6 +8983,18 @@
    "text": "9854 Colonica San Giovanni Valdarno 20 m 2 con giardino privato e posto auto San Giovanni Valdarno, in zona di campagna a pochi minuti dal centro e dai principali servizi, vendiamo locale rimessa attrezzi finemente e completamente ristrutturato 1 locale 20 m 2 € 57.000 Novità",
    "title": "Colonica San Giovanni Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9854-colonica-san-giovanni-valdarno-fornaci-20mq/"
+  },
+  "ba470ccad0c5c9bd": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-10T18:15:49+00:00",
+   "id": "ba470ccad0c5c9bd",
+   "mq": 376,
+   "price": 230000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 230.000 Laboratorio in vendita San Giovanni Valdarno, Via carlo emilio gadda 4 locali 376 Mq 4 bagni",
+   "title": "€ 230.000 Laboratorio in vendita San Giovanni Valdarno, Via carlo emilio gadda 4 locali 376 Mq 4 bagni",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/san-giovanni-valdarno/laboratorio-in-vendita-61280170"
   },
   "ba6f58594e1e946a": {
    "also_on": [],
