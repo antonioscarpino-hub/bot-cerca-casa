@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-11T10:47:36+00:00",
+ "last_scrape": "2026-11-11T18:33:11+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4564,6 +4564,18 @@
    "title": "Casa colonica in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1729-vendita-casa-colonica-figline-e-incisa-valdarno-gaville/"
   },
+  "5b959077ea827809": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-11-11T18:30:56+00:00",
+   "id": "5b959077ea827809",
+   "mq": null,
+   "price": 85000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Trilocale in Vendita a Campogialli – Terranuova Bracciolini Terranuova Bracciolini rif: 8683 80 2 5 € 85.000 dettagli",
+   "title": "Trilocale in Vendita a Campogialli – Terranuova Bracciolini",
+   "url": "https://centroimmobiliare.com/immobili/trilocale-in-vendita-a-campogialli-terranuova-bracciolini/"
+  },
   "5bce2ec6f2bbda1c": {
    "also_on": [],
    "comune": "Rignano sull'Arno",
@@ -6654,6 +6666,18 @@
    "title": "villetta in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2188/"
   },
+  "85c8a4d461cf7c04": {
+   "also_on": [],
+   "comune": "Loro Ciuffenna",
+   "first_seen": "2026-11-11T18:30:56+00:00",
+   "id": "85c8a4d461cf7c04",
+   "mq": null,
+   "price": 10000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Terreno Agricolo in Vendita a Loro Ciuffenna Loro Ciuffenna rif: 8677 10000 € 49.000 dettagli",
+   "title": "Terreno Agricolo in Vendita a Loro Ciuffenna",
+   "url": "https://centroimmobiliare.com/immobili/terreno-agricolo-in-vendita-a-loro-ciuffenna/"
+  },
   "8603b212912d6f26": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -8107,6 +8131,18 @@
    "text": "Primo piano Esclusiva Terranuova Bracciolini, Fraz. Penna Terranuova Bracciolini Terratetti, Porzioni di colonica Fraz. Penna, vendiamo terratetto in ottime condizioni, con ingresso indipendente, disposto su 2 livelli oltre mansarda e piano seminterrato. Al piano terra troviamo un ampio soggiorno, una cucina abitabile con porta finestra da cui si accede ad una piacevole loggia coperta e al giardin…",
    "title": "Primo piano Esclusiva Terranuova Bracciolini, Fraz. Penna Terranuova Bracciolini Terratetti, Porzioni di colonica Fraz.…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/terranuova-bracciolini-847-1524"
+  },
+  "a23ea3be6f4b24d3": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-11T18:32:46+00:00",
+   "id": "a23ea3be6f4b24d3",
+   "mq": 160,
+   "price": 290000,
+   "source": "Soges",
+   "text": "Vendita 290.000 € Villa Reggello - Pietrapiana 4 Camere 2 Bagni 160 mq",
+   "title": "Vendita 290.000 € Villa Reggello - Pietrapiana 4 Camere 2 Bagni 160 mq",
+   "url": "https://www.soges.it/prodotto/villa-in-vendita-a-reggello-50680/"
   },
   "a2b00c735b8648d3": {
    "also_on": [],
