@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-11T03:02:30+00:00",
+ "last_scrape": "2026-11-11T10:47:36+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -5730,6 +5730,18 @@
    "title": "VENDITA Porzione di colonica Pian di Sco (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=325"
   },
+  "72942284388878b5": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-11T10:45:08+00:00",
+   "id": "72942284388878b5",
+   "mq": null,
+   "price": 159000,
+   "source": "Abita",
+   "text": "9871 Appartamento Cavriglia 100 m 2 con garage Cavriglia, località San Cipriano, a pochi minuti dal comune di San Giovanni Valdarno, vendiamo appartamento inserito in caratteristico complesso edificato nel 2007 in 4 locali 3 camere 1 bagno 100 m 2 1 € 159.000 Consigliato Novità",
+   "title": "Appartamento Cavriglia",
+   "url": "https://www.abitaimmobiliare.com/immobili/9871-appartamento-cavriglia-san-cipriano-100mq/"
+  },
   "733ab2e5dd63ce46": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -11251,6 +11263,18 @@
    "text": "Appartamento in vendita a Figline e Incisa Valdarno 0 230.000 € Vendita",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2398/"
+  },
+  "ebe3de384a83d1e1": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-11T10:45:08+00:00",
+   "id": "ebe3de384a83d1e1",
+   "mq": null,
+   "price": 105000,
+   "source": "Abita",
+   "text": "11 9872 Appartamento Figline e Incisa Valdarno 95 m 2 RIF.9872 Figline Valdarno, NOSTRA ESCLUSIVA, in posizione comoda e strategica, a pochi passi dai principali servizi, proponiamo in vendita spazioso appartamento situato 4 locali 2 camere 1 bagno 95 m 2 1 € 105.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9872-appartamento-figline-e-incisa-valdarno-centro-95mq/"
   },
   "ec5464223cac0246": {
    "also_on": [],
