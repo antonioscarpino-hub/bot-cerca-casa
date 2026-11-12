@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-12T08:15:15+00:00",
+ "last_scrape": "2026-11-12T16:56:35+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1825,6 +1825,18 @@
    "text": "Vendita € 255.000 Figline e Incisa Valdarno 100 mq - 3 Camere - 2 Bagni Appartamento Rif. A5/2084 FIGLINE V. NO (Gaville) In fase di completa ristrutturazione di una palazzina quadrifamiliare, vendesi appartamento al piano primo ed ultimo di mq. 100 con vista panoramica, libero su tre lati, avente...",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.europa92immobiliare.it/i-35518255-vendita-appartamento-figline-e-incisa-valdarno/"
+  },
+  "276e42d1816c5dfe": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-12T16:55:29+00:00",
+   "id": "276e42d1816c5dfe",
+   "mq": 75,
+   "price": 160000,
+   "source": "Immobiliare Case di Toscana (E. Martini)",
+   "text": "In vendita 75 mq SAN CLEMENTE - LUMINOSO 4 VANI CON TERRAZZA E POSTO AUTO In posizione strategica vicino a tutti i servizi primari, tra cui la stazione … Guarda la zona € 160.000,00",
+   "title": "SAN CLEMENTE - LUMINOSO 4 VANI CON TERRAZZA E POSTO AUTO",
+   "url": "https://www.caseditoscana.com/ita/immobile/0-4/1161-san-clemente---luminoso-4-vani-con-terrazza-e-posto-auto.html"
   },
   "27dd9ccbbbe907de": {
    "also_on": [],
@@ -11071,6 +11083,18 @@
    "text": "A1077 Vendita 15 immobile lbero su tre lati con annesso e terreni In vendita a Terranuova Bracciolini Zona Centro In vendita a Terranuova Bracciolini, proponiamo un interessante immobile, ideale per famiglie o per chi cerca ampi spazi. L'immobile si sviluppa su tre livelli, offrendo una distribuzione degli spazi funzionale e versatile. Al piano terra troviamo un locale uso taverna ed un locale gar…",
    "title": "immobile lbero su tre lati con annesso e terreni",
    "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2584227&language=ita"
+  },
+  "e58c89ac31152e5a": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-12T16:56:35+00:00",
+   "id": "e58c89ac31152e5a",
+   "mq": 200,
+   "price": null,
+   "source": "Valdarno Casa",
+   "text": "A/2732 Vendita 22 Terratetto ottime condizioni a Reggello In vendita a Reggello Zona Cetina Rif.A/2732 Incisa Valdarno, vicinanze casello uscita autostrada, in zona residenziale, posizione tranquilla con tutti i servizi facilmente raggiungibili, proponiamo bella villetta terratetto, caposchiera libera su tre lati, composta soggiorno cucina al piano terreno rialzato, tre camere da letto al 200 Mq -…",
+   "title": "Terratetto <span class=condizioni>ottime condizioni</span> a Reggello",
+   "url": "https://www.valdarnocasa.it/web/immobile_dettaglio.asp?cod_annuncio=2614366&language=ita"
   },
   "e5d6cc1a1584baf4": {
    "also_on": [],
