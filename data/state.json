@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-11T18:33:11+00:00",
+ "last_scrape": "2026-11-12T01:02:17+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -8263,6 +8263,18 @@
    "text": "A/2710 Vendita 30 Terratetto ottime condizioni a Figline e Incisa Valdarno In vendita a Figline e Incisa Valdarno Zona Incisa in Val d'Arno RIF: A/2710 Figline e Incisa Valdarno , nella zona alta di Incisa proponiamo in vendita bellissimo terratetto completamente indipendente : al piano terra troviamo ingresso con grande e luminosa zona giorno pavimentata con cotto d'este, terrazzo, cucina doppia…",
    "title": "Terratetto <span class=condizioni>ottime condizioni</span> a Figline e Incisa Valdarno",
    "url": "https://www.valdarnocasa.it/web/immobile_dettaglio.asp?cod_annuncio=2571786&language=ita"
+  },
+  "a6134c9a7aab8298": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-12T01:01:20+00:00",
+   "id": "a6134c9a7aab8298",
+   "mq": 100,
+   "price": 255000,
+   "source": "Europa 92 Immobiliare Centro Casa",
+   "text": "Vendita € 255.000 Figline e Incisa Valdarno 100 mq - 3 Camere - 2 Bagni Appartamento Rif. A5/2085 FIGLINE V. NO (Gaville) In fase di completa ristrutturazione di una palazzina quadrifamiliare, vendesi appartamento al piano terreno di mq. 100 con vista panoramica, libero su tre lati, avente ingresso...",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.europa92immobiliare.it/i-35518236-vendita-appartamento-figline-e-incisa-valdarno/"
   },
   "a65a49da9556c4d1": {
    "also_on": [],
