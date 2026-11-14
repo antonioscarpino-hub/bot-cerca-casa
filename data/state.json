@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-14T13:21:54+00:00",
+ "last_scrape": "2026-11-14T18:49:53+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -997,6 +997,18 @@
    "text": "Appartamento in vendita a San Giovanni Valdarno 0 180.000 € Vendita",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2312/"
+  },
+  "12d55c706e67984e": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-14T18:47:45+00:00",
+   "id": "12d55c706e67984e",
+   "mq": 90,
+   "price": 149000,
+   "source": "Tecnocasa Studio Valdarno",
+   "text": "Virtual tour € 149.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via Lorenzo Pignotti - Figline Valdarno 4 locali 90 Mq 1 bagno",
+   "title": "Virtual tour € 149.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via Lorenzo Pignotti - Figline Valdarno 4 loca…",
+   "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/appartamenti-in-vendita-61300405"
   },
   "13e0ccfef50dac82": {
    "also_on": [],
@@ -8119,6 +8131,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Villa a schiera in vendita a Reggello, Poggio Giubbiani 4 loc. 4 locali 85 mq 3 bagni 2 livelli Su due livelli",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Carolina Pedano 260.000 € Villa a schiera in vendita a Reggell…",
    "url": "https://ideale.remax.it/vendita-villa-a-schiera/reggello/poggio-ai-giubbiani-31451005-232"
+  },
+  "9ff84299378eca38": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-14T18:47:45+00:00",
+   "id": "9ff84299378eca38",
+   "mq": 60,
+   "price": 109000,
+   "source": "Tecnocasa Studio Valdarno",
+   "text": "Virtual tour € 109.000 Trilocale in vendita Figline E Incisa Valdarno, Via Lorenzo Pignotti - Figline Valdarno 3 locali 60 Mq 1 bagno",
+   "title": "Virtual tour € 109.000 Trilocale in vendita Figline E Incisa Valdarno, Via Lorenzo Pignotti - Figline Valdarno 3 locali…",
+   "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/appartamenti-in-vendita-61300407"
   },
   "9ff9ca3246221c5b": {
    "also_on": [],
