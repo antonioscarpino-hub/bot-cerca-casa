@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-13T23:54:53+00:00",
+ "last_scrape": "2026-11-14T05:55:34+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -109,6 +109,18 @@
    "text": "San Giovanni Valdarno (AR) viale Gramsci 5 vani Rif. 1633 € 175.000,00 In bella zona, al secondo ed ultimo piano di palazzina bifamiliare, vendesi luminoso appartamento di 5 vani con una superficie di 105 mq. …. 27 Aprile 2026 in 5 vani ed oltre .",
    "title": "San Giovanni Valdarno (AR) viale Gramsci 5 vani Rif. 1633 € 175.000,00",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=6464"
+  },
+  "018fcc08e0536347": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-14T05:52:55+00:00",
+   "id": "018fcc08e0536347",
+   "mq": null,
+   "price": 135000,
+   "source": "Abita",
+   "text": "9879 Colonica Terranuova Bracciolini NOSTRA ESCLUSIVA 450 m 2 con giardino privato e posto auto Tra Terranuova Bracciolini e San Giovanni Valdarno, immerse nella campagna Toscana con le suggestive Balze che fanno da cornice, ma allo stesso tempo a pochi minuti dalla 15 locali 8 camere 4 bagni 450 m 2 3 € 135.000 Consigliato Novità",
+   "title": "Colonica Terranuova Bracciolini",
+   "url": "https://www.abitaimmobiliare.com/immobili/9879-colonica-terranuova-bracciolini-persignano-450mq/"
   },
   "01b662611182e199": {
    "also_on": [],
@@ -985,6 +997,18 @@
    "text": "Appartamento in vendita a San Giovanni Valdarno 0 180.000 € Vendita",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2312/"
+  },
+  "13e0ccfef50dac82": {
+   "also_on": [],
+   "comune": "Laterina Pergine Valdarno",
+   "first_seen": "2026-11-14T05:53:14+00:00",
+   "id": "13e0ccfef50dac82",
+   "mq": null,
+   "price": 170000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Incantevole Villetta Indipendente con Giardino a Ponticino ESCLUSIVA Laterina Pergine Valdarno rif: 8688 127 2 6 1 € 170.000 dettagli",
+   "title": "Incantevole Villetta Indipendente con Giardino a Ponticino ESCLUSIVA",
+   "url": "https://centroimmobiliare.com/immobili/incantevole-villetta-indipendente-con-giardino-a-ponticino-esclusiva/"
   },
   "13fc16c22f8a3acf": {
    "also_on": [],
@@ -8900,6 +8924,18 @@
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 279.000 € Villa a schiera in vendita a Lateri…",
    "url": "https://ideale.remax.it/vendita-villa-a-schiera/laterina-pergine-valdarno/ponticino-31451015-417"
   },
+  "b269067df12b5613": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-14T05:55:31+00:00",
+   "id": "b269067df12b5613",
+   "mq": null,
+   "price": 125000,
+   "source": "Valdarno Affari",
+   "text": "Appartamento in vendita a San Giovanni Valdarno 0 125.000 € Vendita",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2407/"
+  },
   "b2e2dcfebe165c05": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -12151,6 +12187,18 @@
    "text": "Appartamento in vendita a Montevarchi 0 65.000 € Vendita",
    "title": "Appartamento in vendita a Montevarchi",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2404/"
+  },
+  "fe9457679b9fec07": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-14T05:52:55+00:00",
+   "id": "fe9457679b9fec07",
+   "mq": null,
+   "price": 238000,
+   "source": "Abita",
+   "text": "20 9870 Villetta a Schiera Montevarchi 105 m 2 con giardino privato e posto auto RIF. 9870 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 MONTEVARCHI – CHIANTIGIANA | INDIPENDENZA E COMFORT NEL VERDE In un contesto 5 locali 2 camere 2 bagni 105 m 2 1 € 238.000 Novità",
+   "title": "Villetta a Schiera Montevarchi",
+   "url": "https://www.abitaimmobiliare.com/immobili/9870-villetta-a-schiera-montevarchi-chiantigiana-105mq/"
   },
   "fedd9bad741d0e09": {
    "also_on": [],
