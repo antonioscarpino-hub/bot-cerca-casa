@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-15T16:57:19+00:00",
+ "last_scrape": "2026-11-15T21:38:45+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -7157,6 +7157,18 @@
    "text": "A1072 Vendita 23 Appartamento secondo piano con ascensore In vendita a San Giovanni Valdarno Zona Bani In vendita a San Giovanni Valdarno, nella tranquilla zona di Bani, proponiamo un ampio appartamento di 120 mq situato al secondo piano di un edificio dotato di ascensore. L'immobile Ã¨ composto da cinque vani ben distribuiti, tra cui tre spaziose camere da letto, due bagni, una cucina abitabile e…",
    "title": "Appartamento secondo piano con ascensore",
    "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2574775&language=ita"
+  },
+  "8c9556073b909ff7": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-15T21:36:51+00:00",
+   "id": "8c9556073b909ff7",
+   "mq": 191,
+   "price": 440000,
+   "source": "RE/MAX Ideale 2",
+   "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 440.000 € Casa indipendente in vendita a Montevarchi, Pestello 9 loc. 9 locali 191 mq 3 bagni 2 livelli Su due livelli",
+   "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 440.000 € Casa indipendente in vendita a Mont…",
+   "url": "https://ideale.remax.it/vendita-casa-indipendente/montevarchi/pestello-ginestra-31451054-83"
   },
   "8ccd24edc822c641": {
    "also_on": [],
