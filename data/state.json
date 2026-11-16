@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-16T08:38:11+00:00",
+ "last_scrape": "2026-11-16T18:57:06+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4863,6 +4863,18 @@
    "text": "Vendita Ampio Appartamento Pentalocale in Vendita a Montevarchi – Zona Stadio Montevarchi rif: 8659 126 3 5 2 € 145.000 dettagli",
    "title": "Ampio Appartamento Pentalocale in Vendita a Montevarchi – Zona Stadio",
    "url": "https://centroimmobiliare.com/immobili/ampio-appartamento-pentalocale-in-vendita-a-montevarchi-zona-stadio/"
+  },
+  "60eb9e10dcd14c00": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-16T18:55:22+00:00",
+   "id": "60eb9e10dcd14c00",
+   "mq": 120,
+   "price": 89000,
+   "source": "Tecnocasa Studio San Giovanni Valdarno",
+   "text": "Virtual tour € 89.000 Quadrilocale in vendita Montevarchi, Via del Lungo Isidoro 4 locali 120 Mq 2 bagni",
+   "title": "Virtual tour € 89.000 Quadrilocale in vendita Montevarchi, Via del Lungo Isidoro 4 locali 120 Mq 2 bagni",
+   "url": "https://sangiovannivaldarno1.tecnocasa.it/montevarchi/appartamenti-in-vendita-61300521"
   },
   "60f94a4635d7ab6b": {
    "also_on": [],
@@ -11455,6 +11467,18 @@
    "text": "2015 Vendita Riferimento 2015 5 Locali 2 Camere 2 Servizi 85 Mq Casa Semi Indipendente (Bucine) BUCINE (MERCATALE) // NOSTRA ESCLUSIVA // StudioCasaUno propone elegante immobile di recente fattura... € 235.000 Vedi Dettagli",
    "title": "cerca Bucine CASA SEMI INDIPENDENTE VENDITA",
    "url": "https://www.studiocasauno.com/immobile-bucine-_vendita_casa-semi-indipendente_2894320.html"
+  },
+  "e831bfa764424f49": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-16T18:57:03+00:00",
+   "id": "e831bfa764424f49",
+   "mq": null,
+   "price": 120000,
+   "source": "Valdarno Affari",
+   "text": "120.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni Valdarno, zona Oltrarno, in ottima posizione facilmente raggiungibile da tutti… Scopri di più",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2304/"
   },
   "e8560aeb891f19dc": {
    "also_on": [],
