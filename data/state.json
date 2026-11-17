@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-17T02:26:50+00:00",
+ "last_scrape": "2026-11-17T11:10:46+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -518,6 +518,18 @@
    "title": "Virtual tour € 200.000 Quadrilocale in vendita San Giovanni Valdarno, Via Pier della Francesca - Oltrarno 4 locali 68 Mq…",
    "url": "https://sangiovannivaldarno1.tecnocasa.it/san-giovanni-valdarno/appartamenti-in-vendita-61184673"
   },
+  "09386995c3e8fba5": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-17T11:08:38+00:00",
+   "id": "09386995c3e8fba5",
+   "mq": null,
+   "price": 85000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Elegante pasticceria, caffè bar in vendita nel centro di San Giovanni Valdarno San Giovanni Valdarno rif: 8691 200 € 85.000 dettagli",
+   "title": "Elegante pasticceria, caffè bar in vendita nel centro di San Giovanni Valdarno",
+   "url": "https://centroimmobiliare.com/immobili/elegante-pasticceria-caffe-bar-in-vendita-nel-centro-di-san-giovanni-valdarno/"
+  },
   "097506ad57fa8243": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -529,6 +541,18 @@
    "text": "230.000 € Locale in vendita a San Giovanni Valdarno San Giovanni Valdarno, nel pieno centro storico del paese e con affaccio… Scopri di più",
    "title": "Locale in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2279/"
+  },
+  "0a5ce945984a6207": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-17T11:10:33+00:00",
+   "id": "0a5ce945984a6207",
+   "mq": 75,
+   "price": null,
+   "source": "Studio Immobiliare Anna Maria (Martucci)",
+   "text": "A1081 Vendita 15 Appartamento ultimo piano In vendita a San Giovanni Valdarno Zona Centro Nel cuore di San Giovanni Valdarno, in posizione centrale e comoda per raggiungere a piedi tutti i principali servizi, proponiamo in vendita appartamento di circa 75 mq posto al secondo ed ultimo piano. Lâabitazione si presenta in condizioni abitabili ed Ã¨ composta da quattro vani ben distribuiti: 75 Mq -…",
+   "title": "Appartamento ultimo piano",
+   "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2615379&language=ita"
   },
   "0a90a44e9145ae29": {
    "also_on": [],
@@ -4203,6 +4227,18 @@
    "text": "in Vendita Novità Cod. 409 Casa singola in vendita a Reggello Reggello Centro bellissimo appartamento indipendente piano rialzato con giardino appartamento di 5 vani tre camere soggiorno cucina e due bagni ottime rifiniture completa la proprietà un box auto doppio da cui si accede dall'interno e giardino privato ottima zona centrale vicinissima ai servizi tutti gli impianti sono stati rimodernati…",
    "title": "Casa singola in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1527-vendita-casa-singola-reggello-centro/"
+  },
+  "53499708da3a7fdc": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-17T11:08:22+00:00",
+   "id": "53499708da3a7fdc",
+   "mq": null,
+   "price": 105000,
+   "source": "Abita",
+   "text": "9882 Appartamento Terranuova Bracciolini NOSTRA ESCLUSIVA 85 m 2 con garage RIF. 9882 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Terranuova B.ni, zona Penna, a pochi chilometri dai principali servizi, proponiamo 4 locali 2 camere 1 bagno 85 m 2 € 105.000 Consigliato Novità",
+   "title": "Appartamento Terranuova Bracciolini",
+   "url": "https://www.abitaimmobiliare.com/immobili/9882-appartamento-terranuova-bracciolini-penna-85mq/"
   },
   "535137549ec8d8b9": {
    "also_on": [],
@@ -10076,6 +10112,18 @@
    "title": "Appartamento Montevarchi",
    "url": "https://www.abitaimmobiliare.com/immobili/9874-appartamento-montevarchi-giglio-85mq/"
   },
+  "c7ba5dc6a31d2c3a": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-17T11:08:22+00:00",
+   "id": "c7ba5dc6a31d2c3a",
+   "mq": null,
+   "price": 69000,
+   "source": "Abita",
+   "text": "9880 Appartamento Bucine 80 m 2 con garage RIF. 9880 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Bucine, nel borgo vecchio di Pietraviva appartamento posto a piano primo con 3 locali 2 camere 1 bagno 80 m 2 € 69.000 Novità",
+   "title": "Appartamento Bucine",
+   "url": "https://www.abitaimmobiliare.com/immobili/9880-appartamento-bucine-pietraviva-80mq/"
+  },
   "c7fe1bdb869a96e0": {
    "also_on": [],
    "comune": "Greve in Chianti",
@@ -10771,6 +10819,18 @@
    "text": "in Vendita",
    "title": "Casa colonica in vendita a Reggello",
    "url": "https://www.colli-toscani.com/i-1771-vendita-casa-colonica-reggello-donnini/"
+  },
+  "d8503c85f77d5359": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-17T11:10:33+00:00",
+   "id": "d8503c85f77d5359",
+   "mq": 85,
+   "price": null,
+   "source": "Studio Immobiliare Anna Maria (Martucci)",
+   "text": "A1082 Vendita 21 Appartamento primo piano In vendita a San Giovanni Valdarno Zona Bani Nel tranquillo e servito quartiere Bani di San Giovanni Valdarno, proponiamo in vendita appartamento di circa 85 mq posto al primo piano di un palazzo dotato di ascensore. Lâabitazione, in buone condizioni e caratterizzata da ambienti funzionali e ben distribuiti, si compone di ingresso, cucina 85 Mq - 4 Vani…",
+   "title": "Appartamento primo piano",
+   "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2615389&language=ita"
   },
   "d8a1df0def935c8b": {
    "also_on": [],
