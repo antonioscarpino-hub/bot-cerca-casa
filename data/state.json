@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-17T11:10:46+00:00",
+ "last_scrape": "2026-11-17T19:58:02+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -4815,6 +4815,18 @@
    "text": "Vendita Casa indipendente panoramica con terreno privato a Ricasoli, Montevarchi Montevarchi rif: 8681 210 4 8 2 € 390.000 dettagli",
    "title": "Casa indipendente panoramica con terreno privato a Ricasoli, Montevarchi",
    "url": "https://centroimmobiliare.com/immobili/casa-indipendente-panoramica-con-terreno-privato-a-ricasoli-montevarchi/"
+  },
+  "5f6f6672da5af134": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-11-17T19:57:16+00:00",
+   "id": "5f6f6672da5af134",
+   "mq": null,
+   "price": null,
+   "source": "Studio Immobiliare Becucci Bechelli",
+   "text": "Vendita 249.000 | Mq 300 | 10 Casa Indipendente a Certaldo via fonda",
+   "title": "Vendita 249.000 | Mq 300 | 10 Casa Indipendente a Certaldo via fonda",
+   "url": "https://www.immobiliarebecucci.it/dettaglio/Vendita_Casa_Indipendente_Certaldo/910545"
   },
   "5f8c76eb0ea26b4f": {
    "also_on": [],
