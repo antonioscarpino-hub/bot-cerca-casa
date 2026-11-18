@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-18T02:20:44+00:00",
+ "last_scrape": "2026-11-18T10:26:37+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1033,6 +1033,18 @@
    "text": "Virtual tour € 149.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via Lorenzo Pignotti - Figline Valdarno 4 locali 90 Mq 1 bagno",
    "title": "Virtual tour € 149.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via Lorenzo Pignotti - Figline Valdarno 4 loca…",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/appartamenti-in-vendita-61300405"
+  },
+  "139a900ae57bce74": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-18T10:24:01+00:00",
+   "id": "139a900ae57bce74",
+   "mq": null,
+   "price": 520000,
+   "source": "Abita",
+   "text": "9883 Unifamiliare Terranuova Bracciolini NOSTRA ESCLUSIVA 170 m 2 con giardino privato e posto auto RIF. 9883 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Terranuova Bracciolini, in posizione privilegiata, a due passi dal centro del paese, 10 locali 4 camere 2 bagni 170 m 2 € 520.000 Consigliato Novità",
+   "title": "Unifamiliare Terranuova Bracciolini",
+   "url": "https://www.abitaimmobiliare.com/immobili/9883-unifamiliare-terranuova-bracciolini-centro-170mq/"
   },
   "13e0ccfef50dac82": {
    "also_on": [],
@@ -3124,6 +3136,18 @@
    "title": "Rif 6107",
    "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2585340&language=ita"
   },
+  "402251dadda14b71": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-18T10:24:01+00:00",
+   "id": "402251dadda14b71",
+   "mq": null,
+   "price": 163000,
+   "source": "Abita",
+   "text": "9884 Unifamiliare Laterina Pergine Valdarno NOSTRA ESCLUSIVA 220 m 2 con giardino privato e garage RIF. 9884 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 LATERINA-PERGINE – VILLETTA INDIPENDENTE CON DUE APPARTAMENTI, GIARDINO E GARAGE 9 locali 4 camere 2 bagni 220 m 2 4 € 163.000 Novità",
+   "title": "Unifamiliare Laterina Pergine Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9884-unifamiliare-laterina-pergine-valdarno-pergine-220mq/"
+  },
   "40c8f504ad029555": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -3327,6 +3351,18 @@
    "text": "Chi siamo",
    "title": "Chi siamo",
    "url": "https://www.blustudioimmobiliare.it/Chi-siamo_2835.html"
+  },
+  "44c1b6f076c99a9f": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-18T10:26:13+00:00",
+   "id": "44c1b6f076c99a9f",
+   "mq": null,
+   "price": 73238,
+   "source": "Soges",
+   "text": "Asta 73.238 € Appartamento Figline e Incisa Valdarno",
+   "title": "Asta 73.238 € Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50704/"
   },
   "44df7b3e2f265fa8": {
    "also_on": [],
@@ -4623,6 +4659,18 @@
    "text": "830.000 € Locale in vendita a Cortona Comune di Cortona, frazione Tavarnelle In ottima posizione con MASSIMA visibilità e comodo… Scopri di più",
    "title": "Locale in vendita a Cortona",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2331/"
+  },
+  "5998495ef1e599e3": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-18T10:26:13+00:00",
+   "id": "5998495ef1e599e3",
+   "mq": 82,
+   "price": 82013,
+   "source": "Soges",
+   "text": "Asta 82.013 € Appartamento Figline e Incisa Valdarno 1 Bagno 82 mq 2 Locali",
+   "title": "Asta 82.013 € Appartamento Figline e Incisa Valdarno 1 Bagno 82 mq 2 Locali",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50705/"
   },
   "59bd53c96e02d816": {
    "also_on": [],
@@ -11180,6 +11228,18 @@
    "title": "Terreno edificabile in vendita a Reggello",
    "url": "https://www.cadesoimmobiliare.it/i-124-vendita-terreno-edificabile-reggello-cascia/"
   },
+  "e067fb5bf608d468": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-11-18T10:25:47+00:00",
+   "id": "e067fb5bf608d468",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Firenze e Dintorni (Becattini)",
+   "text": "",
+   "title": "dettaglio.php?id=420",
+   "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=420"
+  },
   "e0de104a8c3e0209": {
    "also_on": [],
    "comune": "Castelfranco Piandiscò",
@@ -11695,6 +11755,18 @@
    "text": "Villa con Piscina Castelnuovo dei Sabbioni - Cavriglia 519 mq 23 4 6 620.000€",
    "title": "Villa con Piscina",
    "url": "https://tizianagentile.it/annunci/villa-con-piscina/"
+  },
+  "ecbee6599ccd61d0": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-11-18T10:25:47+00:00",
+   "id": "ecbee6599ccd61d0",
+   "mq": null,
+   "price": null,
+   "source": "Immobiliare Firenze e Dintorni (Becattini)",
+   "text": "",
+   "title": "dettaglio.php?id=421",
+   "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=421"
   },
   "ecd10447e73c1f4a": {
    "also_on": [],
