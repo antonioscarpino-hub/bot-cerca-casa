@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-17T19:58:02+00:00",
+ "last_scrape": "2026-11-18T02:20:44+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -11827,6 +11827,18 @@
    "text": "10 9766 Appartamento San Giovanni Valdarno 52 m 2 Nel centro di San Giovanni Valdarno, in posizione strategica a pochi passi dalla stazione ferroviaria e comoda a tutti i principali servizi, proponiamo in vendita un 2 locali 1 camera 1 bagno 52 m 2 1 € 120.000",
    "title": "Appartamento San Giovanni Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9766-appartamento-san-giovanni-valdarno-centro-52mq/"
+  },
+  "ef32903bbf481419": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-11-18T02:20:41+00:00",
+   "id": "ef32903bbf481419",
+   "mq": null,
+   "price": 86000,
+   "source": "Valdarno Affari",
+   "text": "Appartamento in vendita a Cavriglia 0 86.000 € Vendita",
+   "title": "Appartamento in vendita a Cavriglia",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2408/"
   },
   "ef75077b0db30ef2": {
    "also_on": [],
