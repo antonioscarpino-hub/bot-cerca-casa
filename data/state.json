@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-18T10:26:37+00:00",
+ "last_scrape": "2026-11-18T19:05:38+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3087,6 +3087,18 @@
    "text": "195.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni V.no zona Oltrarno Via Giotto, zona comoda e vicino ai… Scopri di più",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2339/"
+  },
+  "3f197c2cc8f07ec6": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-18T19:05:10+00:00",
+   "id": "3f197c2cc8f07ec6",
+   "mq": 58,
+   "price": 83400,
+   "source": "Soges",
+   "text": "Asta 83.400 € Appartamento Figline e Incisa Valdarno 1 Bagno 58 mq 3 Locali",
+   "title": "Asta 83.400 € Appartamento Figline e Incisa Valdarno 1 Bagno 58 mq 3 Locali",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50707/"
   },
   "3f68b86fd867bd6a": {
    "also_on": [],
@@ -10255,6 +10267,18 @@
    "text": "€ 225.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via Enrico Berlinguer - Incisa In Val D'Arno 4 locali 95 Mq 2 bagni",
    "title": "€ 225.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via Enrico Berlinguer - Incisa In Val D'Arno 4 locali 95 Mq…",
    "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/appartamenti-in-vendita-61276322"
+  },
+  "c9446a37355ca002": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-18T19:05:10+00:00",
+   "id": "c9446a37355ca002",
+   "mq": 87,
+   "price": 88256,
+   "source": "Soges",
+   "text": "Asta 88.256 € Appartamento Figline e Incisa Valdarno 2 Bagni 87 mq 3 Locali",
+   "title": "Asta 88.256 € Appartamento Figline e Incisa Valdarno 2 Bagni 87 mq 3 Locali",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-figline-e-incisa-valdarno-50706/"
   },
   "c95efa64472d7da1": {
    "also_on": [],
