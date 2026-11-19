@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-19T01:20:15+00:00",
+ "last_scrape": "2026-11-19T08:57:26+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1838,6 +1838,18 @@
    "title": "dettaglio.php?id=390",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=390"
   },
+  "25e2ece20037f4a1": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-11-19T08:57:10+00:00",
+   "id": "25e2ece20037f4a1",
+   "mq": 700,
+   "price": null,
+   "source": "Studio Ciccarelli & Partner",
+   "text": "Rif 6126 TERRENO EDIFICABILE - VAGGIO Castelfranco Piandisco Zona Vaggio â¬ 110.000 In localitÃ Vaggio, proponiamo un lotto edificabile di circa 700 mq per civile abitazione. Sul lotto edificabile sono previsti la costruzione di 3 o 700 Mq Continua",
+   "title": "Rif 6126",
+   "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2616139&language=ita"
+  },
   "25f5164947a222a9": {
    "also_on": [],
    "comune": "Rignano sull'Arno",
@@ -3255,6 +3267,18 @@
    "text": "150.000 € Fondo Artigianale in vendita a Terranuova Bracciolini Terranuova Bracciolini, zona Poggilupi, facilmente raggiungibile da vari comuni del Valdarno e… Scopri di più",
    "title": "Fondo Artigianale in vendita a Terranuova Bracciolini",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2224/"
+  },
+  "418d83ad01bf555f": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-19T08:55:03+00:00",
+   "id": "418d83ad01bf555f",
+   "mq": null,
+   "price": 68000,
+   "source": "Abita",
+   "text": "9886 Colonica Laterina Pergine Valdarno NOSTRA ESCLUSIVA 90 m 2 con giardino privato RIF. 9886 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 LATERINA PERGINE VALDARNO – IMMOBILE RURALE INDIPENDENTE CON TERRENO In posizione 3 locali 1 camera 90 m 2 1 € 68.000 Novità",
+   "title": "Colonica Laterina Pergine Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9886-colonica-laterina-pergine-valdarno-montalto-90mq/"
   },
   "41fd39f40d52a2db": {
    "also_on": [],
@@ -10531,6 +10555,18 @@
    "text": "VENDITA Appartamento San Giovanni Valdarno (AR)",
    "title": "VENDITA Appartamento San Giovanni Valdarno (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=891"
+  },
+  "ccdffeb28b59f30a": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-19T08:55:03+00:00",
+   "id": "ccdffeb28b59f30a",
+   "mq": null,
+   "price": 150000,
+   "source": "Abita",
+   "text": "9881 Appartamento San Giovanni Valdarno 105 m 2 A San Giovanni Valdarno, in una zona residenziale comoda e ben servita, a pochi passi dai principali servizi e dalle comodità quotidiane, proponiamo in vendita un 4 locali 2 camere 1 bagno 105 m 2 1 € 150.000 Novità",
+   "title": "Appartamento San Giovanni Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9881-appartamento-san-giovanni-valdarno-bani-105mq/"
   },
   "ccf76f1f153b6aa9": {
    "also_on": [],
