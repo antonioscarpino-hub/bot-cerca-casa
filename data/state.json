@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-19T08:57:26+00:00",
+ "last_scrape": "2026-11-19T18:10:32+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1105,6 +1105,18 @@
    "text": "Vendita 160.000 € Appartamento Piazza W.Tobagi Reggello APPARTAMENTO IN VENDITA situato ad Incisa Valdarno, di circa 80 mq. appartamento al primo piano, c... Vedi Dettagli",
    "title": "cerca Reggello APPARTAMENTO VENDITA",
    "url": "https://www.immobiliaresandonato.it/immobile-reggello-_vendita_appartamento_106949.html"
+  },
+  "14a4966b2cfcaf18": {
+   "also_on": [],
+   "comune": "Laterina Pergine Valdarno",
+   "first_seen": "2026-11-19T18:07:57+00:00",
+   "id": "14a4966b2cfcaf18",
+   "mq": 1100,
+   "price": 490000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 490.000 Capannone in vendita Pergine Valdarno, Via vecchia aretina - Rimaggio 10 locali 1100 Mq 3 bagni",
+   "title": "€ 490.000 Capannone in vendita Pergine Valdarno, Via vecchia aretina - Rimaggio 10 locali 1100 Mq 3 bagni",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/pergine-valdarno/capannone-in-vendita-61223725"
   },
   "14ea215b69c7b675": {
    "also_on": [],
@@ -6642,6 +6654,18 @@
    "title": "VENDITA Terratetto Cavriglia (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=893"
   },
+  "7ecc787cf755b3ab": {
+   "also_on": [],
+   "comune": "Laterina Pergine Valdarno",
+   "first_seen": "2026-11-19T18:07:57+00:00",
+   "id": "7ecc787cf755b3ab",
+   "mq": 700,
+   "price": 310000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 310.000 Capannone in vendita Pergine Valdarno, Via vecchia aretina - Rimaggio 10 locali 700 Mq 3 bagni",
+   "title": "€ 310.000 Capannone in vendita Pergine Valdarno, Via vecchia aretina - Rimaggio 10 locali 700 Mq 3 bagni",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/pergine-valdarno/capannone-in-vendita-61223734"
+  },
   "7ee04c935120abed": {
    "also_on": [],
    "comune": "San Giovanni Valdarno",
@@ -7385,6 +7409,18 @@
    "text": "Vendita Tratt. riservata | Mq 2340 | Terreno Edificabile a Greve in Chianti",
    "title": "Vendita Tratt. riservata | Mq 2340 | Terreno Edificabile a Greve in Chianti",
    "url": "https://www.immobiliarebecucci.it/dettaglio/Vendita_Terreno_Edificabile_Greve_in_Chianti/886175"
+  },
+  "8e34686bd71fbe17": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-11-19T18:09:39+00:00",
+   "id": "8e34686bd71fbe17",
+   "mq": 105,
+   "price": 75000,
+   "source": "Europa 92 Immobiliare Centro Casa",
+   "text": "Vendita € 75.000 Bucine 105 mq - 1 Bagni Appartamento Rif. A4/1627 BUCINE (Levane) Appartamento in casa colonica, da restaurare, mq. 105 circa, avente ingresso indipendente, posto al piano terreno e composto da ampio ingresso, cucina, due camere da letto, bagno e piccolo...",
+   "title": "Appartamento in vendita a Bucine",
+   "url": "https://www.europa92immobiliare.it/i-24446629-vendita-appartamento-bucine/"
   },
   "8e357da6aa9ca8ab": {
    "also_on": [],
@@ -10244,6 +10280,18 @@
    "title": "Appartamento Bucine",
    "url": "https://www.abitaimmobiliare.com/immobili/9880-appartamento-bucine-pietraviva-80mq/"
   },
+  "c7ba8e51ffb3e376": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-11-19T18:07:57+00:00",
+   "id": "c7ba8e51ffb3e376",
+   "mq": 80,
+   "price": 85800,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 85.800 Capannone in vendita Rignano Sull'Arno, Via primo maggio 3 locali 80 Mq 1 bagno",
+   "title": "€ 85.800 Capannone in vendita Rignano Sull'Arno, Via primo maggio 3 locali 80 Mq 1 bagno",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/rignano-sull-arno/capannone-in-vendita-61216695"
+  },
   "c7fe1bdb869a96e0": {
    "also_on": [],
    "comune": "Greve in Chianti",
@@ -12295,6 +12343,18 @@
    "text": "in Vendita",
    "title": "Cascina/Casale/Masseria in vendita a Greve in Chianti",
    "url": "https://www.colli-toscani.com/i-1860-vendita-cascinacasalemasseria-greve-in-chianti-lamole/"
+  },
+  "f7f95123eecfd109": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-19T18:07:37+00:00",
+   "id": "f7f95123eecfd109",
+   "mq": 125,
+   "price": null,
+   "source": "Immobiliare Più",
+   "text": "V 2334 Vendita 20 Appartamento a San Giovanni Valdarno In vendita a San Giovanni Valdarno Zona Ponte Alle Forche In contesto signorile e riservato, proponiamo in vendita luminoso appartamento di circa 125 mq situato al primo piano di una palazzina ben curata in Via Porcellino 40, in una zona a pochi passi dal centro di San Giovanni Valdarno. Lâabitazione si presenta in buone condizioni ed Ã¨ com…",
+   "title": "Appartamento <span class=condizioni></span> a San Giovanni Valdarno",
+   "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2616475&language=ita"
   },
   "f803b22ea193d997": {
    "also_on": [],
