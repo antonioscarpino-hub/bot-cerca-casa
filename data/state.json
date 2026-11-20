@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-20T00:45:04+00:00",
+ "last_scrape": "2026-11-20T08:19:55+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -541,6 +541,18 @@
    "text": "230.000 € Locale in vendita a San Giovanni Valdarno San Giovanni Valdarno, nel pieno centro storico del paese e con affaccio… Scopri di più",
    "title": "Locale in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2279/"
+  },
+  "09808f9b0b880ddb": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-20T08:17:30+00:00",
+   "id": "09808f9b0b880ddb",
+   "mq": null,
+   "price": 90000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Ampio Appartamento in Vendita a Montevarchi – Levanella Montevarchi rif: 8693 90 2 4 € 90.000 dettagli",
+   "title": "Ampio Appartamento in Vendita a Montevarchi – Levanella",
+   "url": "https://centroimmobiliare.com/immobili/ampio-appartamento-in-vendita-a-montevarchi-levanella/"
   },
   "0a5ce945984a6207": {
    "also_on": [],
@@ -3220,6 +3232,18 @@
    "title": "Unifamiliare Laterina Pergine Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9884-unifamiliare-laterina-pergine-valdarno-pergine-220mq/"
   },
+  "4044e3bc2508bff3": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-20T08:17:12+00:00",
+   "id": "4044e3bc2508bff3",
+   "mq": null,
+   "price": 138000,
+   "source": "Abita",
+   "text": "9888 Appartamento Montevarchi 75 m 2 con giardino privato RIF. 9888 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Montevarchi, zona ginestra, vi proponiamo appartamento in bifamiliare posto al piano 3 locali 2 camere 1 bagno 75 m 2 1 € 138.000 Novità",
+   "title": "Appartamento Montevarchi",
+   "url": "https://www.abitaimmobiliare.com/immobili/9888-appartamento-montevarchi-ginestra-75mq/"
+  },
   "40c8f504ad029555": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -5619,6 +5643,18 @@
    "text": "9873 Unifamiliare Reggello NOSTRA ESCLUSIVA 125 m 2 con giardino privato e posto auto RIF. 9873 Villetta indipendente di nuova costruzione in classe energetica A – Vaggio, Reggello. In località Vaggio, nel comune di Reggello, in zona residenziale, Immobile Classe A3 5 locali 3 camere 3 bagni 125 m 2 1 € 435.000 Novità",
    "title": "Unifamiliare Reggello",
    "url": "https://www.abitaimmobiliare.com/immobili/9873-unifamiliare-reggello-vaggio-125mq/"
+  },
+  "69b2b4fa803662b5": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-20T08:17:30+00:00",
+   "id": "69b2b4fa803662b5",
+   "mq": null,
+   "price": 88000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Montevarchi zona giglio nostra ESCLUSIVA Montevarchi rif: 8694 62 2 3 1 € 88.000 dettagli",
+   "title": "Montevarchi zona giglio nostra ESCLUSIVA",
+   "url": "https://centroimmobiliare.com/immobili/montevarchi-zona-giglio-nostra-esclusiva-2/"
   },
   "6a780807ef712987": {
    "also_on": [],
@@ -8179,6 +8215,18 @@
    "text": "in Vendita Cod. 272 Appartamento in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno centro Figline Valdarno centro storico in piccolo condominio appartamento COMPLETAMENTE DA RISTRUTTURARE disposto su tre livelli per un totale di mq 143 circa l'immobile è posto al secondo piano ed e composto da ingresso cucina due camere consecutive bagno al piano superiore sempre cucina due camere c…",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1345-vendita-appartamento-figline-e-incisa-valdarno-centro/"
+  },
+  "9ab5effa67174db5": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-20T08:19:51+00:00",
+   "id": "9ab5effa67174db5",
+   "mq": null,
+   "price": 185000,
+   "source": "Valdarno Affari",
+   "text": "Appartamento in vendita a San Giovanni Valdarno 0 185.000 € Vendita",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2410/"
   },
   "9b35f551dad59bf3": {
    "also_on": [],
