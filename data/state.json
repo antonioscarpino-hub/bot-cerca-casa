@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-20T08:19:55+00:00",
+ "last_scrape": "2026-11-20T17:05:07+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -12559,6 +12559,18 @@
    "text": "125.000 € Appartamento in vendita a Cavriglia Castelnuovo dei Sabbioni Via Giovanni XXIII, IN ESCLUSIVA VALDARNO AFFARI, vendiamo luminoso… Scopri di più",
    "title": "Appartamento in vendita a Cavriglia",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2159/"
+  },
+  "fc301d89f4d49bc2": {
+   "also_on": [],
+   "comune": "Castelfranco Piandiscò",
+   "first_seen": "2026-11-20T17:04:39+00:00",
+   "id": "fc301d89f4d49bc2",
+   "mq": 168,
+   "price": 125000,
+   "source": "Soges",
+   "text": "Vendita 125.000 € Terratetto Castelfranco Piandiscò - San Miniato 4 Camere 1 Bagno 168 mq",
+   "title": "Vendita 125.000 € Terratetto Castelfranco Piandiscò - San Miniato 4 Camere 1 Bagno 168 mq",
+   "url": "https://www.soges.it/prodotto/terratetto-in-vendita-a-castelfranco-piandisco-40434/"
   },
   "fc544a7da6e84150": {
    "also_on": [],
