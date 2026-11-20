@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-19T18:10:32+00:00",
+ "last_scrape": "2026-11-20T00:45:04+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -2125,6 +2125,18 @@
    "text": "San Giovanni Valdarno (AR) Commerciale Rif. F80 Zona oltrarno, VENDESI bel fondo commerciale con una metratura di 80 mq adatto anche come ufficio o studio professionale, composto da due ambienti (divisibili), archivio e servizio … 5 Aprile 2014 in Immobli commerciali .",
    "title": "San Giovanni Valdarno (AR) Commerciale Rif. F80",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=733"
+  },
+  "2b2472a80318f271": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-20T00:44:06+00:00",
+   "id": "2b2472a80318f271",
+   "mq": 265,
+   "price": 425000,
+   "source": "Europa 92 Immobiliare Centro Casa",
+   "text": "Vendita € 425.000 Montevarchi 265 mq - 3 Bagni Villetta bifamiliare Rif. B/2114 MONTEVARCHI (Pestello) In zona residenziale e tranquilla, vendesi in Villa bifamiliare un’unità per civile abitazione mq. 265 circa, posta al piano primo ed ultimo, con affacci su 4 lati, avente ingresso...",
+   "title": "Villetta bifamiliare in vendita a Montevarchi",
+   "url": "https://www.europa92immobiliare.it/i-37524461-vendita-villetta-bifamiliare-montevarchi/"
   },
   "2b2aee546a624286": {
    "also_on": [],
@@ -4359,6 +4371,18 @@
    "text": "Lotto edificabile con 1.500 mc di volumetria 165.000 €",
    "title": "Lotto edificabile con 1.500 mc di volumetria 165.000 €",
    "url": "https://www.chiantipropertygroup.com/immobili/terreno-edificabile-in-vendita-a-gaiole-in-chianti-1-500-mc-residenziali/"
+  },
+  "535b3428ed6956a9": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-20T00:44:06+00:00",
+   "id": "535b3428ed6956a9",
+   "mq": null,
+   "price": 150000,
+   "source": "Europa 92 Immobiliare Centro Casa",
+   "text": "Vendita € 150.000 Figline e Incisa Valdarno Terreno Edificabile Rif. P/2050 FIGLINE V. NO (Scampata) Vendesi terreno edificabile urbanizzato, mq. 786 circa per realizzare una superficie di civile abitazione s. u. l. di 267,85, altezza massima 7,5 m. Euro 150.000 tratt. li RIF....",
+   "title": "Terreno Edificabile in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.europa92immobiliare.it/i-33619131-vendita-terreno-edificabile-figline-e-incisa-valdarno/"
   },
   "53a015fa9431f74f": {
    "also_on": [],
