@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-21T04:05:59+00:00",
+ "last_scrape": "2026-11-21T12:52:14+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1970,6 +1970,18 @@
    "title": "SAN CLEMENTE - LUMINOSO 4 VANI CON TERRAZZA E POSTO AUTO",
    "url": "https://www.caseditoscana.com/ita/immobile/0-4/1161-san-clemente---luminoso-4-vani-con-terrazza-e-posto-auto.html"
   },
+  "277428c17b10d32e": {
+   "also_on": [],
+   "comune": "Terranuova Bracciolini",
+   "first_seen": "2026-11-21T12:49:59+00:00",
+   "id": "277428c17b10d32e",
+   "mq": null,
+   "price": 137000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Terranuova B.ni Terranuova Bracciolini rif: 5349 125 € 137.000 dettagli",
+   "title": "Terranuova B.ni",
+   "url": "https://centroimmobiliare.com/immobili/terranuova-b-ni-2/"
+  },
   "27dd9ccbbbe907de": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -3244,6 +3256,18 @@
    "title": "Appartamento Montevarchi",
    "url": "https://www.abitaimmobiliare.com/immobili/9888-appartamento-montevarchi-ginestra-75mq/"
   },
+  "40b144c5569bc2ef": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-21T12:51:57+00:00",
+   "id": "40b144c5569bc2ef",
+   "mq": 210,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Villetta a Schiera Reggello 210 mq con giardino privato e garage Incisa Valdarno (pressi) – in zona residenziale villetta angolare di ampia metratura con ingresso indipendente. Composta al pian terreno da ampio soggiorno, cucina, 210 mq 8 locali 5 camere 2964 € 350.000 Novità",
+   "title": "Villetta a Schiera Reggello",
+   "url": "https://www.studio21immobiliare.it/immobile/2964-villetta-a-schiera-reggello-montanino-prulli-210mq/"
+  },
   "40c8f504ad029555": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -3771,6 +3795,18 @@
    "text": "Vendita Appartamento ristrutturato, ingresso indipendente con giardino Montevarchi rif: 8644 73 2 3 1 € 175.000 dettagli",
    "title": "Appartamento ristrutturato, ingresso indipendente con giardino",
    "url": "https://centroimmobiliare.com/immobili/appartamento-ristrutturato-ingresso-indipendente-con-giardino/"
+  },
+  "4a5fd3f340a71944": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-11-21T12:49:59+00:00",
+   "id": "4a5fd3f340a71944",
+   "mq": null,
+   "price": 310000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Bucine loc Duddova NOSTRA ESCLUSIVA Bucine rif: 7102 120 3 5 2 € 310.000 dettagli",
+   "title": "Bucine loc Duddova NOSTRA ESCLUSIVA",
+   "url": "https://centroimmobiliare.com/immobili/bucine-loc-duddova-nostra-esclusiva/"
   },
   "4a828d77318747af": {
    "also_on": [],
@@ -4551,6 +4587,18 @@
    "text": "80.000 € Appartamento in vendita a San Giovanni Valdarno San Giovanni V.no via XI Febbraio, vendiamo appartamento posto al piano basso,… Scopri di più",
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2297/"
+  },
+  "560ad7fd8b74b7fc": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-21T12:49:47+00:00",
+   "id": "560ad7fd8b74b7fc",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Novità",
+   "title": "Appartamento in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1885-vendita-appartamento-figline-e-incisa-valdarno-centro/"
   },
   "560e5b8b02a34968": {
    "also_on": [],
@@ -8780,6 +8828,18 @@
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 300.000 € Terreno edificabile in vendita a Fi…",
    "url": "https://ideale.remax.it/vendita-terreno-edificabile/figline-e-incisa-valdarno/matassino-31451015-410"
   },
+  "a7760cbfffb136c2": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-21T12:49:59+00:00",
+   "id": "a7760cbfffb136c2",
+   "mq": null,
+   "price": 150000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Montevarchi pestello Montevarchi rif: 5180 212 € 150.000 dettagli",
+   "title": "Montevarchi pestello",
+   "url": "https://centroimmobiliare.com/immobili/montevarchi-pestello/"
+  },
   "a7ac6824183fbbae": {
    "also_on": [],
    "comune": "Figline e Incisa Valdarno",
@@ -8839,6 +8899,18 @@
    "text": "RIF. 2582 Tenuta storica nel Chianti Vai alla scheda € 2.600.000 Tenuta storica nel Chianti close € 2.600.000",
    "title": "Vai alla scheda",
    "url": "https://www.toskana.it/proprieta_in_toscana/657/tenuta-storica-nel-chianti"
+  },
+  "a91e00948245bccf": {
+   "also_on": [],
+   "comune": "Cavriglia",
+   "first_seen": "2026-11-21T12:51:57+00:00",
+   "id": "a91e00948245bccf",
+   "mq": 365,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Colonica Cavriglia 365 mq con giardino privato e garage Castelnuovo dei Sabbioni, ampia colonica completamente indipendente oltre annessi e terreno (uliveta – bosco – seminativo) di circa 4 ettari. Accesso da 365 mq 13 locali 3 camere 2959 € 890.000 Novità",
+   "title": "Colonica Cavriglia",
+   "url": "https://www.studio21immobiliare.it/immobile/2959-colonica-cavriglia-castelnuovo-dei-sabbioni-365mq/"
   },
   "a9597e84048b05b5": {
    "also_on": [],
@@ -9487,6 +9559,18 @@
    "text": "Primo piano Esclusiva Cavriglia, Poggio al Molino Cavriglia Case coloniche In località Poggio al Molino, appena fuori da Cavriglia, vendiamo bellissima colonica in pietra composta da 2 appartamenti, oltre a garage, magazzino e resede. L'appartamento al piano terreno, con accesso indipendente, è composto da cucina abitabile, soggiorno, bagno, 2 camere, 2 ripostigli ed un bellissimo terrazzo panoram…",
    "title": "Primo piano Esclusiva Cavriglia, Poggio al Molino Cavriglia Case coloniche In località Poggio al Molino, appena fuori da…",
    "url": "https://www.immobiliarebalsimelli.net/immobili/cavriglia-849-1526"
+  },
+  "b867609c3fe24cbf": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-21T12:49:59+00:00",
+   "id": "b867609c3fe24cbf",
+   "mq": null,
+   "price": 165000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Appartamento in Vendita a Montevarchi zona piscina – Ottima Opportunità! Montevarchi rif: 8030 120 3 5 2 € 165.000 dettagli",
+   "title": "Appartamento in Vendita a Montevarchi zona piscina – Ottima Opportunità!",
+   "url": "https://centroimmobiliare.com/immobili/appartamento-in-vendita-a-montevarchi-zona-piscina-ottima-opportunita/"
   },
   "b875332f311f7a1d": {
    "also_on": [],
@@ -10940,6 +11024,18 @@
    "title": "Appartamento in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2392/"
   },
+  "d43f2a04d86887ff": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-21T12:49:59+00:00",
+   "id": "d43f2a04d86887ff",
+   "mq": null,
+   "price": 140000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Appartamento Bilocale in Vendita a San Giovanni Valdarno – Oltrarno San Giovanni Valdarno rif: 8333 56 1 2 1 € 140.000 dettagli",
+   "title": "Appartamento Bilocale in Vendita a San Giovanni Valdarno – Oltrarno",
+   "url": "https://centroimmobiliare.com/immobili/appartamento-bilocale-in-vendita-a-san-giovanni-valdarno-oltrarno/"
+  },
   "d44da4aab9a4cc4b": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -11983,6 +12079,18 @@
    "text": "Appartamento in vendita a Figline e Incisa Valdarno 0 230.000 € Vendita",
    "title": "Appartamento in vendita a Figline e Incisa Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2398/"
+  },
+  "ebbaac89e2d6bd5b": {
+   "also_on": [],
+   "comune": "Bucine",
+   "first_seen": "2026-11-21T12:50:23+00:00",
+   "id": "ebbaac89e2d6bd5b",
+   "mq": 120,
+   "price": 259000,
+   "source": "Tecnocasa Studio San Giovanni Valdarno",
+   "text": "Virtual tour € 259.000 Porzione di bifamiliare in vendita Bucine, Via Vepri - Bellavista 5 locali 120 Mq 2 bagni",
+   "title": "Virtual tour € 259.000 Porzione di bifamiliare in vendita Bucine, Via Vepri - Bellavista 5 locali 120 Mq 2 bagni",
+   "url": "https://sangiovannivaldarno1.tecnocasa.it/bucine/ville-in-vendita-61301802"
   },
   "ebe3de384a83d1e1": {
    "also_on": [],
