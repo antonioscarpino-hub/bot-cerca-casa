@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-20T23:13:58+00:00",
+ "last_scrape": "2026-11-21T04:05:59+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -11959,6 +11959,18 @@
    "text": "Cavriglia (AR) loc Santa Barbara 4 vani Rif. 1641 € 120.000,00 Al piano terra rialzato di palazzina bifamiliare, vendesi appartamento in buone condizioni abitative composto da cucina abitabile … 49 minuti fa 19 Ottobre 2026 in 3/4 vani .",
    "title": "Cavriglia (AR) loc Santa Barbara 4 vani Rif. 1641 € 120.000,00",
    "url": "https://www.armandobecattiniimmobiliare.it/?p=6680"
+  },
+  "eb6a58294b32abda": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-21T04:05:56+00:00",
+   "id": "eb6a58294b32abda",
+   "mq": null,
+   "price": 190000,
+   "source": "Valdarno Affari",
+   "text": "Appartamento in vendita a San Giovanni Valdarno 0 190.000 € Vendita",
+   "title": "Appartamento in vendita a San Giovanni Valdarno",
+   "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2411/"
   },
   "eb6fa64d6bdd8a47": {
    "also_on": [],
