@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-22T00:19:35+00:00",
+ "last_scrape": "2026-11-22T07:10:54+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -8755,6 +8755,18 @@
    "text": "A1061 Vendita 24 Appartamento primo piano In vendita a San Giovanni Valdarno Zona Centro In vendita a San Giovanni Valdarno, in ottima posizione vicino a tutti i principali servizi, proponiamo un ampio appartamento di 103 mq situato al primo piano. Questo appartamento Ã¨ composto da 4 vani ben distribuiti, comprendenti 2 spaziose camere da letto, un bagno, e cucina abitabile. 103 Mq - 4 Vani â¬ 1…",
    "title": "Appartamento primo piano",
    "url": "https://www.tdsimmobiliare.it/web/immobile_dettaglio.asp?cod_annuncio=2529705&language=ita"
+  },
+  "a5bc800d18dd6286": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-22T07:08:16+00:00",
+   "id": "a5bc800d18dd6286",
+   "mq": null,
+   "price": 114000,
+   "source": "Abita",
+   "text": "9889 Appartamento Bucine NOSTRA ESCLUSIVA 100 m 2 ingresso indipendente RIF. 9889 – Per maggiori info contattare sede di Montevarchi tel. 055.93.33.734 Nel cuore del centro storico, in ex “Pizzicheria”, proponiamo in vendita 3 locali 2 camere 1 bagno 100 m 2 1 € 114.000 Novità",
+   "title": "Appartamento Bucine",
+   "url": "https://www.abitaimmobiliare.com/immobili/9889-appartamento-bucine-mercatale-100mq/"
   },
   "a5e8de97df4e8bf6": {
    "also_on": [],
