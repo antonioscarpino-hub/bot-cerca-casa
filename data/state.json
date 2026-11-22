@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-22T15:30:45+00:00",
+ "last_scrape": "2026-11-22T21:18:39+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -961,6 +961,18 @@
    "text": "Rif.: 1/0255 0 media APPARTAMENTI - INGRESSO INDIPENDENTE RIGNANO SULL'ARNO - RIGNANO SULL'ARNO (FI) in posizione tranquilla ad 1 km da rignano proponiamo appartamento disposto su due livelli con ingresso indipendente composto da ingresso soggiorno-pranzo con camino, angolo cottura, due camere, studio, ... Vani: 4 Mq: 80 Prezzo vendita: â¬ 120.000",
    "title": "RIGNANO SULL'ARNO - RIGNANO SULL'ARNO (FI)",
    "url": "https://www.nextimmobiliare.it/0002/it/dettaglio.asp?idm=0002-1-025546322&pag=1&ID_A004=0&ID_A012=0&ID_A016=0&ID_A006=0&ID_A007=0&ID_A008=0&ID_A009=0&ID_A011=0&ID_A056=0&cifra1=0&cifra2=999999999&vani1=0&vani2=9999&superficie1=0&superficie2=99999999"
+  },
+  "11e5c6b466d30b68": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-22T21:17:35+00:00",
+   "id": "11e5c6b466d30b68",
+   "mq": 95,
+   "price": 148000,
+   "source": "CambriGroup Servizi Immobiliari",
+   "text": "Figline valdarno via evangelisti Appartamento zona San Biagio composto da soggiorno sala da pranzo cucina due camere matrimoniali doppi servizi ripostiglio due terrazzi garage .. VENDESI Quadrilocale in vendita in Via Evangelisti Figline V.no 95 m2 4 Rooms 2 Bedrooms 2 Bathrooms €148.000",
+   "title": "Figline valdarno via evangelisti Appartamento zona San Biagio composto da soggiorno sala da pranzo cucina due camere mat…",
+   "url": "https://www.cambrigroup.it/property/quadrilocale-in-vendita-in-via-evangelisti-figline-v-no/"
   },
   "121a40321a556fe1": {
    "also_on": [],
