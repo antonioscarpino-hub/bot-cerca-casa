@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-23T01:52:59+00:00",
+ "last_scrape": "2026-11-23T10:36:00+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -7097,6 +7097,18 @@
    "text": "villetta in vendita a San Giovanni Valdarno 0 490.000 € Vendita",
    "title": "villetta in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2188/"
+  },
+  "859f85d07af94244": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-11-23T10:33:45+00:00",
+   "id": "859f85d07af94244",
+   "mq": null,
+   "price": 170000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Casa a Schiera in Vendita a Rignano Sull’Arno- Esclusiva Rignano Sull'Arno rif: 8453 121 2 4 1 € 170.000 dettagli",
+   "title": "Casa a Schiera in Vendita a Rignano Sull’Arno- Esclusiva",
+   "url": "https://centroimmobiliare.com/immobili/casa-a-schiera-in-vendita-a-rignano-sullarno-esclusiva/"
   },
   "85c8a4d461cf7c04": {
    "also_on": [],
