@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-23T10:36:00+00:00",
+ "last_scrape": "2026-11-23T22:16:10+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -12619,6 +12619,18 @@
    "text": "in Vendita",
    "title": "Casa colonica in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1834-vendita-casa-colonica-figline-e-incisa-valdarno-ponte-agli-stolli/"
+  },
+  "f8cf4f5ac46c9eab": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-23T22:13:33+00:00",
+   "id": "f8cf4f5ac46c9eab",
+   "mq": 250,
+   "price": 450000,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita Cod. 203 Cascina/Casale/Masseria in vendita a Figline e Incisa Valdarno Figline e Incisa Valdarno Coop Incisa Valdarno Loppiano posta in zona panoramica ottima esposizione casa colonica indipendente su 4 lati per un totale di mq 250 la casa si dispone in due unita immobiliari indipendenti, la prima si dispone in soggiorno ampia cucina abitabile coi camino al piano primo disimpegno due c…",
+   "title": "Cascina/Casale/Masseria in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1602-vendita-cascinacasalemasseria-figline-e-incisa-valdarno-coop/"
   },
   "f8dfed928d347964": {
    "also_on": [],
