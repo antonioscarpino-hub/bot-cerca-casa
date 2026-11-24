@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-24T06:12:11+00:00",
+ "last_scrape": "2026-11-24T17:59:42+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -709,6 +709,18 @@
    "text": "Vendita € 133.000 Greve in Chianti 74 mq - 1 Camere - 1 Bagni Appartamento Rif. A3/1985 GREVE IN CHIANTI (Dudda) NO SPESE DI AGENZIA: In villa padronale vendesi appartamento arredato posto al piano rialzato, avente ingresso indipendente e completamente ristrutturato, composto da soggiorno,...",
    "title": "Appartamento in vendita a Greve in Chianti",
    "url": "https://www.europa92immobiliare.it/i-29993352-vendita-appartamento-greve-in-chianti/"
+  },
+  "0be15a1778108fdb": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-24T17:57:44+00:00",
+   "id": "0be15a1778108fdb",
+   "mq": 47,
+   "price": 40000,
+   "source": "Tecnocasa Impresa Valdarno",
+   "text": "€ 40.000 Prezzo aggiornato Negozio in vendita Montevarchi, Via Giacomo Puccini 47 Mq 1 bagno",
+   "title": "€ 40.000 Prezzo aggiornato Negozio in vendita Montevarchi, Via Giacomo Puccini 47 Mq 1 bagno",
+   "url": "https://figlineeincisavaldarno1.tecnocasaimpresa.it/montevarchi/negozio-in-vendita-61232466"
   },
   "0c4ba31cecb29a93": {
    "also_on": [],
@@ -9751,6 +9763,18 @@
    "text": "",
    "title": "dettaglio.php?id=416",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=416"
+  },
+  "bac4a1e63b0497e9": {
+   "also_on": [],
+   "comune": "Greve in Chianti",
+   "first_seen": "2026-11-24T17:59:33+00:00",
+   "id": "bac4a1e63b0497e9",
+   "mq": null,
+   "price": 2200000,
+   "source": "Toskana.it by Studio Montagliari",
+   "text": "RIF. 3343 Borgo storico diviso in appartamenti nel Chianti Classico Vai alla scheda € 2.200.000 Borgo storico diviso in appartamenti nel Chianti Classico close € 2.200.000",
+   "title": "Vai alla scheda",
+   "url": "https://www.toskana.it/proprieta_in_toscana/762/borgo-storico-diviso-in-appartamenti-nel-chianti-classico"
   },
   "bad9aaeb7008440a": {
    "also_on": [],
