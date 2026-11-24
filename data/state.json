@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-23T22:16:10+00:00",
+ "last_scrape": "2026-11-24T06:12:11+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1909,6 +1909,18 @@
    "text": "Vendita Prestigiosa villetta di testa in vendita a Levane, Montevarchi Montevarchi rif: 8653 222 4 6 € 340.000 dettagli",
    "title": "Prestigiosa villetta di testa in vendita a Levane, Montevarchi",
    "url": "https://centroimmobiliare.com/immobili/prestigiosa-villetta-di-testa-in-vendita-a-levane-montevarchi/"
+  },
+  "2609324d602a48ff": {
+   "also_on": [],
+   "comune": "Montevarchi",
+   "first_seen": "2026-11-24T06:10:10+00:00",
+   "id": "2609324d602a48ff",
+   "mq": null,
+   "price": 140000,
+   "source": "Centro Immobiliare Valdarno",
+   "text": "Vendita Ampio Appartamento Pentalocale con Giardino e Garage a Montevarchi – Levane Bucine rif: 8695 123 3 5 2 € 140.000 dettagli",
+   "title": "Ampio Appartamento Pentalocale con Giardino e Garage a Montevarchi – Levane",
+   "url": "https://centroimmobiliare.com/immobili/ampio-appartamento-pentalocale-con-giardino-e-garage-a-montevarchi-levane/"
   },
   "26670743e15e1a54": {
    "also_on": [],
@@ -8479,6 +8491,18 @@
    "text": "A/2725 Vendita 24 Terratetto ottime condizioni a Figline e Incisa Valdarno In vendita a Figline e Incisa Valdarno Zona Incisa in Val d'Arno Rif.A/2725 Incisa Valdarno, vicinanze casello uscita autostrada, in zona residenziale, posizione tranquilla con tutti i servizi facilmente raggiungibili, proponiamo bella villetta terratetto, caposchiera libera su tre lati, composta soggiorno cucina al piano t…",
    "title": "Terratetto <span class=condizioni>ottime condizioni</span> a Figline e Incisa Valdarno",
    "url": "https://www.valdarnocasa.it/web/immobile_dettaglio.asp?cod_annuncio=2594449&language=ita"
+  },
+  "9fb7bbcf38baa219": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-24T06:09:54+00:00",
+   "id": "9fb7bbcf38baa219",
+   "mq": null,
+   "price": 150000,
+   "source": "Abita",
+   "text": "9890 Appartamento San Giovanni Valdarno 45 m 2 con ascensore con posto auto Immobile GREEN di nuova ristrutturazione con Terrazza a San Giovanni Valdarno In zona Oltrarno, a pochi passi da tutti i principali servizi, proponiamo in vendita un Immobile Classe A1 2 locali 1 camera 1 bagno 45 m 2 1 € 150.000 Consigliato Novità",
+   "title": "Appartamento San Giovanni Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9890-appartamento-san-giovanni-valdarno-oltrarno-45mq/"
   },
   "9fd70605b8ad33e4": {
    "also_on": [],
