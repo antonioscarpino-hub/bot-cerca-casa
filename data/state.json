@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-25T11:30:47+00:00",
+ "last_scrape": "2026-11-25T20:41:30+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1298,6 +1298,18 @@
    "title": "VENDITA Terratetto Montevarchi (AR)",
    "url": "https://www.immobiliarezaffira.com/sito/SchedaImmobile.asp?id=895"
   },
+  "18e896bbe59c963d": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-25T20:39:01+00:00",
+   "id": "18e896bbe59c963d",
+   "mq": 55,
+   "price": null,
+   "source": "Immobiliare Più",
+   "text": "V 2236 Vendita 29 Appartamento ottime condizioni a San Giovanni Valdarno In vendita a San Giovanni Valdarno Zona Centro Nel cuore di San Giovanni Valdarno, in posizione centrale e comoda a tutti i principali servizi, proponiamo in vendita un elegante appartamento in ottime condizioni, disposto su due livelli. Lâabitazione, di circa 55 mq, si trova al secondo piano di un piccolo contesto condomin…",
+   "title": "Appartamento <span class=condizioni>ottime condizioni</span> a San Giovanni Valdarno",
+   "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2618002&language=ita"
+  },
   "1947caae5a75fe2c": {
    "also_on": [],
    "comune": "Reggello",
@@ -1381,6 +1393,18 @@
    "text": "9858 Appartamento San Giovanni Valdarno 145 m 2 con garage A San Giovanni Valdarno, in zona residenziale tranquilla e ben servita, comoda per raggiungere tutti i principali servizi, proponiamo in vendita un ampio appartamento 7 locali 3 camere 2 bagni 145 m 2 1 € 180.000 Novità",
    "title": "Appartamento San Giovanni Valdarno",
    "url": "https://www.abitaimmobiliare.com/immobili/9858-appartamento-san-giovanni-valdarno-coop-145mq/"
+  },
+  "1b15c618d9c5973b": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-25T20:39:01+00:00",
+   "id": "1b15c618d9c5973b",
+   "mq": 45,
+   "price": null,
+   "source": "Immobiliare Più",
+   "text": "V 2335 Vendita 18 Appartamento ottime condizioni a San Giovanni Valdarno In vendita a San Giovanni Valdarno Zona Centro Nel cuore di San Giovanni Valdarno, in posizione centrale e comoda per raggiungere a piedi tutti i principali servizi, proponiamo in vendita grazioso appartamento di circa 45 mq, situato al primo piano di un piccolo contesto condominiale. Lâabitazione, in ottime condizioni e ve…",
+   "title": "Appartamento <span class=condizioni>ottime condizioni</span> a San Giovanni Valdarno",
+   "url": "https://www.immobiliarepiu.it/web/immobile_dettaglio.asp?cod_annuncio=2617947&language=ita"
   },
   "1bfaf575ee5b3847": {
    "also_on": [],
@@ -11779,6 +11803,18 @@
    "text": "€ 370.000 Villa in vendita a Figline e Incisa Valdarno - Cesto FIGLINE - VILLA INDIPENDENTE IN VENDITAIn una delle zone più apprezzate del paese, proponiamo in vendita splendida villetta indipendente con giardino... 178 mq 3 Camere 3 Bagni Cod. 145 Dettagli",
    "title": "Villa in vendita a Figline e Incisa Valdarno",
    "url": "https://www.cadesoimmobiliare.it/i-145-vendita-villa-figline-e-incisa-valdarno-cesto/"
+  },
+  "e122a5bea22a0573": {
+   "also_on": [],
+   "comune": "Rignano sull'Arno",
+   "first_seen": "2026-11-25T20:40:56+00:00",
+   "id": "e122a5bea22a0573",
+   "mq": null,
+   "price": null,
+   "source": "Next Immobiliare",
+   "text": "Rif.: 1/0306 20 media APPARTAMENTI - IN PICCOLO CONDOMINIO RIGNANO SULL'ARNO - RIGNANO SULL'ARNO (FI) nel centro di rignano in zonatranquilla all'interno di una piccola palazzina proponiamo appartamento di mq.65 composto da ingresso, cucina abitabile, due camere da letto, bagno, ampio soppalco. tutt in ... Vani: 3 Mq: 65 Prezzo vendita: â¬ 133.000",
+   "title": "RIGNANO SULL'ARNO - RIGNANO SULL'ARNO (FI)",
+   "url": "https://www.nextimmobiliare.it/0002/it/dettaglio.asp?idm=0002-1-030646113&pag=1&ID_A004=0&ID_A012=0&ID_A016=0&ID_A006=0&ID_A007=0&ID_A008=0&ID_A009=0&ID_A011=0&ID_A056=0&cifra1=0&cifra2=999999999&vani1=0&vani2=9999&superficie1=0&superficie2=99999999"
   },
   "e1327de2944bb26d": {
    "also_on": [],
