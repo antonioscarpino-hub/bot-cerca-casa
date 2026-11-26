@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-26T12:55:42+00:00",
+ "last_scrape": "2026-11-26T22:15:17+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -529,6 +529,18 @@
    "text": "Vendita Elegante pasticceria, caffè bar in vendita nel centro di San Giovanni Valdarno San Giovanni Valdarno rif: 8691 200 € 85.000 dettagli",
    "title": "Elegante pasticceria, caffè bar in vendita nel centro di San Giovanni Valdarno",
    "url": "https://centroimmobiliare.com/immobili/elegante-pasticceria-caffe-bar-in-vendita-nel-centro-di-san-giovanni-valdarno/"
+  },
+  "094e15d05e9cd35d": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-26T22:13:57+00:00",
+   "id": "094e15d05e9cd35d",
+   "mq": 79,
+   "price": 208000,
+   "source": "BluStudio Immobiliare",
+   "text": "VENDITA 208.000 € FIGLINE E INCISA VALDARNO APPARTAMENTO in VENDITA RIF: V-2473 Nostra Esclusiva - Figline e Incisa V.no, centralissimo , proponiamo in vendita in bel condominio dotato di ascensore, appartamento posto al piano ter... 79 Mq superficie 1 camere 1 bagni 3 locali Vedi l'immobile",
+   "title": "APPARTAMENTO in VENDITA",
+   "url": "https://www.blustudioimmobiliare.it/APPARTAMENTO-VENDITA-FIGLINE-E-INCISA-VALDARNO-_265206.html"
   },
   "097506ad57fa8243": {
    "also_on": [],
