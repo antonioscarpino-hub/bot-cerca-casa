@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-27T04:22:18+00:00",
+ "last_scrape": "2026-11-27T14:08:26+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -3352,6 +3352,18 @@
    "title": "Attico in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2313/"
   },
+  "3fe12b28df91e842": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-27T14:08:10+00:00",
+   "id": "3fe12b28df91e842",
+   "mq": 210,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Villetta a Schiera Reggello 210 mq con giardino privato e garage Incisa Valdarno (pressi) – in zona residenziale villetta angolare di ampia metratura con ingresso indipendente. Composta al pian terreno da ampio soggiorno, cucina, 210 mq 8 locali 5 camere 2967 € 370.000 Novità",
+   "title": "Villetta a Schiera Reggello",
+   "url": "https://www.studio21immobiliare.it/immobile/2967-villetta-a-schiera-reggello-montanino-prulli-210mq/"
+  },
   "3ff7a7b26d5f3e1f": {
    "also_on": [],
    "comune": "Loro Ciuffenna",
@@ -6150,6 +6162,18 @@
    "title": "Fondo Artigianale in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-1755/"
   },
+  "6e4e2d435d8d3e73": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-27T14:07:30+00:00",
+   "id": "6e4e2d435d8d3e73",
+   "mq": 120,
+   "price": 230000,
+   "source": "Europa 92 Immobiliare Centro Casa",
+   "text": "Vendita € 230.000 Reggello 120 mq - 2 Bagni Appartamento Rif. A4/2116 MATASSINO (Viesca) In casa padronale vendesi caratteristico 4 vani composto da ingresso, grande soggiorno con camino e soppalco, cucina, due camere da letto, doppi servizi e terrazza oltre giardino. Piano...",
+   "title": "Appartamento in vendita a Reggello",
+   "url": "https://www.europa92immobiliare.it/i-37616555-vendita-appartamento-reggello/"
+  },
   "6e6d44abaa73b2b4": {
    "also_on": [],
    "comune": "Cavriglia",
@@ -7709,6 +7733,18 @@
    "text": "in Vendita",
    "title": "Cascina/Casale/Masseria in vendita a Figline e Incisa Valdarno",
    "url": "https://www.colli-toscani.com/i-1641-vendita-cascinacasalemasseria-figline-e-incisa-valdarno-centro/"
+  },
+  "8bad0b0a4603fd64": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-27T14:06:19+00:00",
+   "id": "8bad0b0a4603fd64",
+   "mq": 85,
+   "price": 218000,
+   "source": "Tecnocasa Studio Valdarno",
+   "text": "Virtual tour € 218.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via del Cesto - Madonna Del Cesto 4 locali 85 Mq 2 bagni",
+   "title": "Virtual tour € 218.000 Quadrilocale in vendita Figline E Incisa Valdarno, Via del Cesto - Madonna Del Cesto 4 locali 85…",
+   "url": "https://figlineeincisavaldarno1.tecnocasa.it/figline-e-incisa-valdarno/appartamenti-in-vendita-61306336"
   },
   "8bb7e0133ebcd112": {
    "also_on": [],
@@ -12727,6 +12763,18 @@
    "text": "365.000 € villetta in vendita a San Giovanni Valdarno San Giovanni Valdarno, prima periferia, in ottima zona residenziale e di recente… Scopri di più",
    "title": "villetta in vendita a San Giovanni Valdarno",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-2332/"
+  },
+  "f0e9f828867aea77": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-27T14:08:10+00:00",
+   "id": "f0e9f828867aea77",
+   "mq": 45,
+   "price": null,
+   "source": "Studio 21 Immobiliare",
+   "text": "Garage-box Auto-posto Auto Figline e Incisa Valdarno 45 mq con garage Figline Valdarno, VENDESI garage di 45 mq circa nel centro storico del paese. Posto al piano seminterrato con accesso da cancello elettrico. Impianto di illuminazione 45 mq 1 locale 2962 € 35.000 Novità",
+   "title": "Garage-box Auto-posto Auto Figline e Incisa Valdarno",
+   "url": "https://www.studio21immobiliare.it/immobile/2962-garage-box-auto-posto-auto-figline-e-incisa-valdarno-centro-figline-valdarno-45mq/"
   },
   "f137a591de54c5ff": {
    "also_on": [],
