@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-26T22:15:17+00:00",
+ "last_scrape": "2026-11-27T04:22:18+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -445,6 +445,18 @@
    "text": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 310.000 € Casa indipendente in vendita a Figline e Incisa Valdarno, Ponte agli Stolli via Del Valico 1 9 loc. 9 locali 247 mq 2 bagni multipiano Multipiano",
    "title": "REMAX Ideale - San Giovanni Valdarno Piazza della Libertà Angelo Mirabelli 310.000 € Casa indipendente in vendita a Figl…",
    "url": "https://ideale.remax.it/vendita-casa-indipendente/figline-e-incisa-valdarno/ponte-agli-stolli-31451015-413"
+  },
+  "07865c42299e8a29": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-27T04:19:49+00:00",
+   "id": "07865c42299e8a29",
+   "mq": 75,
+   "price": 238000,
+   "source": "Abita",
+   "text": "9905 Appartamento Figline e Incisa Valdarno NOSTRA ESCLUSIVA 80 m 2 con giardino privato e garage RIF. 9905 A Figline Valdarno, all’interno di un caratteristico ex casale colonico, proponiamo in vendita un grazioso appartamento al piano terra di circa 75 mq, 4 locali 2 camere 1 bagno 80 m 2 1 € 238.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9905-appartamento-figline-e-incisa-valdarno-centro-80mq/"
   },
   "0814d213ef40640c": {
    "also_on": [],
@@ -4684,6 +4696,18 @@
    "title": "Ampio Garage Singolo in Vendita a Montevarchi – pressi stazione",
    "url": "https://centroimmobiliare.com/immobili/ampio-garage-singolo-in-vendita-a-montevarchi-pressi-stazione/"
   },
+  "54b47fba53906140": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-27T04:19:49+00:00",
+   "id": "54b47fba53906140",
+   "mq": null,
+   "price": 158000,
+   "source": "Abita",
+   "text": "9907 Appartamento Figline e Incisa Valdarno NOSTRA ESCLUSIVA 95 m 2 ingresso indipendente RIF. 9907 FIGLINE VALDARNO – APPARTAMENTO CON INGRESSO INDIPENDENTE E TERRAZZA ABITABILE All’interno di un caratteristico ex casale colonico, proponiamo in 5 locali 3 camere 1 bagno 95 m 2 1 € 158.000 Novità",
+   "title": "Appartamento Figline e Incisa Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9907-appartamento-figline-e-incisa-valdarno-centro-95mq/"
+  },
   "54d427c1e12f8a4c": {
    "also_on": [],
    "comune": "Montevarchi",
@@ -6329,6 +6353,18 @@
    "text": "Unifamiliare Figline e Incisa Valdarno 100 mq con giardino privato e garage Incisa Valdarno – Loppiano, zona panoramica, ex-fienile (ex-novo) di recente costruzione unifamiliare libero su 4 lati con giardino privato di circa 1000 mq. 100 mq 4 locali 2 camere 2943 € 440.000 Novità",
    "title": "Unifamiliare Figline e Incisa Valdarno",
    "url": "https://www.studio21immobiliare.it/immobile/2943-unifamiliare-figline-e-incisa-valdarno-loppiano-100mq/"
+  },
+  "72270452933b42ed": {
+   "also_on": [],
+   "comune": "San Giovanni Valdarno",
+   "first_seen": "2026-11-27T04:19:49+00:00",
+   "id": "72270452933b42ed",
+   "mq": null,
+   "price": 100000,
+   "source": "Abita",
+   "text": "9906 Colonica San Giovanni Valdarno NOSTRA ESCLUSIVA 55 m 2 con giardino privato e posto auto San Giovanni Valdarno pressi, nel comune di Terranuova Bracciolini ma a poca distanza dai principali centri abitati, vendiamo in complesso colonico immerso nella 2 locali 1 camera 1 bagno 55 m 2 2 € 100.000 Consigliato Novità",
+   "title": "Colonica San Giovanni Valdarno",
+   "url": "https://www.abitaimmobiliare.com/immobili/9906-colonica-san-giovanni-valdarno-oltrarno-55mq/"
   },
   "723eb3c5d78accd9": {
    "also_on": [],
