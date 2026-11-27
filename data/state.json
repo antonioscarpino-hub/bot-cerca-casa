@@ -12,7 +12,7 @@
    "min_mq": null
   }
  },
- "last_scrape": "2026-11-27T14:08:26+00:00",
+ "last_scrape": "2026-11-27T22:48:52+00:00",
  "listings": {
   "005d7a16686e6892": {
    "also_on": [],
@@ -1309,6 +1309,18 @@
    "text": "90.000 € Casa singola in vendita a Terranuova Bracciolini Terranuova Bracciolini, zona panoramica, vendiamo lotto di terreno 2700 mq c.a.con recupero… Scopri di più",
    "title": "Casa singola in vendita a Terranuova Bracciolini",
    "url": "https://www.valdarnoaffari.net/immobili/immobile-rif-534/"
+  },
+  "173c50fdac3d15dc": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-27T22:48:25+00:00",
+   "id": "173c50fdac3d15dc",
+   "mq": 82,
+   "price": 210000,
+   "source": "Soges",
+   "text": "Vendita 210.000 € Appartamento Reggello - Cancelli 1 Camera 2 Bagni 82 mq",
+   "title": "Vendita 210.000 € Appartamento Reggello - Cancelli 1 Camera 2 Bagni 82 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-50708/"
   },
   "18259de4dbab38d7": {
    "also_on": [],
@@ -8334,6 +8346,18 @@
    "title": "Toscana | Nel Cuore del Chianti Classico | Affascinante Casale in Posizione Riservata e Tranquilla",
    "url": "https://www.real-estate-toscana.com/web/immobile_dettaglio.asp?cod_annuncio=2574755&language=ita"
   },
+  "96707a314e9b2fd7": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-27T22:46:36+00:00",
+   "id": "96707a314e9b2fd7",
+   "mq": null,
+   "price": null,
+   "source": "Colli Toscani Immobiliare",
+   "text": "in Vendita",
+   "title": "Casa singola in vendita a Figline e Incisa Valdarno",
+   "url": "https://www.colli-toscani.com/i-1510-vendita-casa-singola-figline-e-incisa-valdarno-viale-a-monte/"
+  },
   "9675f9cac01f9867": {
    "also_on": [],
    "comune": "Castelfranco Piandiscò",
@@ -10580,6 +10604,18 @@
    "title": "Importante proprietà artigianale/commerciale con ampi spazi esterni Trattativa riservata €",
    "url": "https://www.chiantipropertygroup.com/immobili/importante-proprieta-artigianale-commerciale-con-ampi-spazi-esterni/"
   },
+  "c2b97fb9aca91b26": {
+   "also_on": [],
+   "comune": "Reggello",
+   "first_seen": "2026-11-27T22:48:25+00:00",
+   "id": "c2b97fb9aca91b26",
+   "mq": 125,
+   "price": 310000,
+   "source": "Soges",
+   "text": "Vendita 310.000 € Appartamento Reggello - Cancelli 2 Camere 2 Bagni 125 mq",
+   "title": "Vendita 310.000 € Appartamento Reggello - Cancelli 2 Camere 2 Bagni 125 mq",
+   "url": "https://www.soges.it/prodotto/appartamento-in-vendita-a-reggello-50716/"
+  },
   "c35c708b0f8311a0": {
    "also_on": [],
    "comune": "Reggello",
@@ -11731,6 +11767,18 @@
    "text": "Riferimento 395 | Vendita Appartamento rustico a Lucolena (Chianti) Comune: Figline Valdarno Zona: Ponte Agli Stolli LUCOLENA - guarda video tour - nel centro del caratteristico borgo, in antica palazzina storica senza nessun condominio e vicino a tutti i servizi principali, proponiamo questo caratteristico 3 vani di circa 60 mq ristrutturato con ottime rifiniture rustiche da amatori quali travi e…",
    "title": "Appartamento rustico a Lucolena (Chianti)",
    "url": "https://www.immobiliare-firenze.com/it/dettaglio.php?id=395"
+  },
+  "dc6480496a8250a7": {
+   "also_on": [],
+   "comune": "Figline e Incisa Valdarno",
+   "first_seen": "2026-11-27T22:48:37+00:00",
+   "id": "dc6480496a8250a7",
+   "mq": 65,
+   "price": null,
+   "source": "Studio Ciccarelli & Partner",
+   "text": "Rif 6128 APPARTAMENTO 3 VANI SAN BIAGIO - INVESTIMENTO Figline e Incisa Valdarno Zona San Biagio â¬ 90.000 NOSTRA ESCLUSIVA APPARTAMENTO DI 3 VANI - OTTIMO FIGLINE - SAN BIAGIO Vicinissimo a tutti i servizi, proponiamo appartamento posto al secondo piano 65 Mq 3 Vani 1 1 Continua",
+   "title": "Rif 6128",
+   "url": "https://www.studiociccarelli.com/web/immobile_dettaglio.asp?cod_annuncio=2618628&language=ita"
   },
   "dcf8880876ce932d": {
    "also_on": [],
